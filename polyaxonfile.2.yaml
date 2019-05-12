@@ -1,0 +1,10 @@
+version: 1
+
+kind: experiment
+
+
+build:
+  dockerfile: dockerfile
+      
+run:
+  cmd: bin/import_cv2.py --filter_alphabet /data/common-voice/alphabet.txt /data/common-voice

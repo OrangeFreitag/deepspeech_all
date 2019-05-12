@@ -1,0 +1,15 @@
+version: 1
+
+kind: experiment
+
+environment:
+  resources:
+    gpu:
+      requests: 2
+      limits: 2
+
+build:
+  dockerfile: dockerfile
+    
+run:
+  cmd: python DeepSpeech.py --n_hidden 2048 --epochs 5 --train_files  /data/common-voice/super_train.csv --dev_files /data/common-voice/super_dev.csv --test_files /data/common-voice/super_test.csv --learning_rate 0.0001 --export_dir /data/common-voice/10052019
