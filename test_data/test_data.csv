@@ -1,0 +1,985 @@
+wav_filename,wav_filesize,transcript
+/data/shared-task/test/39535.wav,80678,is there a hairdresser
+/data/shared-task/test/39538.wav,49958,my name is barbara
+/data/shared-task/test/39539.wav,66598,i would like three tickets to london please
+/data/shared-task/test/39547.wav,41638,go in the holidays
+/data/shared-task/test/39549.wav,71078,this is my passport
+/data/shared-task/test/39550.wav,62118,the capital of spain is madrid
+/data/shared-task/test/39551.wav,45478,i go in the holidays
+/data/shared-task/test/39555.wav,67238,i want buy with pound
+/data/shared-task/test/39556.wav,93478,one musical ticket please
+/data/shared-task/test/39559.wav,96038,i would like a sunday roast
+/data/shared-task/test/39561.wav,47398,where is the zoo
+/data/shared-task/test/39562.wav,77478,where is piccadilly circus
+/data/shared-task/test/39563.wav,71078,which bus goes there
+/data/shared-task/test/39566.wav,75558,i would like bots
+/data/shared-task/test/39567.wav,72358,i want reed boats
+/data/shared-task/test/39570.wav,65958,i need a large
+/data/shared-task/test/39572.wav,66598,bedroom for two nights
+/data/shared-task/test/39573.wav,85158,i would like buy with credit card
+/data/shared-task/test/39574.wav,58278,can i have a single room
+/data/shared-task/test/39580.wav,105638,i would like a hamburger
+/data/shared-task/test/39583.wav,39718,yes i have a reservation
+/data/shared-task/test/39585.wav,71718,no i don't i do not have a reservation
+/data/shared-task/test/39586.wav,49318,a room for one week
+/data/shared-task/test/39588.wav,43558,six tickets to london
+/data/shared-task/test/39590.wav,68518,i want to leave tomorrow at eight am
+/data/shared-task/test/39591.wav,32038,my name is eric
+/data/shared-task/test/39596.wav,53158,i would like a junior suite
+/data/shared-task/test/39597.wav,43558,pay with swiss francs
+/data/shared-task/test/39601.wav,44838,is there a swimming pool
+/data/shared-task/test/39605.wav,69798,i would like to pay by post card
+/data/shared-task/test/39609.wav,42918,a twin room please
+/data/shared-task/test/39610.wav,64678,can i pay by credit card
+/data/shared-task/test/39611.wav,57638,where is the hotel restaurant
+/data/shared-task/test/39620.wav,73638,no i do not have a reservation
+/data/shared-task/test/39628.wav,41638,no i do not have a reservation
+/data/shared-task/test/39629.wav,62758,i would a room for five nights
+/data/shared-task/test/39630.wav,29478,can i pay with visa
+/data/shared-task/test/39632.wav,31398,a junior suite please
+/data/shared-task/test/39634.wav,37158,is there a hotel bar
+/data/shared-task/test/39635.wav,51238,my room is dirty
+/data/shared-task/test/39636.wav,45478,can i have a orange juice please
+/data/shared-task/test/39639.wav,93478,can i have the apple cook please
+/data/shared-task/test/39641.wav,38438,the apple pie please
+/data/shared-task/test/39642.wav,45478,can i pay with visa
+/data/shared-task/test/39648.wav,25638,how many
+/data/shared-task/test/39649.wav,108198,this jeans is too nice
+/data/shared-task/test/39650.wav,51878,two musical tickets please
+/data/shared-task/test/39652.wav,95398,i would like ticket for wednesday evening
+/data/shared-task/test/39655.wav,49318,i would like to sit in the fifth row
+/data/shared-task/test/39657.wav,47398,can i have two tickets please
+/data/shared-task/test/39658.wav,47398,where is the piccadilly circus
+/data/shared-task/test/39664.wav,59558,i would like pay with mastercard
+/data/shared-task/test/39666.wav,33318,a twin room please
+/data/shared-task/test/39667.wav,63398,i would like pay with credit card please
+/data/shared-task/test/39672.wav,53798,i would like pay with dollars
+/data/shared-task/test/39675.wav,39718,i want a room for four nights
+/data/shared-task/test/39677.wav,69158,i will
+/data/shared-task/test/39678.wav,44838,is there a fitness studio
+/data/shared-task/test/39682.wav,92198,have you four tickets for starlight express
+/data/shared-task/test/39684.wav,81318,a ticket to westminster
+/data/shared-task/test/39687.wav,78118,i would like to pay be post card
+/data/shared-task/test/39690.wav,48678,can i pay be credit
+/data/shared-task/test/39694.wav,92198,you can't use help at the silver level
+/data/shared-task/test/39695.wav,154278,can i a ticket for piccadilly circus
+/data/shared-task/test/39701.wav,36518,my name is silvie
+/data/shared-task/test/39702.wav,72358,the capital from french is paris
+/data/shared-task/test/39703.wav,64678,i go in the holidays
+/data/shared-task/test/39704.wav,73638,i go in a holidays
+/data/shared-task/test/39707.wav,42278,have you a single room
+/data/shared-task/test/39708.wav,46118,is there a hotel restaurant
+/data/shared-task/test/39709.wav,36518,i have a reservation
+/data/shared-task/test/39710.wav,46118,i do not have a reservation
+/data/shared-task/test/39714.wav,56998,can i a room for one week
+/data/shared-task/test/39719.wav,43558,a room for four nights
+/data/shared-task/test/39720.wav,40998,i would like a double room
+/data/shared-task/test/39721.wav,43558,is there a hairdresser
+/data/shared-task/test/39722.wav,97318,a room for two nights a room for two nights
+/data/shared-task/test/39726.wav,51238,i'm from turkey
+/data/shared-task/test/39727.wav,169638,i have three sisters i have three bigger sisters
+/data/shared-task/test/39728.wav,48678,i have three older sisters
+/data/shared-task/test/39729.wav,45478,i go at the holidays
+/data/shared-task/test/39732.wav,35238,i'm from
+/data/shared-task/test/39740.wav,40998,i'm from austria
+/data/shared-task/test/39741.wav,61478,i have three older brothers
+/data/shared-task/test/39742.wav,40358,i going into holidays
+/data/shared-task/test/39744.wav,42278,a room for one week
+/data/shared-task/test/39747.wav,35238,i have a reservation
+/data/shared-task/test/39750.wav,88358,we will we will rock you
+/data/shared-task/test/39751.wav,46118,i am from spain
+/data/shared-task/test/39752.wav,48678,spain is in europe
+/data/shared-task/test/39754.wav,46118,i have three brothers
+/data/shared-task/test/39756.wav,32038,this is my passport
+/data/shared-task/test/39758.wav,34598,i am from french
+/data/shared-task/test/39759.wav,61478,the capital of french is paris
+/data/shared-task/test/39763.wav,54438,my name is stephanie
+/data/shared-task/test/39764.wav,53798,germany is not in africa
+/data/shared-task/test/39767.wav,39718,i going into holiday
+/data/shared-task/test/39768.wav,43558,i go at holidays
+/data/shared-task/test/39769.wav,29478,my name is andy
+/data/shared-task/test/39770.wav,39718,i am from england
+/data/shared-task/test/39772.wav,37798,i'm from switzerland
+/data/shared-task/test/39774.wav,62758,the capital of switzerland is bern
+/data/shared-task/test/39777.wav,49318,it's my passport
+/data/shared-task/test/39779.wav,51238,is there any a room for five nights
+/data/shared-task/test/39782.wav,40998,i haven't a reservation
+/data/shared-task/test/39785.wav,48038,i don't have a reservation
+/data/shared-task/test/39787.wav,33958,my name is silvia
+/data/shared-task/test/39789.wav,39078,i am from switzerland
+/data/shared-task/test/39791.wav,58918,i going at holidays
+/data/shared-task/test/39792.wav,40358,this is my passport
+/data/shared-task/test/39794.wav,54438,the capital from turkey is ankara
+/data/shared-task/test/39795.wav,66598,i have three young sisters oh no
+/data/shared-task/test/39798.wav,37158,that's my passport
+/data/shared-task/test/39801.wav,39718,italy is in europe
+/data/shared-task/test/39802.wav,49958,the capital of italy is rome
+/data/shared-task/test/39803.wav,46758,i have three older sisters
+/data/shared-task/test/39804.wav,36518,this is my passport
+/data/shared-task/test/39806.wav,47398,three musical tickets
+/data/shared-task/test/39807.wav,53798,i would like to buy three musical tickets
+/data/shared-task/test/39808.wav,60198,three tickets for billy elliot elliot
+/data/shared-task/test/39809.wav,65318,i want three tickets for billy elliot
+/data/shared-task/test/39810.wav,55078,i would like to sit in the ninth row
+/data/shared-task/test/39812.wav,46118,a room for six nights
+/data/shared-task/test/39813.wav,37798,i buy be credit card
+/data/shared-task/test/39817.wav,80038,can i can i a room for six nights
+/data/shared-task/test/39823.wav,66598,i would pay be mastercard
+/data/shared-task/test/39824.wav,62758,i would pay with mastercard
+/data/shared-task/test/39825.wav,163878,is there a shop
+/data/shared-task/test/39826.wav,24998,is there a eat shop
+/data/shared-task/test/39827.wav,47398,i have a reservation
+/data/shared-task/test/39831.wav,141478,oh yeah
+/data/shared-task/test/39832.wav,53798,i pay be uh visa card
+/data/shared-task/test/39833.wav,61478,a room for three nights
+/data/shared-task/test/39834.wav,58918,i'd like a double room please
+/data/shared-task/test/39836.wav,97318,have you got a
+/data/shared-task/test/39840.wav,36518,where is the bar
+/data/shared-task/test/39841.wav,60198,it has no hairdryer in the room
+/data/shared-task/test/39842.wav,51878,i would like a single room
+/data/shared-task/test/39846.wav,57638,i haven't a reservation
+/data/shared-task/test/39849.wav,36518,where's the lift
+/data/shared-task/test/39850.wav,71078,in my room there is no hairdryer
+/data/shared-task/test/39854.wav,60198,i do not have a reservation
+/data/shared-task/test/39855.wav,33318,a single room
+/data/shared-task/test/39856.wav,60198,i would like to pay by credit card
+/data/shared-task/test/39857.wav,35878,is there a bar
+/data/shared-task/test/39859.wav,59558,i would like to pay by post card
+/data/shared-task/test/39860.wav,58278,is there a greengrocer
+/data/shared-task/test/39861.wav,60838,where is the green grocer
+/data/shared-task/test/39862.wav,63398,i do not have a reservation
+/data/shared-task/test/39863.wav,60838,i would like a room for six nights
+/data/shared-task/test/39864.wav,39718,a single room
+/data/shared-task/test/39866.wav,53158,the bedroom is dirty
+/data/shared-task/test/39867.wav,57638,the room has no shampoo
+/data/shared-task/test/39869.wav,62758,i would like a room for three nights
+/data/shared-task/test/39871.wav,46758,where is the hairdresser
+/data/shared-task/test/39872.wav,50598,the room is dirty
+/data/shared-task/test/39875.wav,58278,i would like a junior suite
+/data/shared-task/test/39876.wav,50598,is there a fitness studio
+/data/shared-task/test/39877.wav,57638,i would like six tickets to london
+/data/shared-task/test/39878.wav,42278,my name is andrew
+/data/shared-task/test/39879.wav,55078,i would like two tickets to london
+/data/shared-task/test/39880.wav,56358,want to leave at fifteen a m
+/data/shared-task/test/39881.wav,80038,i want to leave at three pm tomorrow
+/data/shared-task/test/39882.wav,39078,i'm from turkey
+/data/shared-task/test/39885.wav,48038,i want a cheaper ticket
+/data/shared-task/test/39886.wav,53798,i am from australia
+/data/shared-task/test/39887.wav,64038,i want to leave wednesday evening
+/data/shared-task/test/39888.wav,43558,i'm from france
+/data/shared-task/test/39890.wav,39078,my name is john
+/data/shared-task/test/39891.wav,55078,i'm from australia
+/data/shared-task/test/39894.wav,55078,i'd like five tickets to london
+/data/shared-task/test/39897.wav,49318,my name is erica
+/data/shared-task/test/39898.wav,56998,i would like five tickets to london
+/data/shared-task/test/39899.wav,51238,i want to leave thursday
+/data/shared-task/test/39901.wav,59558,i'd like five tickets to london
+/data/shared-task/test/39902.wav,53158,my name is barbara
+/data/shared-task/test/39904.wav,40998,my name is patrick
+/data/shared-task/test/39905.wav,58918,the capital of switzerland is bern
+/data/shared-task/test/39906.wav,53798,i have three sisters
+/data/shared-task/test/39912.wav,47398,my name is andrew
+/data/shared-task/test/39913.wav,56358,i am from ireland
+/data/shared-task/test/39915.wav,48038,i'd like a lemonade
+/data/shared-task/test/39916.wav,62118,i'd like my hamburger rare
+/data/shared-task/test/39920.wav,43558,i'd like a lemonade
+/data/shared-task/test/39922.wav,37798,i'd like beans
+/data/shared-task/test/39923.wav,59558,i'd like the chocolate ice cream
+/data/shared-task/test/39925.wav,56358,i would like a steak
+/data/shared-task/test/39930.wav,64678,i want the dessert menu please
+/data/shared-task/test/39934.wav,66598,i want a carbonated water without
+/data/shared-task/test/39937.wav,59558,the dessert menu please
+/data/shared-task/test/39938.wav,43558,i'd like the bill please
+/data/shared-task/test/39941.wav,49958,i want a still water
+/data/shared-task/test/39942.wav,56358,i'd like my steak blue
+/data/shared-task/test/39943.wav,49958,the dessert menu
+/data/shared-task/test/39945.wav,91558,i want to pay by credit card
+/data/shared-task/test/39948.wav,48038,i'd like a mixed salad
+/data/shared-task/test/39950.wav,39718,i want the bill
+/data/shared-task/test/39951.wav,33958,i'd like a coffee
+/data/shared-task/test/39952.wav,59558,i'd like my steak well done
+/data/shared-task/test/39953.wav,59558,this is not what i ordered
+/data/shared-task/test/39954.wav,49958,redition is acceptable
+/data/shared-task/test/39958.wav,46118,where is madame tussauds
+/data/shared-task/test/39960.wav,164518,where's the british museum where's the british museum
+/data/shared-task/test/39963.wav,53798,i want to go
+/data/shared-task/test/39964.wav,64038,sorry i need to go
+/data/shared-task/test/39965.wav,49318,where is the london eye
+/data/shared-task/test/39968.wav,46758,where is the big ben
+/data/shared-task/test/39972.wav,59558,no i do not have a reservation
+/data/shared-task/test/39973.wav,32678,a suite
+/data/shared-task/test/39974.wav,71078,where is the science museum
+/data/shared-task/test/39977.wav,62118,where is the london eye
+/data/shared-task/test/39979.wav,46758,where is the big ben
+/data/shared-task/test/39982.wav,56998,where is the national gallery
+/data/shared-task/test/39984.wav,158118,where is the zoo where is the zoo
+/data/shared-task/test/39986.wav,87078,saint pauls cathedral is near bank of england
+/data/shared-task/test/39988.wav,59558,i am from canada
+/data/shared-task/test/39990.wav,76838,the capital of turkey is ankara
+/data/shared-task/test/39993.wav,58278,a room for four nights
+/data/shared-task/test/39994.wav,22438,i'm fine
+/data/shared-task/test/39996.wav,38438,want a white boot
+/data/shared-task/test/39998.wav,60198,i want jeans
+/data/shared-task/test/39999.wav,44838,i want a green jeans
+/data/shared-task/test/40000.wav,43558,this is
+/data/shared-task/test/40001.wav,62118,how much is it does it cost
+/data/shared-task/test/40003.wav,48038,i don't have a reservation
+/data/shared-task/test/40005.wav,56998,no i do not have a reservation
+/data/shared-task/test/40006.wav,49318,a room for five nights
+/data/shared-task/test/40007.wav,46118,can i pay with post card
+/data/shared-task/test/40012.wav,56998,there isn't a fucking motherfucking
+/data/shared-task/test/40015.wav,67238,i would like leave tomorrow at twenty-two
+/data/shared-task/test/40017.wav,75558,i'm the bubble i'm chief bubble
+/data/shared-task/test/40019.wav,39718,two tickets at london
+/data/shared-task/test/40020.wav,71078,i would like leave at thursday afternoon
+/data/shared-task/test/40021.wav,33958,my name is erica
+/data/shared-task/test/40022.wav,43558,i'm from portugal
+/data/shared-task/test/40023.wav,49958,one ticket at green park
+/data/shared-task/test/40024.wav,48678,a ticket at green park
+/data/shared-task/test/40027.wav,58918,i would like a ticket at green park
+/data/shared-task/test/40028.wav,49958,can i pay with mastercard
+/data/shared-task/test/40030.wav,40358,a twin room
+/data/shared-task/test/40033.wav,52518,the room is triangular
+/data/shared-task/test/40036.wav,55718,who can i pay a hair dryer
+/data/shared-task/test/40037.wav,29478,my name is james
+/data/shared-task/test/40040.wav,53158,i have four younger sisters
+/data/shared-task/test/40045.wav,42278,i don't have a reservation
+/data/shared-task/test/40046.wav,51878,i don't have a reservation
+/data/shared-task/test/40053.wav,55718,i want a room for three nights
+/data/shared-task/test/40054.wav,39718,can i pay with visa
+/data/shared-task/test/40055.wav,57638,i would like to leave on sunday morning
+/data/shared-task/test/40056.wav,42278,i want a cheap ticket
+/data/shared-task/test/40059.wav,49318,my name is maddalena
+/data/shared-task/test/40060.wav,53158,the capital of austria is
+/data/shared-task/test/40061.wav,35878,i'm going the breaks
+/data/shared-task/test/40065.wav,43558,i have one older sister
+/data/shared-task/test/40066.wav,40358,this is my passport
+/data/shared-task/test/40067.wav,42278,where is the oxford street
+/data/shared-task/test/40068.wav,34598,sorry i need to go
+/data/shared-task/test/40069.wav,44198,i would like the sunday roast
+/data/shared-task/test/40071.wav,49318,i would like the custard tart
+/data/shared-task/test/40073.wav,47398,i want a twin room
+/data/shared-task/test/40074.wav,48678,is there a hairdresser
+/data/shared-task/test/40075.wav,40358,where is the hairdresser
+/data/shared-task/test/40077.wav,46118,in my room
+/data/shared-task/test/40078.wav,35238,thirty three
+/data/shared-task/test/40079.wav,26278,i want a shirt
+/data/shared-task/test/40080.wav,32038,i am a large
+/data/shared-task/test/40081.wav,45478,the shirt is too expensive
+/data/shared-task/test/40084.wav,53158,where is the tower of london
+/data/shared-task/test/40085.wav,117798,marble arch is hyde park
+/data/shared-task/test/40087.wav,36518,can i pay with post card
+/data/shared-task/test/40088.wav,52518,i want a room for three nights
+/data/shared-task/test/40089.wav,52518,can i pay with post card
+/data/shared-task/test/40090.wav,44198,the bathroom is
+/data/shared-task/test/40092.wav,49318,i want four musical tickets
+/data/shared-task/test/40094.wav,60198,i want a room for five nights
+/data/shared-task/test/40096.wav,31398,is there a lift
+/data/shared-task/test/40097.wav,55718,i want a room for seven nights
+/data/shared-task/test/40098.wav,56358,can i pay with the credit card
+/data/shared-task/test/40101.wav,32678,i'm from england
+/data/shared-task/test/40103.wav,61478,i would like to leave at seven o'clock in the morning
+/data/shared-task/test/40104.wav,32038,i'm from germany
+/data/shared-task/test/40105.wav,57638,i would like to leave on monday afternoon
+/data/shared-task/test/40108.wav,30758,how money is it
+/data/shared-task/test/40109.wav,76198,is there a i don't know
+/data/shared-task/test/40110.wav,34598,i want a ticket to london
+/data/shared-task/test/40114.wav,44198,i have three brothers
+/data/shared-task/test/40116.wav,40358,that's my passport
+/data/shared-task/test/40117.wav,33318,my name is brian
+/data/shared-task/test/40120.wav,42278,yes it is my passport
+/data/shared-task/test/40122.wav,60198,i'm i'm from turkey
+/data/shared-task/test/40123.wav,32038,i have two brothers
+/data/shared-task/test/40124.wav,37158,yes it is my passport
+/data/shared-task/test/40125.wav,30758,i'm from switzerland
+/data/shared-task/test/40126.wav,40998,switzerland is in the
+/data/shared-task/test/40127.wav,41638,i have a older sister
+/data/shared-task/test/40128.wav,46118,yes it is my passport
+/data/shared-task/test/40130.wav,32038,i'm from italy
+/data/shared-task/test/40132.wav,43558,i have four younger sisters
+/data/shared-task/test/40133.wav,40998,yes it is my passport
+/data/shared-task/test/40136.wav,40358,yes it is my passport
+/data/shared-task/test/40138.wav,29478,my name is mona
+/data/shared-task/test/40140.wav,26918,my name is silvia
+/data/shared-task/test/40141.wav,44838,portugal isn't in africa
+/data/shared-task/test/40143.wav,33318,i have three sisters
+/data/shared-task/test/40144.wav,40358,yes it is my passport
+/data/shared-task/test/40146.wav,33318,can i pay with pound
+/data/shared-task/test/40147.wav,37798,where is the a ten
+/data/shared-task/test/40149.wav,45478,i don't have smaller notes
+/data/shared-task/test/40152.wav,42918,i want a ticket to westminster
+/data/shared-task/test/40155.wav,35238,can i pay with euros
+/data/shared-task/test/40158.wav,46118,can i pay with credit card
+/data/shared-task/test/40159.wav,40358,can i pay with credit card
+/data/shared-task/test/40160.wav,60198,i would like to go on wednesday evening
+/data/shared-task/test/40161.wav,56358,i would like to sit in the fourth row
+/data/shared-task/test/40163.wav,52518,i want a ticket for evening
+/data/shared-task/test/40167.wav,42918,i want a ticket for mamma mia
+/data/shared-task/test/40168.wav,48678,i want to sit in the tenth row
+/data/shared-task/test/40170.wav,60198,i want two tickets for könig der löwen
+/data/shared-task/test/40173.wav,52518,i would like to go on wednesday evening
+/data/shared-task/test/40174.wav,52518,i would like to sit in the tenth row
+/data/shared-task/test/40175.wav,51878,i want two musical tickets
+/data/shared-task/test/40178.wav,46758,i would like to sit in the fifth row
+/data/shared-task/test/40179.wav,37798,i need two tickets
+/data/shared-task/test/40181.wav,49958,i want tickets for the london eye
+/data/shared-task/test/40182.wav,40998,i want a fanta
+/data/shared-task/test/40183.wav,54438,i would like my hamburger well done
+/data/shared-task/test/40184.wav,48038,this is not what i ordered
+/data/shared-task/test/40185.wav,33958,the dessert menu please
+/data/shared-task/test/40186.wav,28198,i would like to check
+/data/shared-task/test/40187.wav,47398,i would like a still water
+/data/shared-task/test/40189.wav,45478,the dessert menu please
+/data/shared-task/test/40190.wav,36518,i would like the check
+/data/shared-task/test/40192.wav,39718,i want a limo
+/data/shared-task/test/40196.wav,62118,i want drink a coke
+/data/shared-task/test/40201.wav,36518,where is the tower bridge
+/data/shared-task/test/40202.wav,49318,it's near the bank of england
+/data/shared-task/test/40204.wav,51238,where is the tate modern
+/data/shared-task/test/40207.wav,43558,i want white boots
+/data/shared-task/test/40208.wav,35878,i want a sweatshirt
+/data/shared-task/test/40209.wav,39078,i need a large size
+/data/shared-task/test/40211.wav,39718,i don't like this sweatshirt
+/data/shared-task/test/40212.wav,39718,i don't want it
+/data/shared-task/test/40213.wav,50598,no i don't have a reservation
+/data/shared-task/test/40214.wav,53158,no i do not have a reservation
+/data/shared-task/test/40215.wav,63398,no i do not have a reservation
+/data/shared-task/test/40216.wav,68518,no i do not have a reservation
+/data/shared-task/test/40217.wav,99878,no i do not have a reservation
+/data/shared-task/test/40220.wav,31398,can i pay with visa
+/data/shared-task/test/40223.wav,54438,can i buy six tickets to london
+/data/shared-task/test/40225.wav,24358,i'm from austria
+/data/shared-task/test/40226.wav,30118,my name is andy
+/data/shared-task/test/40229.wav,44838,i have one older sister
+/data/shared-task/test/40231.wav,32038,this is my passport
+/data/shared-task/test/40232.wav,33318,yes it is my passport
+/data/shared-task/test/40233.wav,56998,i would like a ticket to notting hill
+/data/shared-task/test/40234.wav,60198,i would like to pay by post card
+/data/shared-task/test/40235.wav,60198,i would like to pay by post card
+/data/shared-task/test/40237.wav,48038,i want one ticket for starlight express
+/data/shared-task/test/40238.wav,42918,i would like to sit in the front
+/data/shared-task/test/40241.wav,26278,i want a lemonade
+/data/shared-task/test/40243.wav,37158,i would like some peas
+/data/shared-task/test/40244.wav,32678,the dessert menu please
+/data/shared-task/test/40245.wav,35238,i'm looking for the natural history museum
+/data/shared-task/test/40246.wav,13478,i would
+/data/shared-task/test/40248.wav,28838,i want a shirt
+/data/shared-task/test/40250.wav,32678,i'm fine
+/data/shared-task/test/40251.wav,43558,i am a thirty seven
+/data/shared-task/test/40252.wav,28838,i want a shirt
+/data/shared-task/test/40254.wav,27558,how much does it cost
+/data/shared-task/test/40257.wav,51238,i am looking for sandals
+/data/shared-task/test/40258.wav,40358,i would like a sweatshirt
+/data/shared-task/test/40261.wav,57638,can you give me directions to the tower of london
+/data/shared-task/test/40262.wav,32678,which bus goes there
+/data/shared-task/test/40263.wav,65318,i haven't a a a reservation
+/data/shared-task/test/40264.wav,34598,i'm doing fine
+/data/shared-task/test/40265.wav,30118,forty
+/data/shared-task/test/40266.wav,42918,i would like to have a shirt
+/data/shared-task/test/40268.wav,58278,how much cost that
+/data/shared-task/test/40273.wav,42918,this too much expensive
+/data/shared-task/test/40274.wav,35878,i'm doing fine
+/data/shared-task/test/40276.wav,45478,the dessert menu please
+/data/shared-task/test/40277.wav,33318,i would like the check
+/data/shared-task/test/40278.wav,39078,i'm from america
+/data/shared-task/test/40283.wav,40998,this is my passport
+/data/shared-task/test/40284.wav,54438,can i have a ticket to the green park
+/data/shared-task/test/40285.wav,51238,i would like to pay with dollars
+/data/shared-task/test/40287.wav,75558,i am looking for the natural history museum
+/data/shared-task/test/40290.wav,39718,a single room please
+/data/shared-task/test/40292.wav,59558,i would like to pay with post card
+/data/shared-task/test/40293.wav,45478,is there a grocery store
+/data/shared-task/test/40294.wav,39718,the toilet is dirty
+/data/shared-task/test/40295.wav,48038,no i don't have a reservation
+/data/shared-task/test/40296.wav,41638,i would like a junior suite
+/data/shared-task/test/40297.wav,58918,i would like to pay with credit card
+/data/shared-task/test/40298.wav,61478,can i pay with swiss francs
+/data/shared-task/test/40300.wav,40998,a twin room please
+/data/shared-task/test/40301.wav,52518,where is the swimming pool
+/data/shared-task/test/40303.wav,65318,a a ticket for mamma mia please
+/data/shared-task/test/40304.wav,58278,no i don't have a reservation
+/data/shared-task/test/40305.wav,72358,i would like to stay for four nights in a room please
+/data/shared-task/test/40306.wav,50598,i would like to pay with mastercard
+/data/shared-task/test/40308.wav,60838,i would like to pay with post card
+/data/shared-task/test/40310.wav,53158,i would like to pay with visa
+/data/shared-task/test/40311.wav,63398,italy is not in africa
+/data/shared-task/test/40312.wav,58918,the capital from italy is rome
+/data/shared-task/test/40313.wav,55078,i want to buy four tickets to london
+/data/shared-task/test/40315.wav,48678,i would like to leave at two pm
+/data/shared-task/test/40316.wav,37158,my name is rafael
+/data/shared-task/test/40318.wav,49318,i don't have a reservation
+/data/shared-task/test/40320.wav,49318,no i don't have a reservation
+/data/shared-task/test/40322.wav,48038,i want a room for one week
+/data/shared-task/test/40323.wav,48038,i would like a double room
+/data/shared-task/test/40326.wav,40998,can i pay with swiss francs
+/data/shared-task/test/40327.wav,35238,where is the gym
+/data/shared-task/test/40329.wav,29478,i'm from canada
+/data/shared-task/test/40331.wav,42278,i need a ticket to green park
+/data/shared-task/test/40333.wav,39078,where's the london eye
+/data/shared-task/test/40335.wav,64678,this is near the bank of england
+/data/shared-task/test/40336.wav,38438,where's the national gallery
+/data/shared-task/test/40338.wav,41638,where is madame tussauds
+/data/shared-task/test/40339.wav,22438,saints paul
+/data/shared-task/test/40340.wav,56998,saint pauls cathedral is near the bank of england
+/data/shared-task/test/40341.wav,30118,i'm fine
+/data/shared-task/test/40342.wav,39078,i would like some boots
+/data/shared-task/test/40343.wav,35878,i would like some boots
+/data/shared-task/test/40344.wav,59558,i want blue boots
+/data/shared-task/test/40345.wav,40358,blue boots please
+/data/shared-task/test/40346.wav,28198,thirty nine
+/data/shared-task/test/40347.wav,36518,i would like a sweatshirt
+/data/shared-task/test/40349.wav,51238,i would like a green sweatshirt
+/data/shared-task/test/40351.wav,40358,how much is this sweatshirt
+/data/shared-task/test/40354.wav,42918,a room for six nights
+/data/shared-task/test/40355.wav,42918,a single room please
+/data/shared-task/test/40356.wav,42278,i want to pay with visa
+/data/shared-task/test/40359.wav,44198,do it has a hotel restaurant
+/data/shared-task/test/40360.wav,42918,is there a hotel restaurant
+/data/shared-task/test/40365.wav,62758,i would like to pay with my credit card
+/data/shared-task/test/40366.wav,59558,is there a hotel restaurant
+/data/shared-task/test/40367.wav,70438,i would like to stay five nights in the hotel
+/data/shared-task/test/40368.wav,42278,a suite
+/data/shared-task/test/40369.wav,60838,i would like to have a suite
+/data/shared-task/test/40374.wav,40358,i would like a junior suite
+/data/shared-task/test/40375.wav,25638,is there a grocery store
+/data/shared-task/test/40377.wav,28838,i'm from germany
+/data/shared-task/test/40378.wav,40358,my name is patrick
+/data/shared-task/test/40382.wav,33958,i am going on holidays
+/data/shared-task/test/40384.wav,44838,i would like a ticket to notting hill
+/data/shared-task/test/40386.wav,49318,i would like two three musical tickets
+/data/shared-task/test/40387.wav,62118,i would like to go at thursday evening
+/data/shared-task/test/40388.wav,44838,i to go on thursday night
+/data/shared-task/test/40389.wav,51878,i would like to sit in the fourth row
+/data/shared-task/test/40390.wav,40358,i would like a still water
+/data/shared-task/test/40391.wav,42278,i would like my steak well done
+/data/shared-task/test/40393.wav,78118,could i can see the desert menu
+/data/shared-task/test/40394.wav,40358,where is the big ben
+/data/shared-task/test/40396.wav,42918,i am good
+/data/shared-task/test/40397.wav,53158,i would like white boots
+/data/shared-task/test/40398.wav,38438,thirty-eight
+/data/shared-task/test/40401.wav,40358,how much does it cost
+/data/shared-task/test/40402.wav,73638,the jeans is too expensive
+/data/shared-task/test/40404.wav,44198,is there a gym
+/data/shared-task/test/40406.wav,39718,i would like a single room
+/data/shared-task/test/40408.wav,50598,i would like a room for seven nights
+/data/shared-task/test/40409.wav,45478,i want to pay with credit card
+/data/shared-task/test/40410.wav,35878,where is the gym
+/data/shared-task/test/40411.wav,105638,i would like to leave at fifteen o'clock
+/data/shared-task/test/40412.wav,37158,my name's sarah
+/data/shared-task/test/40413.wav,42278,i would like a ticket to london
+/data/shared-task/test/40414.wav,59558,i would like to leave tomorrow at one p m
+/data/shared-task/test/40417.wav,65958,i would like to leave tomorrow at four p m
+/data/shared-task/test/40419.wav,32678,i'm from germany
+/data/shared-task/test/40421.wav,38438,i have one older brother
+/data/shared-task/test/40423.wav,60838,can i have a room for three nights please
+/data/shared-task/test/40425.wav,56358,i would like to pay with mastercard
+/data/shared-task/test/40426.wav,49318,is there a hotel restaurant
+/data/shared-task/test/40427.wav,50598,can i have a room for seven nights
+/data/shared-task/test/40428.wav,42918,i want to pay with visa
+/data/shared-task/test/40429.wav,40358,is there a hotel bar
+/data/shared-task/test/40430.wav,44198,can i have a ticket to london
+/data/shared-task/test/40433.wav,44838,i want to leave on sunday
+/data/shared-task/test/40434.wav,37798,i come from portugal
+/data/shared-task/test/40435.wav,39718,my name is silvia
+/data/shared-task/test/40436.wav,242598,the capital city of spain is madrid the capital city of spain is madrid
+/data/shared-task/test/40438.wav,37158,i have three brothers
+/data/shared-task/test/40445.wav,49958,can i have four musical tickets
+/data/shared-task/test/40446.wav,48678,i would like to buy four musical tickets
+/data/shared-task/test/40447.wav,46758,i would like to go on friday night
+/data/shared-task/test/40448.wav,67238,i want four tickets for the phantom of the opera
+/data/shared-task/test/40449.wav,49318,i would like to sit in the front
+/data/shared-task/test/40450.wav,46758,i would like to sit in the front
+/data/shared-task/test/40451.wav,59558,can i have tickets for the british museum
+/data/shared-task/test/40453.wav,32678,i would like a coke
+/data/shared-task/test/40457.wav,44198,could i see the dessert menu
+/data/shared-task/test/40459.wav,35878,which bus goes there
+/data/shared-task/test/40460.wav,38438,i am good
+/data/shared-task/test/40462.wav,67238,i would like white boots
+/data/shared-task/test/40464.wav,43558,i am a forty
+/data/shared-task/test/40465.wav,39718,i would like a sweatshirt
+/data/shared-task/test/40467.wav,23718,i need a large
+/data/shared-task/test/40469.wav,33318,much does it cost
+/data/shared-task/test/40477.wav,73638,could you give me directions to piccadilly circus
+/data/shared-task/test/40478.wav,76198,saint pauls cathedral is near the bank of england
+/data/shared-task/test/40481.wav,53158,this is near the bank of england
+/data/shared-task/test/40482.wav,49958,where is the national gallery
+/data/shared-task/test/40485.wav,58918,which bus goes there
+/data/shared-task/test/40486.wav,75558,where is the natural history museum
+/data/shared-task/test/40488.wav,72358,marble arch is to hyde park
+/data/shared-task/test/40489.wav,65958,arch is to hyde park
+/data/shared-task/test/40490.wav,42278,where is the british museum
+/data/shared-task/test/40491.wav,52518,is the oxford street
+/data/shared-task/test/40492.wav,73638,where is the oxford street
+/data/shared-task/test/40494.wav,45478,i want a room for two nights
+/data/shared-task/test/40496.wav,37798,is there a hotel bar
+/data/shared-task/test/40497.wav,49958,i would like to stay for seven nights please
+/data/shared-task/test/40498.wav,35238,can i pay with credit card
+/data/shared-task/test/40499.wav,40998,can i pay with dollars
+/data/shared-task/test/40501.wav,40998,can i pay with credit card
+/data/shared-task/test/40502.wav,34598,is there a lift
+/data/shared-task/test/40503.wav,52518,can i have a room for two nights please
+/data/shared-task/test/40504.wav,35238,i would like a single room
+/data/shared-task/test/40505.wav,66598,can i have a room for three nights please
+/data/shared-task/test/40506.wav,54438,i would like a single room
+/data/shared-task/test/40507.wav,41638,can i pay with visa
+/data/shared-task/test/40509.wav,42278,is there a grocery
+/data/shared-task/test/40510.wav,58278,can i have a room for three nights please
+/data/shared-task/test/40511.wav,43558,i would like a twin room
+/data/shared-task/test/40515.wav,46118,i would like a twin room
+/data/shared-task/test/40517.wav,48678,can i pay with credit card
+/data/shared-task/test/40519.wav,56998,can i have a room for five nights please
+/data/shared-task/test/40520.wav,49318,can i pay with dollars
+/data/shared-task/test/40527.wav,63398,i would like four tickets to london
+/data/shared-task/test/40528.wav,72358,i would like to leave tomorrow at noon
+/data/shared-task/test/40530.wav,52518,i would like five tickets to london
+/data/shared-task/test/40532.wav,51238,my name is barbara
+/data/shared-task/test/40534.wav,53158,i would like tickets to london
+/data/shared-task/test/40535.wav,25638,my name is sarah
+/data/shared-task/test/40537.wav,39718,i would like two musical tickets
+/data/shared-task/test/40539.wav,41638,i would like to sit in the tenth row
+/data/shared-task/test/40540.wav,30118,i want five tickets
+/data/shared-task/test/40542.wav,50598,i would like to go on saturday evening
+/data/shared-task/test/40544.wav,44838,four tickets
+/data/shared-task/test/40546.wav,48038,i would like to go on tomorrow night
+/data/shared-task/test/40548.wav,55718,i want two tickets for the lion king
+/data/shared-task/test/40549.wav,59558,i want two tickets for the
+/data/shared-task/test/40552.wav,53798,i want two tickets for the lion king
+/data/shared-task/test/40553.wav,51878,i would like to sit in the tenth row
+/data/shared-task/test/40555.wav,43558,i would like three musical tickets
+/data/shared-task/test/40556.wav,49958,i would like three tickets for billy elliot
+/data/shared-task/test/40558.wav,44198,i would like four musical tickets
+/data/shared-task/test/40559.wav,40358,i would like four tickets for billy elliot
+/data/shared-task/test/40560.wav,53798,i would like to sit in the tenth row
+/data/shared-task/test/40561.wav,37158,i would like two tickets
+/data/shared-task/test/40564.wav,39078,i would like to sit in front
+/data/shared-task/test/40565.wav,38438,i would like three musical tickets
+/data/shared-task/test/40566.wav,41638,i would like three tickets for mamma mia
+/data/shared-task/test/40568.wav,30758,i want two tickets
+/data/shared-task/test/40569.wav,42918,i would like to go today evening
+/data/shared-task/test/40570.wav,50598,i would like two tickets for billy elliot
+/data/shared-task/test/40571.wav,56998,i would like to sit in the second row
+/data/shared-task/test/40572.wav,28838,my name is sarah
+/data/shared-task/test/40573.wav,31398,i am from france
+/data/shared-task/test/40574.wav,38438,i have two younger brothers
+/data/shared-task/test/40577.wav,30758,brown boots please
+/data/shared-task/test/40579.wav,40998,i would like a green tee shirt
+/data/shared-task/test/40580.wav,38438,how much does it cost
+/data/shared-task/test/40582.wav,78118,i want to pay with a credit card
+/data/shared-task/test/40583.wav,37158,is there a hotel bar
+/data/shared-task/test/40585.wav,61478,a single room
+/data/shared-task/test/40587.wav,54438,i will have a tea
+/data/shared-task/test/40589.wav,48038,i wanna have a
+/data/shared-task/test/40591.wav,38438,i stay six nights
+/data/shared-task/test/40592.wav,154918,ah how many rooms do you want for six nights
+/data/shared-task/test/40593.wav,42918,i wanna einzelzimmer
+/data/shared-task/test/40599.wav,11558,i
+/data/shared-task/test/40603.wav,8358,i
+/data/shared-task/test/40610.wav,8998,i
+/data/shared-task/test/40612.wav,10918,i
+/data/shared-task/test/40619.wav,11558,i
+/data/shared-task/test/40641.wav,101798,a room for one week please
+/data/shared-task/test/40643.wav,32038,is there a hotel bar
+/data/shared-task/test/40644.wav,47398,my name is silvia
+/data/shared-task/test/40646.wav,54438,i have four older sisters
+/data/shared-task/test/40649.wav,38438,i want to have some boots
+/data/shared-task/test/40650.wav,59558,i want to have some boots
+/data/shared-task/test/40651.wav,27558,want red boots
+/data/shared-task/test/40652.wav,30118,red boots please
+/data/shared-task/test/40656.wav,42918,large
+/data/shared-task/test/40657.wav,44198,how much is it
+/data/shared-task/test/40658.wav,47398,a room for four nights
+/data/shared-task/test/40659.wav,30118,thank you
+/data/shared-task/test/40662.wav,49318,i want to pay with euros
+/data/shared-task/test/40664.wav,51878,is there a hairdresser here
+/data/shared-task/test/40665.wav,37798,where's the hairdresser
+/data/shared-task/test/40666.wav,42918,the toilet is dirty
+/data/shared-task/test/40667.wav,71078,there is no shower gel in the in the room
+/data/shared-task/test/40669.wav,43558,i would like a junior suite
+/data/shared-task/test/40670.wav,70438,i want to pay with the credit card
+/data/shared-task/test/40673.wav,37798,a suite
+/data/shared-task/test/40674.wav,55718,i would like to pay with the credit card
+/data/shared-task/test/40675.wav,42918,has it a hotel restaurant
+/data/shared-task/test/40676.wav,38438,where's the hotel restaurant
+/data/shared-task/test/40679.wav,74278,where can can i find the hairdryer
+/data/shared-task/test/40682.wav,39718,which bus goes there
+/data/shared-task/test/40687.wav,56998,i would like some garlic bread
+/data/shared-task/test/40690.wav,40998,i want the
+/data/shared-task/test/40692.wav,62118,i want to pay with the credit card
+/data/shared-task/test/40697.wav,71078,i would like pay with the credit card
+/data/shared-task/test/40698.wav,19238,a lift
+/data/shared-task/test/40699.wav,35878,has it a lift
+/data/shared-task/test/40700.wav,63398,a room for four nights please
+/data/shared-task/test/40703.wav,89638,i would like to pay with swiss francs please
+/data/shared-task/test/40706.wav,42278,a suite please
+/data/shared-task/test/40707.wav,66598,i would like to pay with the credit card
+/data/shared-task/test/40710.wav,35878,a swim bath
+/data/shared-task/test/40711.wav,48678,where is the swimming pool
+/data/shared-task/test/40714.wav,81958,in my room it hasn't got a
+/data/shared-task/test/40718.wav,41638,i'm madeleine
+/data/shared-task/test/40719.wav,45478,i need five tickets to london
+/data/shared-task/test/40721.wav,45478,my name is nick
+/data/shared-task/test/40726.wav,40998,my name is andy
+/data/shared-task/test/40727.wav,42278,i'm from canada
+/data/shared-task/test/40728.wav,60838,i want to leave at thursday evening
+/data/shared-task/test/40730.wav,56358,cheap i need a creeper ticket
+/data/shared-task/test/40731.wav,37158,i want a keep ticket
+/data/shared-task/test/40734.wav,32678,my name is nick
+/data/shared-task/test/40736.wav,46758,france is in europe
+/data/shared-task/test/40737.wav,50598,the capital of france is paris
+/data/shared-task/test/40738.wav,62118,i have two older sisters
+/data/shared-task/test/40739.wav,54438,i go on holiday
+/data/shared-task/test/40740.wav,39718,this is my passport
+/data/shared-task/test/40741.wav,56998,i need one musical ticket
+/data/shared-task/test/40742.wav,61478,a ticket for billy elliot
+/data/shared-task/test/40744.wav,88358,a ticket for the museum museum
+/data/shared-task/test/40745.wav,45478,i need four tickets
+/data/shared-task/test/40746.wav,55718,i want some boots
+/data/shared-task/test/40747.wav,72358,i want brown boots
+/data/shared-task/test/40748.wav,37798,i want a tee shirt
+/data/shared-task/test/40749.wav,42918,i want a red tee shirt
+/data/shared-task/test/40750.wav,35878,i need a large
+/data/shared-task/test/40752.wav,47398,i don't want this t-shirt
+/data/shared-task/test/40753.wav,68518,i need a ticket to westminster
+/data/shared-task/test/40755.wav,78118,i would like to pay with dollars
+/data/shared-task/test/40756.wav,45478,a room for one week please
+/data/shared-task/test/40758.wav,61478,i would like to pay with the post card
+/data/shared-task/test/40759.wav,59558,is there a hairdresser
+/data/shared-task/test/40760.wav,57638,a room for three nights please
+/data/shared-task/test/40761.wav,56358,i would like to pay with the post card
+/data/shared-task/test/40763.wav,56998,i would like to leave at tuesday
+/data/shared-task/test/40765.wav,65318,i am from canada woo
+/data/shared-task/test/40766.wav,60198,i need four tickets to london
+/data/shared-task/test/40767.wav,55718,i four tickets to london
+/data/shared-task/test/40768.wav,74278,i'd like to leace at one o'clock tomorrow
+/data/shared-task/test/40769.wav,43558,my name is michelle
+/data/shared-task/test/40770.wav,40358,i'm from austria
+/data/shared-task/test/40772.wav,67878,i'm looking for boots
+/data/shared-task/test/40773.wav,59558,i would like some boots
+/data/shared-task/test/40776.wav,58918,a room for two nights
+/data/shared-task/test/40777.wav,56358,a twin room please
+/data/shared-task/test/40778.wav,60838,i want to pay with the credit card
+/data/shared-task/test/40779.wav,81318,i want to pay with the credit card
+/data/shared-task/test/40780.wav,58918,have it a
+/data/shared-task/test/40782.wav,60838,a room for three nights
+/data/shared-task/test/40783.wav,56998,i want to pay with visa
+/data/shared-task/test/40784.wav,73638,i would like to pay with visa
+/data/shared-task/test/40785.wav,56358,where is the swimming pool
+/data/shared-task/test/40786.wav,50598,my room is dirty
+/data/shared-task/test/40788.wav,85798,in my room it hasn't got a shower gel
+/data/shared-task/test/40789.wav,60198,i would like the sunday
+/data/shared-task/test/40791.wav,55078,i would like my sunday roast well done
+/data/shared-task/test/40797.wav,44198,i would like the steak well done
+/data/shared-task/test/40799.wav,44838,this is not what i ordered
+/data/shared-task/test/40800.wav,49958,i don't have a reservation
+/data/shared-task/test/40803.wav,32678,i want brown boots
+/data/shared-task/test/40804.wav,40358,i want boots
+/data/shared-task/test/40806.wav,49318,i want boots
+/data/shared-task/test/40807.wav,39718,forty-two
+/data/shared-task/test/40810.wav,57638,i would like to leave tomorrow at eleven a m
+/data/shared-task/test/40812.wav,48038,a room for one person
+/data/shared-task/test/40815.wav,44838,where is the swimming pool
+/data/shared-task/test/40816.wav,49318,i would like the sunday roast
+/data/shared-task/test/40818.wav,45478,i would like a mixed salad
+/data/shared-task/test/40822.wav,57638,i want a room for five nights
+/data/shared-task/test/40823.wav,46758,can i pay with post card
+/data/shared-task/test/40824.wav,51238,i want a room for two nights
+/data/shared-task/test/40826.wav,23718,is there a gym
+/data/shared-task/test/40830.wav,40358,is there a supermarket
+/data/shared-task/test/40831.wav,37158,is there a supermarket
+/data/shared-task/test/40833.wav,30758,is there a
+/data/shared-task/test/40834.wav,25638,is there a
+/data/shared-task/test/40836.wav,25638,is there a gym
+/data/shared-task/test/40838.wav,40998,i want a room for three nights
+/data/shared-task/test/40839.wav,46118,can i pay with credit card
+/data/shared-task/test/40841.wav,41638,i'd like a single room
+/data/shared-task/test/40842.wav,49958,i want a single room
+/data/shared-task/test/40845.wav,42918,i want a room for seven nights
+/data/shared-task/test/40846.wav,36518,i'd like a double room
+/data/shared-task/test/40847.wav,50598,i'd like to pay with the credit card
+/data/shared-task/test/40849.wav,36518,where is the swimming pool
+/data/shared-task/test/40858.wav,32038,i want a steak
+/data/shared-task/test/40861.wav,36518,i want to pay with visa
+/data/shared-task/test/40862.wav,32678,can i pay with visa
+/data/shared-task/test/40863.wav,34598,i would like carrots
+/data/shared-task/test/40864.wav,44198,i'd like my steak blue
+/data/shared-task/test/40865.wav,33318,could i see the dessert menu
+/data/shared-task/test/40866.wav,31398,an apple pie please
+/data/shared-task/test/40867.wav,40358,i would like to pay by post card
+/data/shared-task/test/40869.wav,40998,i want my steak medium
+/data/shared-task/test/40871.wav,48038,i want the raspberry sorbet
+/data/shared-task/test/40875.wav,41638,i want my steak rare
+/data/shared-task/test/40877.wav,28198,i want the check
+/data/shared-task/test/40878.wav,35238,i would like to pay with visa
+/data/shared-task/test/40879.wav,39078,i would like the sunday roast
+/data/shared-task/test/40885.wav,31398,i want the steak
+/data/shared-task/test/40887.wav,48038,i would like to pay with mastercard
+/data/shared-task/test/40888.wav,40998,i would like a steak
+/data/shared-task/test/40890.wav,34598,i want the trifle
+/data/shared-task/test/40892.wav,37158,i want a hamburger
+/data/shared-task/test/40893.wav,55078,i want my hamburger well done
+/data/shared-task/test/40894.wav,39078,i want a mixed salad
+/data/shared-task/test/40897.wav,50598,i would like to pay with credit card
+/data/shared-task/test/40899.wav,56998,i would like to leave tomorrow at six pm
+/data/shared-task/test/40900.wav,39078,i am from england
+/data/shared-task/test/40902.wav,35238,my name is john
+/data/shared-task/test/40903.wav,44838,i would like two tickets to london
+/data/shared-task/test/40904.wav,37798,i am from turkey
+/data/shared-task/test/40905.wav,69158,the capital city of turkey is ankara
+/data/shared-task/test/40906.wav,31398,i have one sister
+/data/shared-task/test/40908.wav,30118,i want boots
+/data/shared-task/test/40909.wav,42278,i want the sweatshirt
+/data/shared-task/test/40912.wav,45478,this is too expensive
+/data/shared-task/test/40913.wav,37158,i want
+/data/shared-task/test/40914.wav,87718,i would like a ticket to piccadilly circus
+/data/shared-task/test/40917.wav,32678,which bus goes there
+/data/shared-task/test/40918.wav,48038,where is the tate modern
+/data/shared-task/test/40920.wav,46118,which bus bus goes there
+/data/shared-task/test/40922.wav,40998,which bus goes there
+/data/shared-task/test/40923.wav,66598,saint pauls cathedral is near the bank of england
+/data/shared-task/test/40924.wav,62118,marble arch is opposite of hyde park
+/data/shared-task/test/40926.wav,36518,a ticket for wicked
+/data/shared-task/test/40927.wav,50598,i want to sit in the middle
+/data/shared-task/test/40928.wav,67878,i would like a ticket for the national museum
+/data/shared-task/test/40929.wav,25638,two tickets
+/data/shared-task/test/40931.wav,30118,i would like to go tonight
+/data/shared-task/test/40932.wav,40998,i would like to sit in the seventh row
+/data/shared-task/test/40934.wav,51238,three musical tickets
+/data/shared-task/test/40939.wav,30758,where is the zoo
+/data/shared-task/test/40942.wav,32678,which bus goes there
+/data/shared-task/test/40943.wav,51878,where is the national history museum
+/data/shared-task/test/40944.wav,55718,i would like four tickets to london
+/data/shared-task/test/40945.wav,59558,i would like to leave on monday morning
+/data/shared-task/test/40946.wav,33958,i am from portugal
+/data/shared-task/test/40949.wav,41638,i am from australia
+/data/shared-task/test/40952.wav,30758,i want a sweatshirt
+/data/shared-task/test/40954.wav,27558,i want boots
+/data/shared-task/test/40955.wav,36518,i'm a forty two
+/data/shared-task/test/40957.wav,27558,i am a small
+/data/shared-task/test/40958.wav,35878,how much it cost
+/data/shared-task/test/40959.wav,40358,this is too expensive
+/data/shared-task/test/40960.wav,53158,i would like to stay seven nights
+/data/shared-task/test/40961.wav,51238,i would like to have a twin room
+/data/shared-task/test/40964.wav,46758,i would like to stay one week
+/data/shared-task/test/40966.wav,40358,where is the fitness studio
+/data/shared-task/test/40967.wav,46118,i would like a single room
+/data/shared-task/test/40969.wav,42278,where is the grocery store
+/data/shared-task/test/40971.wav,65318,i would like to leave tomorrow at five p m
+/data/shared-task/test/40973.wav,55078,i would like two tickets to london
+/data/shared-task/test/40974.wav,122278,i would like to leave twenty one tomorrow
+/data/shared-task/test/40975.wav,39078,my name is james
+/data/shared-task/test/40976.wav,85798,i would like to have two tickets to london
+/data/shared-task/test/40977.wav,42278,my name is paul
+/data/shared-task/test/40978.wav,57638,i would like to stay three nights
+/data/shared-task/test/40979.wav,35238,i would like a suite
+/data/shared-task/test/40981.wav,43558,i would like to stay one week
+/data/shared-task/test/40982.wav,61478,i would like to pay with credit card
+/data/shared-task/test/40984.wav,55078,i would like to stay five nights
+/data/shared-task/test/40986.wav,36518,where is the lift
+/data/shared-task/test/40988.wav,62118,i would like to pay with credit card
+/data/shared-task/test/40989.wav,52518,is there a fitness studio
+/data/shared-task/test/40991.wav,38438,i'm from italy
+/data/shared-task/test/40993.wav,45478,i would like a single room
+/data/shared-task/test/40994.wav,49318,is there a hotel bar
+/data/shared-task/test/40996.wav,51878,i would like with post
+/data/shared-task/test/40997.wav,46118,is there a
+/data/shared-task/test/40998.wav,44838,who is the coiffeur
+/data/shared-task/test/41001.wav,73638,i would like to pay with credit card
+/data/shared-task/test/41003.wav,62118,i would like to stay seven nights
+/data/shared-task/test/41007.wav,77478,i would like to pay with credit card
+/data/shared-task/test/41008.wav,48678,is there a lift
+/data/shared-task/test/41009.wav,40358,where is the lift
+/data/shared-task/test/41010.wav,66598,i would like to stay three nights
+/data/shared-task/test/41011.wav,51878,i would like to pay with the post card
+/data/shared-task/test/41012.wav,50598,is there a grocery store
+/data/shared-task/test/41013.wav,108838,i would like to leave at four p m tomorrow
+/data/shared-task/test/41018.wav,72358,i would like a room for three nights
+/data/shared-task/test/41019.wav,98598,i would like to pay with credit card
+/data/shared-task/test/41024.wav,67878,i want a room for four nights
+/data/shared-task/test/41026.wav,49318,i want a room for four nights
+/data/shared-task/test/41027.wav,45478,can i pay with credit card
+/data/shared-task/test/41028.wav,33958,can i pay with euros
+/data/shared-task/test/41030.wav,42918,my name is john
+/data/shared-task/test/41031.wav,56998,i would like three tickets to london
+/data/shared-task/test/41032.wav,45478,my name is silvia
+/data/shared-task/test/41034.wav,46118,i'd like to pay with dollars
+/data/shared-task/test/41035.wav,45478,can i pay with dollars
+/data/shared-task/test/41036.wav,79398,can i have a ticket to piccadilly circus
+/data/shared-task/test/41039.wav,55718,could i see the dessert menu
+/data/shared-task/test/41043.wav,44838,i'm from italian
+/data/shared-task/test/41045.wav,58918,this is my passport
+/data/shared-task/test/41046.wav,56998,i would like my steak medium
+/data/shared-task/test/41049.wav,52518,i would like the steak medium
+/data/shared-task/test/41052.wav,58278,i would like to buy some boot
+/data/shared-task/test/41053.wav,42278,i would like jeans
+/data/shared-task/test/41054.wav,57638,i need a large
+/data/shared-task/test/41055.wav,64678,i would like a room for four for five nights
+/data/shared-task/test/41056.wav,47398,is there a fitness studio
+/data/shared-task/test/41058.wav,50598,i would like brown boots
+/data/shared-task/test/41060.wav,44198,i need a large
+/data/shared-task/test/41061.wav,53798,how much is it
+/data/shared-task/test/41062.wav,51238,where's the piccadilly circus
+/data/shared-task/test/41064.wav,56998,i would like to pay with credit card
+/data/shared-task/test/41065.wav,46758,i would like the steak
+/data/shared-task/test/41066.wav,40998,can i have the dessert menu
+/data/shared-task/test/41067.wav,64678,can i have the bill please
+/data/shared-task/test/41068.wav,78118,i would like a carbonated water
+/data/shared-task/test/41069.wav,51238,i would like my steak blue
+/data/shared-task/test/41070.wav,78758,i would like the custard tart
+/data/shared-task/test/41072.wav,65958,i would like to pay with swiss francs
+/data/shared-task/test/41073.wav,63398,is there a hotel restaurant
+/data/shared-task/test/41074.wav,61478,i would like a room for six nights
+/data/shared-task/test/41076.wav,51878,i would like a room for six nights
+/data/shared-task/test/41077.wav,42278,is there a swimming pool
+/data/shared-task/test/41078.wav,55718,i would like a steak
+/data/shared-task/test/41083.wav,47398,my name is stephanie
+/data/shared-task/test/41085.wav,46758,i go in the holiday
+/data/shared-task/test/41087.wav,50598,i have two sisters
+/data/shared-task/test/41090.wav,89638,i would like two tickets for billy elliot
+/data/shared-task/test/41092.wav,69798,i would like two musical tickets
+/data/shared-task/test/41093.wav,68518,i want to sit in the first row
+/data/shared-task/test/41094.wav,81318,i'd like three tickets
+/data/shared-task/test/41096.wav,51238,this is my passport
+/data/shared-task/test/41098.wav,44198,this is my passport
+/data/shared-task/test/41099.wav,72998,i would like a ticket to london
+/data/shared-task/test/41100.wav,77478,can i have a ticket to london
+/data/shared-task/test/41103.wav,72998,i want two tickets for the lion king
+/data/shared-task/test/41104.wav,57638,i would like three tickets
+/data/shared-task/test/41105.wav,80038,what bus drives there
+/data/shared-task/test/41106.wav,51878,i would like boots
+/data/shared-task/test/41107.wav,70438,i would like a tee shirt
+/data/shared-task/test/41109.wav,100518,i would like to leave at sunday
+/data/shared-task/test/41110.wav,65958,i would like three musical tickets
+/data/shared-task/test/41112.wav,46118,i'm fine
+/data/shared-task/test/41114.wav,57638,i need a large
+/data/shared-task/test/41116.wav,119078,i would like to leave tomorrow at twelve o'clock
+/data/shared-task/test/41117.wav,56998,i'm from america
+/data/shared-task/test/41118.wav,99238,which bus drives there
+/data/shared-task/test/41120.wav,44838,i would like boots
+/data/shared-task/test/41121.wav,56998,i would like a sweatshirt
+/data/shared-task/test/41122.wav,67238,how much is it how much is it
+/data/shared-task/test/41123.wav,72358,that's too expensive
+/data/shared-task/test/41124.wav,86438,can i have a ticket to london please
+/data/shared-task/test/41125.wav,73638,i want a ticket to london
+/data/shared-task/test/41126.wav,48678,my name is paolo
+/data/shared-task/test/41127.wav,60838,i would like to leave tomorrow
+/data/shared-task/test/41128.wav,48038,i'm from switzerland
+/data/shared-task/test/41129.wav,49958,my name is michelle
+/data/shared-task/test/41131.wav,81958,i'm from germany
+/data/shared-task/test/41133.wav,72998,i would like two tickets for friday evening
+/data/shared-task/test/41135.wav,61478,i would like a ticket for friday evening
+/data/shared-task/test/41136.wav,96038,i would like two tickets for the lion king
+/data/shared-task/test/41137.wav,69798,i would like to sit on the front
+/data/shared-task/test/41138.wav,67878,i would like two musical tickets
+/data/shared-task/test/41139.wav,94118,i would like two tickets for the lion king
+/data/shared-task/test/41140.wav,46118,two tickets
+/data/shared-task/test/41142.wav,113318,i would like to sit in the seventh row
+/data/shared-task/test/41148.wav,53798,i'm good
+/data/shared-task/test/41149.wav,64678,i need thirty eight
+/data/shared-task/test/41154.wav,53158,how much is the tee shirt
+/data/shared-task/test/41155.wav,78118,i would like a boots
+/data/shared-task/test/41157.wav,64678,i would like a purple tee shirt
+/data/shared-task/test/41159.wav,46118,i would like a tee shirt
+/data/shared-task/test/41160.wav,56358,can i have a green tee shirt
+/data/shared-task/test/41161.wav,40998,i need a large
+/data/shared-task/test/41162.wav,33958,i'm good
+/data/shared-task/test/41163.wav,62118,i need forty-two
+/data/shared-task/test/41164.wav,50598,i need a large
+/data/shared-task/test/41165.wav,42278,this is too expensive
+/data/shared-task/test/41166.wav,64678,i would like red boots
+/data/shared-task/test/41169.wav,30118,this is too expensive
+/data/shared-task/test/41171.wav,67238,i would like a green shirt
+/data/shared-task/test/41172.wav,53798,this is too expensive
+/data/shared-task/test/41173.wav,75558,where is the national gallery
+/data/shared-task/test/41175.wav,42278,where is the zoo
+/data/shared-task/test/41177.wav,49958,where's the piccadilly circus
+/data/shared-task/test/41178.wav,106918,the saint pauls cathedral is near the bank of england
+/data/shared-task/test/41179.wav,58278,i want a room for five nights
+/data/shared-task/test/41180.wav,49318,a single room please
+/data/shared-task/test/41181.wav,67238,can i pay with credit card
+/data/shared-task/test/41184.wav,84518,is there a grocery store
+/data/shared-task/test/41185.wav,101798,i want a room for three nights
+/data/shared-task/test/41186.wav,88358,a single room please
+/data/shared-task/test/41188.wav,48038,can i pay with credit card
+/data/shared-task/test/41189.wav,88998,i want a room for three nights
+/data/shared-task/test/41190.wav,58278,a single room please
+/data/shared-task/test/41191.wav,49958,a single room please
+/data/shared-task/test/41192.wav,109478,a single room please
+/data/shared-task/test/41194.wav,55718,can i pay with mastercard
+/data/shared-task/test/41195.wav,39078,is there a gym
+/data/shared-task/test/41197.wav,91558,where is the sham
+/data/shared-task/test/41198.wav,86438,i want a room for three nights
+/data/shared-task/test/41201.wav,63398,is there the hotel bar
+/data/shared-task/test/41203.wav,147238,where is the hotel bar
+/data/shared-task/test/41205.wav,59558,i want a room for four nights
+/data/shared-task/test/41206.wav,65318,a single room please
+/data/shared-task/test/41208.wav,45478,is there a gym
+/data/shared-task/test/41210.wav,59558,i want a room for six nights
+/data/shared-task/test/41213.wav,61478,can i have a double room please
+/data/shared-task/test/41215.wav,62118,can i pay with mastercard
+/data/shared-task/test/41216.wav,48038,is there a lift
+/data/shared-task/test/41217.wav,55718,where is the lift
+/data/shared-task/test/41218.wav,60198,i want a room for six nights
+/data/shared-task/test/41220.wav,62118,can i pay with post card
+/data/shared-task/test/41221.wav,64678,is there a chaffeur
+/data/shared-task/test/41222.wav,84518,is there a chauffeur
+/data/shared-task/test/41223.wav,65958,i want a room for seven nights
+/data/shared-task/test/41226.wav,68518,is there a hotel restaurant
+/data/shared-task/test/41227.wav,62118,where is the hotel restaurant
+/data/shared-task/test/41229.wav,53798,i want a room for seven nights please
+/data/shared-task/test/41232.wav,51878,can i pay with credit card
+/data/shared-task/test/41233.wav,52518,is there a a swimming pool
+/data/shared-task/test/41234.wav,65958,where is the uh the swimming pool
+/data/shared-task/test/41237.wav,123558,i want a room for four nights please
+/data/shared-task/test/41238.wav,117798,can i pay with credit card ah post card sorry
+/data/shared-task/test/41240.wav,40998,is there a
+/data/shared-task/test/41241.wav,46118,i want two tickets to london
+/data/shared-task/test/41242.wav,60838,i want to leave at tuesday
+/data/shared-task/test/41243.wav,35878,my name is mona
+/data/shared-task/test/41244.wav,31398,i'm from italy
+/data/shared-task/test/41245.wav,55718,i want four tickets to london
+/data/shared-task/test/41247.wav,56358,i want to leave on uh on wednesday morning
+/data/shared-task/test/41248.wav,40358,my name is john
+/data/shared-task/test/41249.wav,81958,my name is john
+/data/shared-task/test/41251.wav,54438,i want a room for four five nights
+/data/shared-task/test/41252.wav,38438,a single room please
+/data/shared-task/test/41253.wav,42918,can i pay with credit card
+/data/shared-task/test/41255.wav,43558,i want a room for two nights
+/data/shared-task/test/41256.wav,50598,a single room please
+/data/shared-task/test/41257.wav,42918,can i pay with credit card
+/data/shared-task/test/41258.wav,37798,is there a lift
+/data/shared-task/test/41259.wav,55718,i want one ticket to london
+/data/shared-task/test/41260.wav,169638,i leave at thirty o'clock morning
+/data/shared-task/test/41263.wav,42278,from italy
+/data/shared-task/test/41265.wav,50598,i want two tickets to london
+/data/shared-task/test/41272.wav,41638,can i pay with credit card
+/data/shared-task/test/41273.wav,39078,i want a ticket to westminster
+/data/shared-task/test/41277.wav,87718,i want a ticket to trafalgar square
+/data/shared-task/test/41279.wav,45478,i want ticket to green park
+/data/shared-task/test/41282.wav,47398,i want a ticket to notting hill
+/data/shared-task/test/41283.wav,34598,can i pay with post card
+/data/shared-task/test/41284.wav,109478,i want a ticket to piccadilly circus
+/data/shared-task/test/41287.wav,99878,i want a a ticket to piccadilly circus
+/data/shared-task/test/41291.wav,71078,can i pay with master credit card
+/data/shared-task/test/41293.wav,51238,can i pay with euros
+/data/shared-task/test/41294.wav,59558,want a ticket to green park
+/data/shared-task/test/41296.wav,39718,pay with dollars
+/data/shared-task/test/41297.wav,61478,can i with dollars
+/data/shared-task/test/41298.wav,32038,my name is janet
+/data/shared-task/test/41299.wav,42278,i'm from italy
+/data/shared-task/test/41302.wav,158758,the capital of of italy is rome
+/data/shared-task/test/41308.wav,63398,i need but boot
+/data/shared-task/test/41311.wav,49318,i want two musical tickets
+/data/shared-task/test/41312.wav,62118,i want two tickets for tuesday night
+/data/shared-task/test/41314.wav,64678,i want two tickets for billy elliot
+/data/shared-task/test/41318.wav,39078,i would like a still water
+/data/shared-task/test/41320.wav,39078,i'd like a steak
+/data/shared-task/test/41322.wav,45478,i'd like my steak rare
+/data/shared-task/test/41323.wav,71718,i like my steak rare
+/data/shared-task/test/41327.wav,49318,could i see the dessert menu
+/data/shared-task/test/41328.wav,74918,can you what can i what please the desert menu
+/data/shared-task/test/41329.wav,62758,can i pay with credit card
+/data/shared-task/test/41330.wav,34598,is there a lift
+/data/shared-task/test/41331.wav,54438,where is the lift
+/data/shared-task/test/41334.wav,74918,i want a double room please
+/data/shared-task/test/41337.wav,40358,can i pay with visa
+/data/shared-task/test/41338.wav,57638,is there a hotel restaurant

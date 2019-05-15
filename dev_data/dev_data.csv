@@ -1,0 +1,2436 @@
+wav_filename,wav_filesize,transcript
+/data/shared-task/dev/3572.wav,46758,a twin room please
+/data/shared-task/dev/3573.wav,47398,can i pay by credit card
+/data/shared-task/dev/3587.wav,68518,i would like a ticket to piccadilly circus
+/data/shared-task/dev/3590.wav,48038,i need a ticket to green park
+/data/shared-task/dev/3602.wav,52518,i would like a coke
+/data/shared-task/dev/3611.wav,32038,i am good
+/data/shared-task/dev/3619.wav,81318,two ticket to london
+/data/shared-task/dev/3621.wav,47398,i am james
+/data/shared-task/dev/3629.wav,91558,two tickets for the king of lion
+/data/shared-task/dev/3632.wav,94758,i would like to sit in the second row
+/data/shared-task/dev/3650.wav,89638,i going in the holiday
+/data/shared-task/dev/3651.wav,55718,this is my passport
+/data/shared-task/dev/3663.wav,126118,i would like to go on free day night
+/data/shared-task/dev/3664.wav,84518,i would like four tickets for the wicked
+/data/shared-task/dev/3665.wav,65318,i want four tickets for wicked
+/data/shared-task/dev/3669.wav,115878,i want tickets for the national history museum please
+/data/shared-task/dev/3675.wav,58918,i want a room for six nights
+/data/shared-task/dev/3698.wav,28838,my name is sarah
+/data/shared-task/dev/3706.wav,25638,my name is silvia
+/data/shared-task/dev/3712.wav,36518,that's is my passport
+/data/shared-task/dev/3730.wav,42278,is it a lift
+/data/shared-task/dev/3731.wav,35878,where is the lift
+/data/shared-task/dev/3736.wav,55078,i want a room for three nights
+/data/shared-task/dev/3746.wav,37158,i'm from germany
+/data/shared-task/dev/3757.wav,46758,where is the i'm
+/data/shared-task/dev/3767.wav,59558,i would like to pay by credit card
+/data/shared-task/dev/3771.wav,71078,i have no reservation
+/data/shared-task/dev/3783.wav,33958,a double room
+/data/shared-task/dev/3788.wav,42278,where is the restaurant
+/data/shared-task/dev/3794.wav,33318,a twin room
+/data/shared-task/dev/3799.wav,42918,is there a hairdresser
+/data/shared-task/dev/3801.wav,53798,i'd like to change with post card
+/data/shared-task/dev/3811.wav,46118,my name is barbara
+/data/shared-task/dev/3819.wav,36518,musical tickets
+/data/shared-task/dev/3824.wav,64038,i would like to sit in the fourth row
+/data/shared-task/dev/3840.wav,51238,i want sit up front
+/data/shared-task/dev/3846.wav,56358,i need a ticket for saturday night
+/data/shared-task/dev/3848.wav,48038,i want to sit in the front
+/data/shared-task/dev/3851.wav,69798,where is the natural history museum
+/data/shared-task/dev/3873.wav,40998,i want a hamburger
+/data/shared-task/dev/3876.wav,46758,i want peas
+/data/shared-task/dev/3877.wav,39078,i would like some peas
+/data/shared-task/dev/3883.wav,34598,i would like the bill
+/data/shared-task/dev/3892.wav,53158,are there a
+/data/shared-task/dev/3899.wav,56998,a ticket for wednesday evening
+/data/shared-task/dev/3900.wav,95398,a ticket for
+/data/shared-task/dev/3911.wav,44838,i want white boots
+/data/shared-task/dev/3913.wav,32678,i want a t-shirt
+/data/shared-task/dev/3914.wav,43558,i want a yellow t-shirt
+/data/shared-task/dev/3917.wav,38438,i am a large
+/data/shared-task/dev/3919.wav,36518,that's too expensive
+/data/shared-task/dev/3925.wav,37798,i want a yellow t-shirt
+/data/shared-task/dev/3933.wav,43558,i want brown boots
+/data/shared-task/dev/3941.wav,37158,i want sandals
+/data/shared-task/dev/3943.wav,31398,forty-four
+/data/shared-task/dev/3946.wav,44838,i want red trousers
+/data/shared-task/dev/3954.wav,53798,the capital of italy is rome
+/data/shared-task/dev/3961.wav,30118,i am from germany
+/data/shared-task/dev/3962.wav,48038,the capital of germany is berlin
+/data/shared-task/dev/3978.wav,55078,i want to leave at eight o'clock tomorrow
+/data/shared-task/dev/4003.wav,44198,i want to sit in the back
+/data/shared-task/dev/4011.wav,48038,are there a hotel restaurant
+/data/shared-task/dev/4021.wav,44838,a room for three nights
+/data/shared-task/dev/4022.wav,40358,i'd like a junior suite
+/data/shared-task/dev/4028.wav,33318,is there a hairdresser
+/data/shared-task/dev/4029.wav,28198,where is the hairdresser
+/data/shared-task/dev/4039.wav,58918,where is the hair blower
+/data/shared-task/dev/4040.wav,66598,where is the hair blower
+/data/shared-task/dev/4045.wav,49958,where is the hotel bar
+/data/shared-task/dev/4046.wav,46758,my toilet is dirty
+/data/shared-task/dev/4051.wav,40998,a twin room
+/data/shared-task/dev/4061.wav,81958,can i have a ticket to trafalgar square
+/data/shared-task/dev/4064.wav,56998,can i pay with pounds
+/data/shared-task/dev/4072.wav,47398,can i sit in the back
+/data/shared-task/dev/4073.wav,66598,can i have tickets for the london eye
+/data/shared-task/dev/4098.wav,51238,no this is too expensive
+/data/shared-task/dev/4102.wav,30118,is there a lift
+/data/shared-task/dev/4110.wav,28198,my name is janet
+/data/shared-task/dev/4111.wav,30118,i'm from austria
+/data/shared-task/dev/4112.wav,32038,my name is erica
+/data/shared-task/dev/4114.wav,67878,i want to pay with master card
+/data/shared-task/dev/4115.wav,95398,does it have a euh supermarket
+/data/shared-task/dev/4134.wav,55078,i would to pay by credit card
+/data/shared-task/dev/4136.wav,68518,i would pay by credit card
+/data/shared-task/dev/4140.wav,50598,a room for three nights
+/data/shared-task/dev/4141.wav,59558,a room for three nights
+/data/shared-task/dev/4164.wav,45478,i would like a double room
+/data/shared-task/dev/4166.wav,45478,do you have a swimming pool
+/data/shared-task/dev/4172.wav,32038,a twin room please
+/data/shared-task/dev/4176.wav,44198,is there a supermarket
+/data/shared-task/dev/4179.wav,32038,the toilet is dirty
+/data/shared-task/dev/4182.wav,48678,i could not find the hairdryer
+/data/shared-task/dev/4192.wav,41638,i would like a double room
+/data/shared-task/dev/4202.wav,32678,my name is andy
+/data/shared-task/dev/4206.wav,39078,i have two older sisters
+/data/shared-task/dev/4207.wav,30758,i'm on holiday
+/data/shared-task/dev/4210.wav,23718,i am good
+/data/shared-task/dev/4223.wav,44838,give here a hairdresser
+/data/shared-task/dev/4229.wav,34598,where is the tower
+/data/shared-task/dev/4233.wav,455718,the marble arch is is the left of hyde park the marble arch is on the other side of hyde park
+/data/shared-task/dev/4261.wav,46758,i will pay four musical tickets
+/data/shared-task/dev/4262.wav,147878,can i have a ticket for midday night
+/data/shared-task/dev/4267.wav,44198,i would like some boots
+/data/shared-task/dev/4269.wav,41638,thirty-nine
+/data/shared-task/dev/4288.wav,51878,where are the big ben
+/data/shared-task/dev/4292.wav,122278,a to nothing hill
+/data/shared-task/dev/4294.wav,78758,i would like a ticket to hill
+/data/shared-task/dev/4299.wav,142758,i would like buy five tickets to london
+/data/shared-task/dev/4311.wav,69798,i want buy with the master card
+/data/shared-task/dev/4314.wav,81958,i want pay four musical tickets
+/data/shared-task/dev/4328.wav,49958,i would like a hamburger
+/data/shared-task/dev/4329.wav,74278,i would like my hamburger rare
+/data/shared-task/dev/4330.wav,53798,i would like my hamburger rare
+/data/shared-task/dev/4335.wav,46118,i would like the dessert plan
+/data/shared-task/dev/4353.wav,27558,little
+/data/shared-task/dev/4368.wav,37798,is there a gym
+/data/shared-task/dev/4374.wav,39718,is there a hotel restaurant
+/data/shared-task/dev/4375.wav,41638,where is the hotel restaurant
+/data/shared-task/dev/4377.wav,51878,can i have a room for six nights
+/data/shared-task/dev/4384.wav,45478,i want pay with credit card
+/data/shared-task/dev/4401.wav,31398,i'm from spain
+/data/shared-task/dev/4404.wav,64678,the capital city of the swiss is bern
+/data/shared-task/dev/4408.wav,35238,i going on holidays
+/data/shared-task/dev/4411.wav,60838,can i have a ticket to notting hill
+/data/shared-task/dev/4418.wav,67878,a ticket for mamma mia
+/data/shared-task/dev/4421.wav,52518,i want to sit in the fifth row
+/data/shared-task/dev/4422.wav,68518,i would like tickets for the national gallery
+/data/shared-task/dev/4424.wav,62758,i want a room for four nights please
+/data/shared-task/dev/4425.wav,50598,can i have a double room please
+/data/shared-task/dev/4430.wav,43558,where is the hotel restaurant
+/data/shared-task/dev/4432.wav,39718,where is the national gallery
+/data/shared-task/dev/4435.wav,46118,where is the piccadilly bill
+/data/shared-task/dev/4436.wav,150438,it's near the bank of england
+/data/shared-task/dev/4440.wav,73638,i would like white boots
+/data/shared-task/dev/4441.wav,47398,i would like white boots
+/data/shared-task/dev/4445.wav,45478,i would like a yellow t-shirt
+/data/shared-task/dev/4458.wav,40998,i want a shirt
+/data/shared-task/dev/4463.wav,40358,i do not want this shirt
+/data/shared-task/dev/4474.wav,26918,my name is nick
+/data/shared-task/dev/4476.wav,61478,i would like two tickets to london
+/data/shared-task/dev/4481.wav,36518,my name is barbara
+/data/shared-task/dev/4482.wav,33958,i am from
+/data/shared-task/dev/4486.wav,57638,the capital of is rome
+/data/shared-task/dev/4493.wav,57638,the capital of is madrid
+/data/shared-task/dev/4511.wav,36518,that is okay
+/data/shared-task/dev/4520.wav,56358,i like to pay with credit card
+/data/shared-task/dev/4545.wav,44838,i would like to sit in the fourth row
+/data/shared-task/dev/4546.wav,65958,can i have tickets for the natural museum
+/data/shared-task/dev/4547.wav,32678,can i have two tickets
+/data/shared-task/dev/4550.wav,171558,can i have a ticket for friday night
+/data/shared-task/dev/4552.wav,53798,can i have a ticket for billy elliot
+/data/shared-task/dev/4563.wav,34598,can i have three tickets
+/data/shared-task/dev/4565.wav,32678,i would like a tea
+/data/shared-task/dev/4566.wav,34598,i would like a hamburger
+/data/shared-task/dev/4567.wav,44198,i would like my hamburger medium
+/data/shared-task/dev/4569.wav,44838,can i have the desert card
+/data/shared-task/dev/4574.wav,55718,can i have the sunday roast
+/data/shared-task/dev/4580.wav,51238,i would like the custard tart
+/data/shared-task/dev/4587.wav,36518,i would like some beans
+/data/shared-task/dev/4592.wav,32038,can i have a steak
+/data/shared-task/dev/4596.wav,65318,i would like my steak well down
+/data/shared-task/dev/4603.wav,56998,i would like the custard tart
+/data/shared-task/dev/4608.wav,49958,i like my steak rare
+/data/shared-task/dev/4620.wav,48678,i like to pay with credit card
+/data/shared-task/dev/4622.wav,44198,where is the national gallery
+/data/shared-task/dev/4634.wav,35878,where is the science museum
+/data/shared-task/dev/4636.wav,45478,the marble parch
+/data/shared-task/dev/4656.wav,40998,how much are these jeans
+/data/shared-task/dev/4664.wav,49958,i would like a yellow shirt
+/data/shared-task/dev/4667.wav,37158,i am a large
+/data/shared-task/dev/4668.wav,41638,how much does it cost
+/data/shared-task/dev/4669.wav,42918,the shirt is too expensive
+/data/shared-task/dev/4677.wav,56358,can i have a room for one night
+/data/shared-task/dev/4687.wav,35878,my name is john
+/data/shared-task/dev/4697.wav,38438,i like to leave at sunday
+/data/shared-task/dev/user-265_2014-12-10_07-00-41_utt_008.wav,65958,i am from austria austria
+/data/shared-task/dev/user-265_2014-12-10_07-00-41_utt_011.wav,61478,i need a ticket to trafalgar square
+/data/shared-task/dev/user-265_2014-12-10_07-00-41_utt_012.wav,117158,i want i want which visas buy
+/data/shared-task/dev/user-265_2014-12-17_06-47-14_utt_003.wav,62758,i don't have a reservation
+/data/shared-task/dev/user-260_2014-11-25_07-50-55_utt_011.wav,40998,a room for two nights
+/data/shared-task/dev/user-260_2014-11-25_07-50-55_utt_012.wav,39718,yes
+/data/shared-task/dev/user-260_2014-12-10_06-56-11_utt_012.wav,62118,the capital from switzerland is bern
+/data/shared-task/dev/user-260_2014-12-10_06-56-11_utt_024.wav,44198,i would pay with euros
+/data/shared-task/dev/user-260_2014-12-17_06-50-54_utt_020.wav,39078,i would like a steak
+/data/shared-task/dev/user-283_2014-11-27_06-44-07_utt_012.wav,53798,where is the swimming pool
+/data/shared-task/dev/user-283_2014-11-27_06-44-07_utt_015.wav,53798,four tickets to london
+/data/shared-task/dev/user-283_2014-11-27_06-44-07_utt_025.wav,69798,my name is barbara
+/data/shared-task/dev/user-283_2014-11-27_06-44-07_utt_026.wav,195238,i am from england i am from england
+/data/shared-task/dev/user-283_2014-12-16_08-28-54_utt_004.wav,69798,i would like a room for seven nights
+/data/shared-task/dev/user-283_2014-12-16_08-28-54_utt_010.wav,54438,my bathroom is dirty
+/data/shared-task/dev/user-283_2014-12-16_08-28-54_utt_013.wav,67878,where can i buy a hairdryer
+/data/shared-task/dev/user-278_2014-12-16_08-25-57_utt_018.wav,55078,no i do not have a reservation
+/data/shared-task/dev/user-271_2014-12-16_08-45-56_utt_005.wav,33958,i want a room for one week
+/data/shared-task/dev/user-270_2014-12-16_16-54-48_utt_006.wav,58278,i would like to leave on friday morning
+/data/shared-task/dev/user-270_2014-12-16_16-54-48_utt_020.wav,55078,can i pay by credit card
+/data/shared-task/dev/user-270_2014-12-16_16-54-48_utt_028.wav,84518,i want four tickets for starlight express
+/data/shared-task/dev/user-270_2014-12-16_16-54-48_utt_032.wav,35878,one ticket please
+/data/shared-task/dev/user-270_2014-12-16_16-54-48_utt_033.wav,40998,i would like one ticket
+/data/shared-task/dev/user-280_2014-11-27_06-57-09_utt_004.wav,78758,a room for seven nights
+/data/shared-task/dev/user-280_2014-11-27_06-57-09_utt_006.wav,53798,i would pay with mastercard
+/data/shared-task/dev/user-280_2014-11-27_06-57-09_utt_010.wav,45478,where is the swimming pool
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_036.wav,60198,can i have two tickets for the musical
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_044.wav,37158,one ticket
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_045.wav,40358,one ticket
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_054.wav,56358,can i have the dessert card
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_060.wav,49318,where is the oxford street
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_074.wav,58278,i would like to have a brown t-shirt
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_095.wav,46758,this is my pass
+/data/shared-task/dev/user-289_2014-11-27_06-45-36_utt_005.wav,74918,i will with master card buy
+/data/shared-task/dev/user-282_2014-11-27_06-53-16_utt_004.wav,55718,i would like two tickets to london
+/data/shared-task/dev/user-282_2014-11-27_06-53-16_utt_013.wav,55718,can i have a room for three nights
+/data/shared-task/dev/user-282_2014-11-27_06-53-16_utt_019.wav,42918,is there a swimming pool
+/data/shared-task/dev/user-282_2014-11-30_20-35-31_utt_006.wav,37798,i am from turkey
+/data/shared-task/dev/user-282_2014-11-30_20-35-31_utt_010.wav,47398,i want a room for five nights
+/data/shared-task/dev/user-282_2014-11-30_20-35-31_utt_013.wav,46118,i wanna play with visa
+/data/shared-task/dev/user-282_2014-12-16_08-27-04_utt_005.wav,45478,i want a room for four nights
+/data/shared-task/dev/user-23_2014-11-03_09-47-09_utt_009.wav,42918,i want a coffee
+/data/shared-task/dev/user-23_2014-11-03_09-47-09_utt_011.wav,48678,i want the steak
+/data/shared-task/dev/user-23_2014-11-03_09-47-09_utt_012.wav,72358,i would like my steak medium
+/data/shared-task/dev/user-23_2014-11-03_09-47-09_utt_016.wav,61478,i would like the raspberry sorbet
+/data/shared-task/dev/user-45_2014-10-29_13-11-30_utt_004.wav,95398,a room for four nights
+/data/shared-task/dev/user-45_2014-10-29_13-11-30_utt_009.wav,47398,i want the suite
+/data/shared-task/dev/user-45_2014-10-29_13-11-30_utt_010.wav,56358,a suite
+/data/shared-task/dev/user-45_2014-10-29_13-11-30_utt_017.wav,49318,do you have a lift
+/data/shared-task/dev/user-45_2014-10-29_13-11-30_utt_019.wav,86438,i would a ticket to the green park
+/data/shared-task/dev/user-45_2014-10-29_13-11-30_utt_034.wav,55718,i am a thirty-seven
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_002.wav,56998,i haven't a reservation
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_008.wav,56358,i would pay by post card
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_009.wav,61478,i would pay by post card
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_020.wav,46758,can i pay with post card
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_021.wav,60838,i want to
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_033.wav,55718,is there a grocery store
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_047.wav,76198,i'd like a room for seven nights
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_014.wav,44838,i would like a suite
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_024.wav,64678,i would like a room for one week
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_049.wav,49318,is there a hairdresser
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_058.wav,69798,i'd like to pay by mastercard
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_060.wav,51238,is there a swimming pool
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_087.wav,66598,i'd like a ticket to westminster
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_090.wav,57638,i wish to pay with euros
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_091.wav,61478,can i pay with euros
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_105.wav,52518,i pay by credit card
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_123.wav,53798,i'd like white boots
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_126.wav,50598,i'd like some jeans
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_002.wav,60838,i'd like a ticket to london
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_023.wav,69798,i would like to leave on thursday morning
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_034.wav,85798,i want to leave on thursday afternoon
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_038.wav,46758,i'm from france
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_046.wav,49318,i'm from ireland
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_053.wav,49318,cheap ticket
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_060.wav,52518,i'm from france
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_081.wav,50598,my name is paul
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_091.wav,39718,my name is sarah
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_093.wav,58278,i'm from france
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_015.wav,49958,the apple pie please
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_028.wav,51238,this is not what i ordered
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_030.wav,55078,i'd like the dessert menu
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_032.wav,51878,the dessert menu please
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_036.wav,58918,i would like a still water
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_062.wav,56998,where is the oxford street
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_077.wav,63398,i'd like some blue boots
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_078.wav,46758,blue boots please
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_092.wav,44838,i'm a forty-two
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_106.wav,30118,forty
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_124.wav,48678,i'd like some boots
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_126.wav,49958,i am a thirty-nine
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_138.wav,55078,i do not want this
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_002.wav,46758,i'd like a lemonade
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_014.wav,53798,i'd like a coffee
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_018.wav,65958,i want my sunday roast medium
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_031.wav,47398,i'd like french fries
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_038.wav,60198,i'd like to pay by post card
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_054.wav,60838,i'd like the sunday roast
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_065.wav,56998,i'd like the sunday roast
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_071.wav,56998,this is not what i ordered
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_074.wav,48038,i want the trifle
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_080.wav,39078,where is the tower
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_082.wav,44838,where is the tower
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_005.wav,32038,a suite
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_008.wav,56358,can i pay by post card
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_017.wav,45478,i'd like a single room
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_019.wav,60838,i'd like to pay by post card
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_032.wav,47398,sorry i need to go
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_058.wav,62118,there isn't shampoo in my room
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_065.wav,55718,i'd like a twin room
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_075.wav,64678,there isn't a hairdryer in the room
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_079.wav,58278,i'd like a room for five nights
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_081.wav,46758,can i pay by post card
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_005.wav,40998,i'd like a single room
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_016.wav,49958,i haven't a reservation
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_017.wav,56998,i have not a reservation
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_027.wav,60838,i'd like a room for four nights
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_030.wav,48038,is there a swimming pool
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_034.wav,42918,my name is andrew
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_049.wav,50598,i am from ireland
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_053.wav,70438,the capital from spain is madrid
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_055.wav,42918,i go the holiday
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_067.wav,83238,i'd like one ticket for the phantom of the opera
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_085.wav,43558,i want to go
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_096.wav,39078,forty-two
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_097.wav,57638,i am a forty-two
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_099.wav,61478,i'd like violet jeans
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_105.wav,46118,this is too expensive
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_116.wav,48038,i'd like jeans
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_121.wav,37158,how much is this
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_128.wav,49318,can i pay by mastercard
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_140.wav,42918,i'd like the steak
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_152.wav,43558,i'd like the steak
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_157.wav,60838,that is not that what i ordered
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_166.wav,35238,a suite
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_168.wav,62758,i'd like to pay by mastercard
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_171.wav,52518,where is the hairdresser
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_182.wav,53158,i'd like to pay by credit card
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_202.wav,56358,i haven't a reservation
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_239.wav,44198,my name is erica
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_244.wav,76198,i'd like to leave at thursday evening
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_246.wav,46118,my name is mona
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_261.wav,58918,i'd like a ticket to the green park
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_313.wav,71078,i'd like a ticket for wicked
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_323.wav,48678,i'd like the sunday roast
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_324.wav,67238,i want my sunday roast well done
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_336.wav,49958,i'd like the dessert card
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_338.wav,54438,i want a raspberry sorbet
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_357.wav,55718,the dessert menu please
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_359.wav,66598,i'd like the raspberry sorbet
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_368.wav,60838,that's not that what i ordered
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_369.wav,48678,this is not what i ordered
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_380.wav,39718,i'd like a steak
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_435.wav,44838,i'd like sandals
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_444.wav,37158,how much is this
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_463.wav,44198,i don't want that
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_468.wav,44198,i'd like sandals
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_473.wav,29478,small
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_006.wav,46118,i am from america
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_009.wav,50598,i'd like a ticket to london
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_017.wav,42918,my name is michelle
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_029.wav,42918,my name is sarah
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_051.wav,72998,yes that's my passport
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_066.wav,51878,yes this is my passport
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_073.wav,53798,i am from turkey
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_074.wav,54438,turkey isn't africa
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_084.wav,60838,i'd like a ticket to the green park
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_094.wav,68518,i'd like a ticket to the westminster
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_095.wav,50598,i'd like to pay by post card
+/data/shared-task/dev/user-45_2014-11-19_17-46-32_utt_016.wav,49958,yes this is my passport
+/data/shared-task/dev/user-46_2014-10-29_15-43-47_utt_005.wav,58278,i want a room for two nights
+/data/shared-task/dev/user-46_2014-10-29_15-43-47_utt_009.wav,72998,i want pay with the credit card
+/data/shared-task/dev/user-46_2014-10-29_15-43-47_utt_018.wav,74918,no i don't have a reservation
+/data/shared-task/dev/user-46_2014-10-29_15-43-47_utt_025.wav,56358,is there a grocery store
+/data/shared-task/dev/user-46_2014-11-03_14-37-39_utt_005.wav,40358,a double room
+/data/shared-task/dev/user-46_2014-11-03_14-37-39_utt_006.wav,48678,a double room
+/data/shared-task/dev/user-46_2014-11-03_14-37-39_utt_017.wav,61478,no i do not have a reservation
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_031.wav,52518,i'm from portugal
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_037.wav,54438,yes it is my passport
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_043.wav,79398,i've got three older brothers
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_066.wav,50598,i want tickets for madame tussauds
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_068.wav,33958,two tickets
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_082.wav,67238,i want to sit in the first row
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_087.wav,42278,i want two tickets
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_090.wav,55078,i want four musical tickets
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_094.wav,65958,i want a room for six nights
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_097.wav,58918,i would like a junior suite
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_119.wav,46758,can i pay with euros
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_130.wav,56998,is there a fitness studio
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_142.wav,70438,i want a room for four nights
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_163.wav,55078,i want two tickets to london
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_172.wav,44838,i want five tickets to london
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_181.wav,42918,i'm from
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_192.wav,48678,i am from switzerland
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_194.wav,50598,switzerland is in europe
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_196.wav,64038,the capital of switzerland is bern
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_199.wav,43558,i go in the holiday
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_206.wav,46118,i'm from turkey
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_215.wav,50598,yes it's my passport
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_218.wav,39078,my name is erica
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_219.wav,46758,i'm from france
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_227.wav,56358,the capital of france is paris
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_229.wav,45478,i go in holidays
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_233.wav,35878,my name is john
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_234.wav,42278,i'm from turkey
+/data/shared-task/dev/user-46_2014-11-11_14-37-09_utt_018.wav,62118,i would like to leave on thursday evening
+/data/shared-task/dev/user-46_2014-11-11_14-37-09_utt_019.wav,42278,my name is erica
+/data/shared-task/dev/user-46_2014-11-11_14-37-09_utt_029.wav,60838,i want one ticket for mamma mia
+/data/shared-task/dev/user-46_2014-11-11_14-37-09_utt_044.wav,52518,i want a ticket to trafalgar square
+/data/shared-task/dev/user-48_2014-10-30_19-57-57_utt_010.wav,40358,is there a hotel restaurant
+/data/shared-task/dev/user-48_2014-11-09_11-22-37_utt_008.wav,35878,is there a grocery store
+/data/shared-task/dev/user-48_2014-11-09_11-22-37_utt_012.wav,32678,the toilet is dirty
+/data/shared-task/dev/user-48_2014-11-09_11-22-37_utt_019.wav,43558,can i have a room for two nights
+/data/shared-task/dev/user-48_2014-11-09_11-22-37_utt_056.wav,32678,i have one older sister
+/data/shared-task/dev/user-48_2014-11-09_11-22-37_utt_063.wav,36518,i'm looking for sandals
+/data/shared-task/dev/user-48_2014-11-14_15-39-25_utt_002.wav,33958,i'd like a lemonade
+/data/shared-task/dev/user-48_2014-11-14_15-39-25_utt_005.wav,42918,can i have mashed potato
+/data/shared-task/dev/user-48_2014-11-14_15-39-25_utt_006.wav,30758,the dessert menu please
+/data/shared-task/dev/user-48_2014-11-14_15-39-25_utt_014.wav,41638,i'd like my hamburger medium
+/data/shared-task/dev/user-49_2014-11-02_17-58-17_utt_028.wav,26278,i am from switzerland
+/data/shared-task/dev/user-50_2014-11-11_16-10-10_utt_007.wav,28838,i am from england
+/data/shared-task/dev/user-50_2014-11-11_16-10-10_utt_011.wav,22438,one ticket
+/data/shared-task/dev/user-50_2014-11-11_16-10-10_utt_022.wav,46118,one ticket for starlight express
+/data/shared-task/dev/user-50_2014-11-11_16-10-10_utt_038.wav,30758,i would like the bill
+/data/shared-task/dev/user-50_2014-11-11_16-10-10_utt_048.wav,28838,i would like blue sandals
+/data/shared-task/dev/user-50_2014-11-11_16-10-10_utt_049.wav,27558,forty-three
+/data/shared-task/dev/user-50_2014-11-11_16-10-10_utt_061.wav,34598,i want a room for four nights
+/data/shared-task/dev/user-50_2014-11-11_16-10-10_utt_066.wav,56358,can i pay with euros
+/data/shared-task/dev/user-50_2014-11-11_16-10-10_utt_068.wav,37158,is there a grocery store
+/data/shared-task/dev/user-51_2014-11-03_14-37-59_utt_012.wav,37798,i haven't a reservation
+/data/shared-task/dev/user-51_2014-11-03_14-37-59_utt_017.wav,51238,i want a ticket to piccadilly circus
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_013.wav,37798,where is the hairdresser
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_026.wav,8358,can
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_027.wav,62758,i want a room for seven nights please
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_029.wav,60838,a suite i would like a twin please
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_053.wav,53798,where can i find a hairdryer
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_057.wav,51238,i would like to leave on tuesday afternoon
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_060.wav,37798,my nationality is austria
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_061.wav,35878,i am from austria
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_070.wav,48038,i would like three tickets to london
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_072.wav,48038,i want to leave on wednesday morning
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_084.wav,39718,my name is james
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_101.wav,31398,my name is paul
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_102.wav,32038,i'm from germany
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_104.wav,34598,germany is in europe
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_109.wav,40998,yes it is my passport
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_112.wav,35238,my name is john
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_115.wav,8358,it
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_119.wav,46118,i have three older sisters
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_121.wav,39718,yes that's my passport
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_125.wav,31398,i'm from switzerland
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_126.wav,44838,switzerland is not in africa
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_127.wav,40358,switzerland is in europe
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_129.wav,46118,the capital of switzerland is bern
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_147.wav,39718,i need four tickets
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_155.wav,62118,i would like the dessert dessert card
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_156.wav,30758,the dessert menu please
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_161.wav,27558,i would like the check
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_162.wav,44198,can i can i
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_168.wav,40998,i would like a room for three nights
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_180.wav,40358,is there a fitness studio
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_186.wav,37158,i would like a twin room
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_213.wav,35238,my room is triangular
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_219.wav,160678,in my room hasn't got a in my room in my room isn't a
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_224.wav,22438,i'm good
+/data/shared-task/dev/user-51_2014-11-16_15-47-21_utt_002.wav,39718,i do not have a reservation
+/data/shared-task/dev/user-51_2014-11-16_15-47-21_utt_011.wav,27558,i would like a suite
+/data/shared-task/dev/user-51_2014-11-16_15-47-21_utt_013.wav,29478,is there a hairdresser
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_018.wav,27558,whose bus go there
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_028.wav,42918,marble arch is opposite hyde park
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_053.wav,46118,where is the piccadilly circus
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_054.wav,26278,whose bus go to
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_063.wav,40998,where is the science museum
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_064.wav,40998,where is the science museum
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_066.wav,44838,whose bus go there
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_068.wav,9638,this
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_085.wav,33958,whose bus go there
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_093.wav,31398,where is the big ben
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_106.wav,30758,the dessert menu please
+/data/shared-task/dev/user-51_2014-11-16_16-19-57_utt_024.wav,31398,shampoo on my room isn't a shampoo
+/data/shared-task/dev/user-51_2014-11-16_16-19-57_utt_036.wav,101798,four tickets for the saturdays four tickets for the tuesday
+/data/shared-task/dev/user-56_2014-11-06_16-32-06_utt_015.wav,40998,a room for two nights
+/data/shared-task/dev/user-56_2014-11-06_16-32-06_utt_021.wav,38438,where is the hotel bar
+/data/shared-task/dev/user-56_2014-11-06_16-32-06_utt_023.wav,40358,my room is dirty
+/data/shared-task/dev/user-56_2014-11-06_16-32-06_utt_025.wav,55078,in the room is not a shower gel
+/data/shared-task/dev/user-56_2014-11-06_16-32-06_utt_033.wav,55718,i would like to pay with mastercard
+/data/shared-task/dev/user-56_2014-11-06_16-32-06_utt_048.wav,42278,my toilet is dirty
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_009.wav,57638,i don't have a reservation
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_010.wav,75558,i do no have a reservation
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_017.wav,49958,where is the fitness studio
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_024.wav,42278,i'm from england
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_028.wav,41638,i'm from england
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_030.wav,60838,a ticket of nothing hill
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_036.wav,48678,ah four musical tickets please
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_045.wav,73638,can i have of
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_052.wav,41638,i would like the sunday roast
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_056.wav,55078,i would like a dessert card please
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_057.wav,36518,the dessert menu
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_085.wav,51878,i'm a large
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_099.wav,45478,i am going on holidays
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_103.wav,52518,i do not have a reservation
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_105.wav,39078,a room for one week
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_110.wav,40358,where is the hairdresser
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_115.wav,53158,where can i buy have shampoo
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_041.wav,39718,i would like a steak
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_047.wav,41638,i would like the custard tart
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_055.wav,83878,could you give me directions to the tate modern
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_056.wav,49318,where is the oxford street
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_058.wav,34598,which bus goes there
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_065.wav,27558,sorry i need to go
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_076.wav,35238,i would like red jeans
+/data/shared-task/dev/user-57_2014-10-30_18-43-25_utt_010.wav,31398,my name is paolo
+/data/shared-task/dev/user-57_2014-10-30_18-43-25_utt_019.wav,41638,can i pay with visa
+/data/shared-task/dev/user-57_2014-10-30_18-43-25_utt_022.wav,48678,i would like two musical tickets
+/data/shared-task/dev/user-57_2014-10-30_18-43-25_utt_024.wav,65958,i would like two tickets for billy elliot
+/data/shared-task/dev/user-57_2014-10-30_18-43-25_utt_037.wav,47398,i would like my sunday roast medium
+/data/shared-task/dev/user-57_2014-10-30_18-43-25_utt_040.wav,128038,i would like the dessert card i would like the dessert card
+/data/shared-task/dev/user-57_2014-10-30_18-43-25_utt_050.wav,40998,which bus goes there
+/data/shared-task/dev/user-57_2014-10-30_18-43-25_utt_067.wav,51238,no i do not want it
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_003.wav,29478,a room for one week
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_004.wav,39718,i would like a twin room please
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_005.wav,42278,i would like a twin room please
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_022.wav,34598,my name is paolo
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_026.wav,45478,i am going on holidays
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_038.wav,64678,i would like three tickets for starlight express
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_046.wav,51238,i would like my sunday roast rare
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_068.wav,28198,forty-four
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_069.wav,35878,i would like a sweatshirt
+/data/shared-task/dev/user-57_2014-11-06_11-36-06_utt_007.wav,37158,is there a swimming pool
+/data/shared-task/dev/user-57_2014-11-06_11-36-06_utt_024.wav,27558,my name is patrick
+/data/shared-task/dev/user-57_2014-11-06_11-47-15_utt_003.wav,32678,i am from germany
+/data/shared-task/dev/user-57_2014-11-06_11-47-15_utt_007.wav,55078,the capital of germany is berlin
+/data/shared-task/dev/user-57_2014-11-06_11-47-15_utt_011.wav,38438,this is my passport
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_009.wav,55078,i'm going in the holidays
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_010.wav,49318,yes it's my passport
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_015.wav,38438,can i pay with visa
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_025.wav,88358,i would like on thursday evening go
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_032.wav,40358,i would like four tickets
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_050.wav,48678,which bus goes there
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_052.wav,126118,the tower is near tower bridge the tower is near tower bridge
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_062.wav,27558,i would like jeans
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_065.wav,24358,small
+/data/shared-task/dev/user-57_2014-11-07_11-18-23_utt_012.wav,45478,i would like three tickets to london
+/data/shared-task/dev/user-57_2014-11-07_11-18-23_utt_013.wav,49958,i would like leave in morning
+/data/shared-task/dev/user-57_2014-11-07_11-18-23_utt_015.wav,33958,my name is janet
+/data/shared-task/dev/user-57_2014-11-07_11-18-23_utt_052.wav,58918,i would like the soup of the day
+/data/shared-task/dev/user-57_2014-11-07_11-18-23_utt_057.wav,47398,the dessert menu
+/data/shared-task/dev/user-57_2014-11-07_11-18-23_utt_067.wav,30118,i want to go
+/data/shared-task/dev/user-57_2014-11-07_11-18-23_utt_076.wav,58918,i would like a brown t-shirt
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_012.wav,55718,where is the fitness studio
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_022.wav,55078,i would like a cheaper ticket
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_028.wav,35878,my name is andy
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_039.wav,51238,i would like to go tomorrow
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_047.wav,34598,four tickets
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_051.wav,40358,i would like a coke
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_057.wav,45478,i would like a apple pee
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_063.wav,50598,where is the piccadilly circus
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_071.wav,55718,i would like red boots
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_077.wav,53158,how much cost this jeans
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_082.wav,48038,i would like sandals
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_099.wav,166438,i have four older brothers i have four brothers
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_020.wav,37158,my name is thomas
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_033.wav,66598,i would like three tickets for monday evening
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_037.wav,65958,i would like tickets for the science museum
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_038.wav,42918,four tickets please
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_039.wav,53798,i would like four tickets please
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_046.wav,55718,i would like a still water
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_048.wav,59558,i would like a sunday roast
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_055.wav,41638,i would like the check
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_061.wav,64678,i would like my hamburger medium
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_086.wav,23078,small
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_006.wav,58918,can i pay with mastercard
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_020.wav,33958,my name is james
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_021.wav,39718,i am from portugal
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_025.wav,47398,i am from germany
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_030.wav,45478,i have three sisters
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_031.wav,78758,i have three sisters
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_047.wav,64678,i would like tickets for the british museum
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_053.wav,53798,i would like a hamburger
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_056.wav,49318,i would like the dessert menu
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_057.wav,53158,i would like the custard tart
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_071.wav,42918,i would like sandals
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_072.wav,42918,i would like blue sandals
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_074.wav,32038,i would like jeans
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_075.wav,42278,i would like white jeans
+/data/shared-task/dev/user-57_2014-11-11_16-55-24_utt_076.wav,24358,small
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_004.wav,41638,a room for five nights
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_006.wav,40358,twin room
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_016.wav,49958,a room for three nights
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_022.wav,49958,four tickets to london
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_023.wav,51878,i would like four tickets to london
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_026.wav,41638,my name is james
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_034.wav,55078,i'm going in the holidays
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_045.wav,71078,i would like to go tomorrow
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_049.wav,34598,one ticket please
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_050.wav,38438,one ticket
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_073.wav,41638,i would like the scones
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_074.wav,35238,i would like the check
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_084.wav,35238,i want to go
+/data/shared-task/dev/user-57_2014-11-13_18-25-35_utt_005.wav,26918,single room
+/data/shared-task/dev/user-57_2014-11-13_18-25-35_utt_025.wav,48678,yes it is my passport
+/data/shared-task/dev/user-57_2014-11-13_18-25-35_utt_031.wav,56998,i have great notes
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_004.wav,47398,i would like my steak medium
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_017.wav,47398,where is the science museum
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_021.wav,66598,saint pauls cathedral is near bank of england
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_027.wav,60198,i am good
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_038.wav,42278,this is too far
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_039.wav,46118,i do not want this shirt
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_042.wav,53798,i do not want this
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_044.wav,37798,i do not have a reservation
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_047.wav,47398,can i pay with visa
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_048.wav,39078,is there a food store
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_049.wav,46758,is there a food store
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_052.wav,78118,where is the food store
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_055.wav,47398,i would like two tickets to london
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_058.wav,42918,i am from switzerland
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_061.wav,32678,my name is erica
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_069.wav,37798,yes it is my passport
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_072.wav,64038,i would like a ticket to trafalgar square
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_077.wav,72358,i would like tickets for thirty evening
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_091.wav,44198,i would like the dessert menu
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_101.wav,43558,where is the oxford street
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_105.wav,69798,saint pauls cathedral is near bank of england
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_120.wav,35238,i would like pants
+/data/shared-task/dev/user-57_2014-11-17_15-33-36_utt_024.wav,36518,i only big notes
+/data/shared-task/dev/user-57_2014-11-17_15-33-36_utt_035.wav,56998,two musical tickets for mamma mia
+/data/shared-task/dev/user-57_2014-11-17_15-33-36_utt_045.wav,37798,i would like a hamburger
+/data/shared-task/dev/user-57_2014-11-17_15-33-36_utt_064.wav,49318,where is the tower
+/data/shared-task/dev/user-57_2014-11-17_15-33-36_utt_073.wav,51878,i would like a t-shirt
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_006.wav,40998,i would like to pay with visa
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_011.wav,36518,is there a hairdresser
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_035.wav,53798,i would like two tickets for billy elliot
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_040.wav,32678,i would like three tickets
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_048.wav,33318,i would like mushrooms
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_055.wav,44198,i would like postcard
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_072.wav,11558,shirt
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_082.wav,41638,this is too expensive
+/data/shared-task/dev/user-57_2014-11-19_18-05-17_utt_021.wav,39718,i am from portugal
+/data/shared-task/dev/user-57_2014-11-19_18-05-17_utt_024.wav,30758,my name is brian
+/data/shared-task/dev/user-57_2014-11-19_18-05-17_utt_041.wav,56358,i would like to sit in the seven row
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_012.wav,40358,where is the hotel bar
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_017.wav,49318,i want a carbonated water
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_022.wav,38438,i want beans
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_025.wav,34598,i would like the bill
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_033.wav,52518,i want my hamburger medium
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_034.wav,46118,i would like french fries
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_037.wav,40358,i want the dessert card
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_044.wav,38438,i would like a tea
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_065.wav,42918,i would like a sweatshirt
+/data/shared-task/dev/user-73_2014-11-29_12-00-41_utt_070.wav,51238,i do not want this sweatshirt
+/data/shared-task/dev/user-73_2014-11-29_12-42-56_utt_019.wav,44838,i would like to pay with euros
+/data/shared-task/dev/user-73_2014-11-29_12-42-56_utt_021.wav,43558,are there a fitness studio
+/data/shared-task/dev/user-73_2014-11-29_12-42-56_utt_037.wav,35878,are there a lift
+/data/shared-task/dev/user-73_2014-11-29_12-42-56_utt_059.wav,44198,can i have a room for one week
+/data/shared-task/dev/user-73_2014-12-01_17-38-49_utt_002.wav,50598,no i have no reservation
+/data/shared-task/dev/user-73_2014-12-01_17-38-49_utt_023.wav,42918,i go in the holiday
+/data/shared-task/dev/user-73_2014-12-01_17-38-49_utt_058.wav,33318,i want the bill
+/data/shared-task/dev/user-73_2014-12-01_17-38-49_utt_078.wav,26278,forty
+/data/shared-task/dev/user-73_2014-12-01_17-38-49_utt_083.wav,50598,the sweatshirt is too expensive
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_007.wav,43558,are there a hairdresser
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_020.wav,35878,my name is mona
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_023.wav,81958,can i have a ticket to trafalgar square
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_024.wav,49318,i would like to pay with post card
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_025.wav,49318,i would like to pay with euros
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_036.wav,55718,can i have a ticket to
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_041.wav,39078,i would like two tickets
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_047.wav,51238,i want cooked through my sunday roast
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_051.wav,45478,can i have the dessert card
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_055.wav,48038,i want to pay with visa
+/data/shared-task/dev/user-73_2014-12-07_11-38-03_utt_002.wav,37158,i have no reservation
+/data/shared-task/dev/user-73_2014-12-07_11-38-03_utt_018.wav,46118,i have a little brother
+/data/shared-task/dev/user-73_2014-12-07_11-38-03_utt_019.wav,35878,i have a younger brother
+/data/shared-task/dev/user-73_2014-12-07_11-38-03_utt_020.wav,35878,i go in the holiday
+/data/shared-task/dev/user-73_2014-12-07_11-38-03_utt_022.wav,41638,this is my passport
+/data/shared-task/dev/user-73_2014-12-07_11-38-03_utt_031.wav,46118,i want a musical ticket
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_004.wav,76838,i would like to leave at friday night
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_006.wav,42918,my name is erica
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_017.wav,50598,i would like six tickets to london
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_024.wav,48678,can i have three tickets to london
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_032.wav,49958,i would like two tickets to london
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_033.wav,53158,i would like to leave on wednesday
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_038.wav,50598,can i have four tickets to london
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_045.wav,39078,i'm from england
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_061.wav,46118,i have four brothers
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_068.wav,38438,my name is janet
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_083.wav,97958,i would like to pay with swiss swiss francs
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_087.wav,50598,can i have a ticket to piccadilly circus
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_027.wav,54438,i'm from germany
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_028.wav,64678,germany isn't in africa
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_031.wav,71078,the capital from germany is berlin
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_033.wav,83238,the capital from germany is berlin
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_034.wav,63398,i have a younger brother
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_037.wav,56358,i going in the holidays
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_047.wav,57638,can i have a suite
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_063.wav,42918,forty
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_067.wav,57638,i'd like a black sweatshirt
+/data/shared-task/dev/user-73_2014-12-08_19-41-57_utt_075.wav,43558,i'd like boots
+/data/shared-task/dev/user-73_2014-12-09_05-29-36_utt_003.wav,53798,i would like a room for three nights
+/data/shared-task/dev/user-73_2014-12-09_05-29-36_utt_014.wav,60838,i would like a room for one week
+/data/shared-task/dev/user-73_2014-12-09_05-29-36_utt_018.wav,56358,i would like to pay with swiss francs
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_006.wav,33318,have you got a double room
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_010.wav,28198,where is the lift
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_016.wav,50598,can i have a room for five nights
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_021.wav,33958,i'd like pay with mastercard
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_022.wav,44198,i would like pay with mastercard
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_024.wav,33318,is there a hotel restaurant
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_025.wav,35878,where is the hotel restaurant
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_042.wav,41638,can i have a ticket for billy elliot
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_076.wav,44838,can i have a ticket for billy elliot
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_004.wav,49958,france isn't in africa
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_008.wav,41638,i have one sister
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_009.wav,36518,i go in the holiday
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_016.wav,44198,i'm from america
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_026.wav,40998,i go in the holiday
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_032.wav,67878,can i have a ticket to piccadilly circus
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_035.wav,46118,i have only big notes
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_042.wav,53798,can i have a ticket to green park
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_044.wav,48038,i would like to pay with euros
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_057.wav,48038,i would like to go on tuesday night
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_070.wav,42918,i would like boots
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_093.wav,55078,the sweatshirt is too expensive
+/data/shared-task/dev/user-73_2014-12-14_13-08-44_utt_003.wav,49318,my name is andrew
+/data/shared-task/dev/user-73_2014-12-14_13-08-44_utt_014.wav,52518,i want to have a ticket for this musical
+/data/shared-task/dev/user-73_2014-12-14_13-08-44_utt_015.wav,42278,i want to sit in the front
+/data/shared-task/dev/user-73_2014-12-14_13-08-44_utt_022.wav,51878,i would like a musical ticket
+/data/shared-task/dev/user-73_2014-12-14_13-08-44_utt_024.wav,60198,can i have a ticket for tomorrow night
+/data/shared-task/dev/user-73_2014-12-14_13-08-44_utt_027.wav,51238,i want to sit in the fifth row
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_002.wav,53798,i would like two tickets to london
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_010.wav,40358,i'm from canada
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_013.wav,58278,i would like a ticket to london
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_017.wav,40998,i would like a cheap ticket
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_033.wav,58918,i would like to pay with mastercard
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_070.wav,35238,i would like pants
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_071.wav,36518,i would like pants
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_076.wav,39078,i would like sandals
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_077.wav,39078,i would like white sandals
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_085.wav,39718,i do not want this t-shirt
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_090.wav,44838,i would like red sandals
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_098.wav,43558,the t-shirt is too expensive
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_102.wav,32038,i am fine
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_103.wav,51878,i would have boots
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_114.wav,53158,i do not want this
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_115.wav,52518,i don't want that
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_116.wav,42278,i do not want this
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_119.wav,33958,i'm fine
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_120.wav,54438,i would like sandals
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_121.wav,58278,i would like brown sandals
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_125.wav,49958,i would like brown jeans
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_149.wav,48678,this is my passport
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_161.wav,49318,i am going in the holidays
+/data/shared-task/dev/user-73_2014-12-14_16-07-10_utt_019.wav,34598,is there a lift
+/data/shared-task/dev/user-73_2014-12-14_16-07-10_utt_020.wav,33958,where is the lift
+/data/shared-task/dev/user-73_2014-12-14_16-07-10_utt_036.wav,44838,can i have a hairdryer
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_047.wav,55078,can i have two tickets for sunday evening
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_049.wav,48678,i would like to sit in the tenth row
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_051.wav,48038,i need three tickets
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_059.wav,41638,i need two tickets
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_093.wav,24358,i'm fine
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_106.wav,32038,i'm fine
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_110.wav,44838,i need thirty-one
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_111.wav,47398,i would like pants
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_117.wav,49958,this is too far
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_121.wav,33318,i'm fine
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_147.wav,35878,where is big ben
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_158.wav,49318,where is the british museum
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_162.wav,64038,saint pauls cathedral is near bank of england
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_169.wav,51238,i have no reservation
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_175.wav,37158,my name is thomas
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_176.wav,44198,i am from australia
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_187.wav,67878,i would like to leave by fifteen o'clock tomorrow
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_189.wav,40358,i am from germany
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_194.wav,41638,my name is john
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_213.wav,71718,can i have a ticket to piccadilly circus
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_216.wav,49958,i have smaller notes
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_235.wav,62118,can i have three tickets for mamma mia
+/data/shared-task/dev/user-73_2014-12-16_20-53-50_utt_004.wav,72358,i would like to leave on eight hour tomorrow
+/data/shared-task/dev/user-73_2014-12-16_20-53-50_utt_005.wav,42278,my name is stephanie
+/data/shared-task/dev/user-73_2014-12-17_11-57-36_utt_015.wav,53158,can i have two tickets to london
+/data/shared-task/dev/user-73_2014-12-17_11-57-36_utt_027.wav,33958,my name is stephanie
+/data/shared-task/dev/user-73_2014-12-17_11-57-36_utt_028.wav,31398,i am from france
+/data/shared-task/dev/user-73_2014-12-17_11-57-36_utt_032.wav,67878,i would like to leave on nine hour morning
+/data/shared-task/dev/user-73_2014-12-17_11-57-36_utt_050.wav,35238,i am from germany
+/data/shared-task/dev/user-73_2014-12-17_17-38-41_utt_003.wav,62758,i'd like a tea
+/data/shared-task/dev/user-73_2014-12-17_17-38-41_utt_016.wav,115878,i would like to pay with post card
+/data/shared-task/dev/user-73_2014-12-17_17-38-41_utt_024.wav,73638,i would like the dessert card
+/data/shared-task/dev/user-73_2014-12-17_17-38-41_utt_026.wav,76838,i would like the dessert card
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_028.wav,41638,i would like a steak
+/data/shared-task/dev/user-73_2014-12-17_17-38-41_utt_033.wav,69798,i'd like a hamburger
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_038.wav,42278,i would like the steak
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_041.wav,42278,i would like the dessert menu
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_047.wav,51878,i would like a ticket to london
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_048.wav,58918,i would like to leave on friday morning
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_053.wav,49318,can i have a ticket to london
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_056.wav,72998,i would like to leave on fourteen hour tomorrow
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_065.wav,60198,i would like four tickets for king lion
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_066.wav,53798,i would like to sit in the third row
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_068.wav,58278,i need three tickets
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_076.wav,58918,i would like tickets for the science museum
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_080.wav,51238,i would like three musical tickets
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_090.wav,40358,i would like sandals
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_091.wav,46758,i would like white sandals
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_094.wav,46118,i would like green sweatshirt
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_103.wav,42918,i would like red boots
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_120.wav,48678,i would like a white shirt
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_128.wav,53158,i would like the sunday roast
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_135.wav,46118,i would like the lemon cake
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_144.wav,61478,i would like four tickets for billy elliot
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_154.wav,53158,i would like to sit in the fifth row
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_156.wav,40358,i need two tickets
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_163.wav,46758,i would like white boots
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_182.wav,39718,how much it is coast
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_192.wav,48678,i would like a brown sweatshirt
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_194.wav,39718,this is too far
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_200.wav,26278,i am fine
+/data/shared-task/dev/user-73_2014-12-18_11-08-22_utt_018.wav,49318,i would like to leave on friday evening
+/data/shared-task/dev/user-73_2014-12-18_11-08-22_utt_030.wav,60838,i would like two tickets for the phantom the
+/data/shared-task/dev/user-73_2014-12-18_11-08-22_utt_033.wav,43558,i need four tickets
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_002.wav,24998,i'm fine
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_014.wav,36518,i would like sandals
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_017.wav,31398,i would like a shirt
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_023.wav,44198,i do not want this
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_043.wav,37158,i would like pants
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_046.wav,62758,i would like purple pants
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_048.wav,64038,how much does the pants coast
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_058.wav,44198,i would like a white shirt
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_010.wav,44198,where is the fitness studio
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_017.wav,51238,i would like two musical tickets
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_018.wav,55718,i would like two musical tickets
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_019.wav,62118,i would like a ticket for thursday evening
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_032.wav,50598,i would like to sit in the sixth row
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_042.wav,44198,i would like blue boots
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_045.wav,40358,i would like a t-shirt
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_046.wav,41638,i would like a red t-shirt
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_068.wav,30758,i would like boots
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_084.wav,53158,i would like a white sweatshirt
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_093.wav,58278,i would like four tickets for mamma mia
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_101.wav,56358,i would like a carbonated water
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_104.wav,65318,i would like some mashed potato
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_106.wav,53798,i would like the vanilla ice cream
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_107.wav,69158,i would like the vanilla ice cream
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_122.wav,49958,i would like three tickets to london
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_011.wav,27558,i'm fine
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_012.wav,27558,i am fine
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_013.wav,37798,i would like boots
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_014.wav,46758,i would like red boots
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_031.wav,47398,i would like green pants
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_039.wav,43558,i would like the steak
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_040.wav,65318,i would like my steak well done
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_044.wav,50598,i would like the dessert menu
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_055.wav,52518,i would like eggplant
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_060.wav,38438,i would like scones
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_067.wav,40998,i would like a hamburger
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_071.wav,47398,i would like the custard tart
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_082.wav,76198,i would like tickets for the natural history museum
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_091.wav,60838,i would like tickets for the natural history museum
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_120.wav,47398,i would like blue boots
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_130.wav,48038,i would like sandals
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_131.wav,50598,i would like brown sandals
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_148.wav,45478,i want to go
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_163.wav,39718,i would like the steak
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_170.wav,48678,i would like the dessert menu
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_172.wav,35238,i would like the bill
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_191.wav,61478,i would like tickets for the british museum
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_199.wav,71078,i would like tickets for the natural history museum
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_205.wav,64038,i would like a ticket for monday evening
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_207.wav,51238,i would like to sit in the sixth row
+/data/shared-task/dev/user-242_2014-06-17_07-22-27_utt_015.wav,101798,i would like a junior suite
+/data/shared-task/dev/user-242_2014-06-17_07-22-27_utt_020.wav,116518,is there a hotel restaurant
+/data/shared-task/dev/user-243_2014-06-19_07-35-54_utt_005.wav,41638,a twin
+/data/shared-task/dev/user-245_2014-06-16_20-10-57_utt_004.wav,60838,i would like a double room
+/data/shared-task/dev/user-245_2014-06-16_20-10-57_utt_009.wav,70438,i want to pay with card
+/data/shared-task/dev/user-245_2014-06-16_20-10-57_utt_012.wav,76198,is there a hotel restaurant
+/data/shared-task/dev/user-246_2014-06-10_13-05-30_utt_007.wav,41638,a twin room please
+/data/shared-task/dev/user-246_2014-06-10_13-05-30_utt_009.wav,59558,can i pay with the credit card
+/data/shared-task/dev/user-246_2014-06-10_13-05-30_utt_012.wav,58918,where is the hotel restaurant
+/data/shared-task/dev/user-246_2014-06-11_14-12-41_utt_011.wav,63398,i'm from austria
+/data/shared-task/dev/user-246_2014-06-11_14-12-41_utt_019.wav,54438,i'm from austria
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_016.wav,74278,i want a junior suite
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_029.wav,74918,i'll want a room for four nights
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_032.wav,32678,i want a suite
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_038.wav,42278,where is the hairdresser
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_046.wav,103718,i would see five tickets at london
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_048.wav,71718,i would like five tickets to london
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_051.wav,42918,my name is nick
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_052.wav,72998,i am also from scotland
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_062.wav,69798,i would like to sit in the seventh row
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_063.wav,71078,i would like to sit in the seventh row
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_068.wav,29478,two tickets
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_070.wav,53798,can i have two tickets
+/data/shared-task/dev/user-83_2014-11-03_18-41-45_utt_004.wav,97318,i would like to have a room for three nights
+/data/shared-task/dev/user-83_2014-11-03_18-41-45_utt_007.wav,39718,a twin room please
+/data/shared-task/dev/user-83_2014-11-03_18-41-45_utt_011.wav,46758,who is the fitness studio
+/data/shared-task/dev/user-83_2014-11-03_18-41-45_utt_030.wav,133158,i want please at twenty one a o'clock tomorrow
+/data/shared-task/dev/user-83_2014-11-03_18-41-45_utt_035.wav,58918,i want i want a cheaper ticket
+/data/shared-task/dev/user-83_2014-11-04_17-31-15_utt_009.wav,51878,is there a hotel bar
+/data/shared-task/dev/user-83_2014-11-04_17-31-15_utt_015.wav,53798,my toilet is dirty
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_005.wav,48038,a single room
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_014.wav,64038,i would please
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_019.wav,33958,thirty-eight
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_026.wav,46758,how much is this shirt
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_039.wav,37798,i would like the check
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_059.wav,43558,which bus goes there
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_061.wav,92198,marble arch is face of the hyde park
+/data/shared-task/dev/user-83_2014-11-07_18-13-18_utt_010.wav,76198,i would please pay with visa
+/data/shared-task/dev/user-86_2014-11-12_13-42-49_utt_005.wav,9638,i
+/data/shared-task/dev/user-86_2014-11-12_13-42-49_utt_013.wav,9638,no
+/data/shared-task/dev/user-88_2014-11-26_09-07-28_utt_008.wav,39078,i would like some boots
+/data/shared-task/dev/user-88_2014-11-27_14-37-40_utt_014.wav,32038,i would like boots
+/data/shared-task/dev/user-88_2014-11-27_14-37-40_utt_016.wav,37158,i would like brown boots
+/data/shared-task/dev/user-88_2014-11-27_14-37-40_utt_029.wav,48038,i want to leave at ten o'clock tomorrow
+/data/shared-task/dev/user-88_2014-12-10_09-10-51_utt_008.wav,28198,i am a forty
+/data/shared-task/dev/user-88_2014-12-10_09-10-51_utt_009.wav,37158,i would like a t-shirt
+/data/shared-task/dev/user-88_2014-12-10_09-10-51_utt_011.wav,45478,i would like a white t-shirt
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_003.wav,57638,no i do not have no i don't have a reservation
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_006.wav,64038,i would like a double room
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_008.wav,45478,i want to pay with the mastercard
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_010.wav,32678,can i pay with euros
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_017.wav,35878,my name is brian
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_024.wav,38438,yes this is my passport
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_032.wav,58278,i i would like to pay with post card
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_037.wav,40358,i would like a ticket to notting hill
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_041.wav,23078,i'm okay
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_049.wav,28198,i am a thirty-nine
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_051.wav,28198,i want a shirt
+/data/shared-task/dev/user-89_2014-11-19_11-45-55_utt_004.wav,37798,i want a room for five nights
+/data/shared-task/dev/user-89_2014-11-19_11-45-55_utt_008.wav,28198,can i pay with visa
+/data/shared-task/dev/user-89_2014-11-20_11-33-16_utt_002.wav,36518,i don't have a reservation
+/data/shared-task/dev/user-89_2014-11-20_11-33-16_utt_015.wav,36518,there is no shampoo in the room
+/data/shared-task/dev/user-89_2014-11-20_12-27-24_utt_003.wav,34598,can i pay with master card
+/data/shared-task/dev/user-89_2014-11-20_13-01-12_utt_004.wav,39718,i need three musical tickets
+/data/shared-task/dev/user-89_2014-11-20_13-31-01_utt_004.wav,32038,i want a room for two nights
+/data/shared-task/dev/user-89_2014-11-20_13-31-01_utt_005.wav,24358,single room
+/data/shared-task/dev/user-89_2014-11-20_13-31-01_utt_010.wav,26918,where is the lift
+/data/shared-task/dev/user-89_2014-11-20_19-20-07_utt_002.wav,35878,where is the science museum
+/data/shared-task/dev/user-91_2014-11-26_09-08-59_utt_006.wav,48678,i want a junior suite
+/data/shared-task/dev/user-91_2014-11-26_09-08-59_utt_011.wav,50598,where is the swimming pool
+/data/shared-task/dev/user-91_2014-11-26_09-08-59_utt_017.wav,58278,i want five tickets to london
+/data/shared-task/dev/user-91_2014-11-26_09-08-59_utt_023.wav,46118,i am from canada
+/data/shared-task/dev/user-91_2014-11-27_14-43-08_utt_007.wav,74918,no i do not have a reservation
+/data/shared-task/dev/user-91_2014-12-04_14-37-54_utt_006.wav,37798,i want boots
+/data/shared-task/dev/user-91_2014-12-04_14-37-54_utt_007.wav,36518,i want boots
+/data/shared-task/dev/user-91_2014-12-04_14-37-54_utt_014.wav,52518,i want a purple shirt
+/data/shared-task/dev/user-91_2014-12-10_09-12-51_utt_008.wav,59558,can i pay with mastercard
+/data/shared-task/dev/user-95_2014-10-25_09-40-47_utt_005.wav,51878,i have no reservation
+/data/shared-task/dev/user-95_2014-10-25_09-40-47_utt_016.wav,32678,my name is thomas
+/data/shared-task/dev/user-95_2014-10-25_09-40-47_utt_020.wav,48038,i go in the holidays
+/data/shared-task/dev/user-95_2014-10-25_09-40-47_utt_031.wav,56998,i would like red sandals
+/data/shared-task/dev/user-95_2014-10-25_09-40-47_utt_049.wav,38438,where is the oxford street
+/data/shared-task/dev/user-95_2014-10-25_09-40-47_utt_050.wav,33318,where is oxford street
+/data/shared-task/dev/user-95_2014-11-01_16-27-26_utt_002.wav,55718,no i do not have a reservation
+/data/shared-task/dev/user-95_2014-11-01_16-27-26_utt_007.wav,42278,i want pay with credit card
+/data/shared-task/dev/user-95_2014-11-01_16-27-26_utt_008.wav,62758,i want pay with credit card
+/data/shared-task/dev/user-95_2014-11-01_16-27-26_utt_018.wav,43558,a room for three nights
+/data/shared-task/dev/user-95_2014-11-01_16-27-26_utt_025.wav,41638,i would like to pay with post card
+/data/shared-task/dev/user-99_2014-11-12_13-46-59_utt_017.wav,41638,how much does the jeans cost
+/data/shared-task/dev/user-99_2014-11-12_13-46-59_utt_023.wav,26278,three musical tickets
+/data/shared-task/dev/user-99_2014-11-12_16-07-04_utt_015.wav,35878,i haven't a reservation
+/data/shared-task/dev/user-99_2014-11-20_18-26-48_utt_015.wav,42278,a room for four nights
+/data/shared-task/dev/user-99_2014-11-20_18-26-48_utt_019.wav,50598,i want to pay with a credit card
+/data/shared-task/dev/user-102_2014-10-25_16-30-46_utt_007.wav,35238,junior suite
+/data/shared-task/dev/user-102_2014-11-12_06-42-15_utt_004.wav,60838,i would like a room for three nights
+/data/shared-task/dev/user-102_2014-11-12_06-45-05_utt_008.wav,35238,can i pay with visa
+/data/shared-task/dev/user-102_2014-11-16_09-56-32_utt_017.wav,32678,i would like my hamburger rare
+/data/shared-task/dev/user-115_2014-12-18_16-07-08_utt_005.wav,65318,no i do not have a reservation
+/data/shared-task/dev/user-115_2014-12-18_16-07-08_utt_006.wav,44198,room for one week
+/data/shared-task/dev/user-115_2014-12-18_16-07-08_utt_018.wav,55078,i would like a room for three nights
+/data/shared-task/dev/user-115_2014-12-18_16-07-08_utt_020.wav,49318,can i pay with visa
+/data/shared-task/dev/user-117_2014-12-03_12-47-50_utt_003.wav,53158,i don't have a reservation
+/data/shared-task/dev/user-117_2014-12-03_12-47-50_utt_004.wav,40998,i don't have a reservation
+/data/shared-task/dev/user-117_2014-12-03_12-47-50_utt_007.wav,53798,i haven't a reservation
+/data/shared-task/dev/user-117_2014-12-03_12-47-50_utt_008.wav,67238,i don't have a reservation
+/data/shared-task/dev/user-117_2014-12-03_12-47-50_utt_022.wav,48678,i haven't a reservation
+/data/shared-task/dev/user-117_2014-12-12_16-14-02_utt_034.wav,54438,could you give me a ticket to westminster
+/data/shared-task/dev/user-117_2014-12-13_12-36-24_utt_013.wav,67878,i would like four musical tickets
+/data/shared-task/dev/user-117_2014-12-21_17-30-40_utt_004.wav,37798,i would like a suite
+/data/shared-task/dev/user-117_2014-12-21_17-30-40_utt_013.wav,43558,i would like sandals
+/data/shared-task/dev/user-117_2014-12-21_17-30-40_utt_020.wav,56358,how much does the jeans cost
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_026.wav,37798,i'm from austria
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_045.wav,63398,i would like to pay with swiss francs
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_088.wav,53798,switzerland is in europe
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_102.wav,40998,my name is mona
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_105.wav,43558,my name is erica
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_109.wav,60838,my name is sarah
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_111.wav,64038,i am from italy
+/data/shared-task/dev/user-118_2014-11-28_16-13-59_utt_002.wav,80038,i want a ticket to the piccadilly circus
+/data/shared-task/dev/user-118_2014-11-28_16-13-59_utt_008.wav,64038,i would like to pay with post card
+/data/shared-task/dev/user-118_2014-11-28_16-13-59_utt_035.wav,68518,i would like to have a lemonade
+/data/shared-task/dev/user-118_2014-11-28_16-13-59_utt_037.wav,64678,can i have a steak
+/data/shared-task/dev/user-118_2014-11-28_16-13-59_utt_060.wav,74278,can i have a baked potato
+/data/shared-task/dev/user-118_2014-11-28_16-13-59_utt_066.wav,49958,can i have a fanta
+/data/shared-task/dev/user-118_2014-11-28_16-13-59_utt_071.wav,58278,i want my steak blue
+/data/shared-task/dev/user-118_2014-11-28_16-13-59_utt_075.wav,112038,can i have the dessert menu
+/data/shared-task/dev/user-118_2014-11-28_16-13-59_utt_085.wav,69798,where is the natural history museum
+/data/shared-task/dev/user-123_2014-12-11_10-11-36_utt_012.wav,36518,i'd like blue boots
+/data/shared-task/dev/user-126_2014-12-18_17-13-53_utt_008.wav,48038,can i pay with euros
+/data/shared-task/dev/user-126_2014-12-18_17-13-53_utt_015.wav,57638,no i do not have a reservation
+/data/shared-task/dev/user-126_2014-12-18_17-13-53_utt_018.wav,40998,a twin room please
+/data/shared-task/dev/user-126_2014-12-18_17-13-53_utt_021.wav,39718,is there a hairdresser
+/data/shared-task/dev/user-131_2014-09-19_17-22-35_utt_006.wav,55718,i want a single room
+/data/shared-task/dev/user-131_2014-09-19_17-22-35_utt_010.wav,77478,i want to pay with credit card
+/data/shared-task/dev/user-131_2014-09-19_17-22-35_utt_013.wav,37798,where is the swimming pool
+/data/shared-task/dev/user-131_2014-09-19_17-22-35_utt_014.wav,72998,where is the swimming pool
+/data/shared-task/dev/user-131_2014-09-19_17-22-35_utt_028.wav,48678,where is the lift
+/data/shared-task/dev/user-131_2014-09-19_17-22-35_utt_039.wav,44198,is there a lift
+/data/shared-task/dev/user-131_2014-09-19_17-22-35_utt_049.wav,58278,i want to leave tomorrow at seven pm
+/data/shared-task/dev/user-131_2014-09-23_19-36-12_utt_009.wav,33318,where is the lift
+/data/shared-task/dev/user-131_2014-09-27_20-32-25_utt_002.wav,59558,i would like to stay for three nights
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_009.wav,33318,single room
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_013.wav,58918,i want to play with the visa card
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_017.wav,59558,where is the hotel bar
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_034.wav,108198,i will have a room for seven nights
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_047.wav,61478,where is the hotel bar
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_052.wav,100518,i would to have a ticket a ticket to london
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_057.wav,139558,i would go on fifteen o'clock in the morning
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_068.wav,66598,i'm from portugal
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_069.wav,67878,the capital from portugal is lisabon
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_070.wav,68518,the capital city from portugal is lisabon
+/data/shared-task/dev/user-135_2014-09-17_13-20-12_utt_075.wav,95398,i go in holidays
+/data/shared-task/dev/user-158_2014-09-11_17-50-46_utt_002.wav,62758,one room for two nights please
+/data/shared-task/dev/user-158_2014-09-11_17-50-46_utt_007.wav,33318,a single room
+/data/shared-task/dev/user-158_2014-09-11_17-50-46_utt_009.wav,307238,can i pay with the credit card
+/data/shared-task/dev/user-158_2014-09-11_17-50-46_utt_011.wav,56358,have you got a supermarket
+/data/shared-task/dev/user-158_2014-09-16_16-39-44_utt_006.wav,38438,single room
+/data/shared-task/dev/user-158_2014-09-16_16-39-44_utt_023.wav,46758,where is the fitness studio
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_004.wav,50598,i would like a junior suite
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_014.wav,54438,i want to pay with post card
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_017.wav,42278,where is the fitness studio
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_018.wav,39078,where is the fitness centre
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_019.wav,53158,where is the fitness centre
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_029.wav,37158,is there a lift
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_057.wav,30758,the room is dirty
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_067.wav,42918,i am fine
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_072.wav,39078,i want a t-shirt
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_073.wav,49318,i want a yellow tee shirt
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_004.wav,44838,a room for two nights please
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_006.wav,19238,single room
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_008.wav,37798,a single room please
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_057.wav,34598,is there a market
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_067.wav,56358,can i pay with mastercard
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_072.wav,40998,is there a swimming pool
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_085.wav,56998,i want a room for four nights
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_006.wav,55078,i want a single room
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_011.wav,54438,is there a swimming pool
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_019.wav,47398,i want a single room
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_021.wav,53158,can i pay with post card
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_030.wav,62758,i want a single room
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_033.wav,51878,is there an elevator
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_043.wav,58278,is there a fitness centre
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_050.wav,51238,is there a hotel bar
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_054.wav,56358,i want a room for two nights
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_083.wav,75558,i would like to leave on saturday evening
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_084.wav,46758,my name is barbara
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_098.wav,101798,can i have a ticket to square
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_108.wav,77478,can i have a ticket for the science museum
+/data/shared-task/dev/user-159_2014-09-16_16-11-58_utt_011.wav,64678,can i have three tickets to london
+/data/shared-task/dev/user-159_2014-09-16_16-11-58_utt_012.wav,71718,i would like three tickets to london please
+/data/shared-task/dev/user-159_2014-09-16_16-11-58_utt_015.wav,77478,i would like to leave at ten o'clock tomorrow
+/data/shared-task/dev/user-159_2014-09-16_16-11-58_utt_038.wav,106278,i want to leave tomorrow at four o'clock p m
+/data/shared-task/dev/user-159_2014-09-16_16-11-58_utt_046.wav,87078,i would like five tickets to london
+/data/shared-task/dev/user-159_2014-09-16_16-11-58_utt_047.wav,82598,i would like to leave at friday morning
+/data/shared-task/dev/user-159_2014-09-18_20-15-24_utt_002.wav,76838,i want two tickets to london please
+/data/shared-task/dev/user-159_2014-09-18_20-15-24_utt_003.wav,73638,i would like to leave tomorrow at eleven o'clock
+/data/shared-task/dev/user-159_2014-09-18_20-15-24_utt_008.wav,64038,i want five tickets to london please
+/data/shared-task/dev/user-159_2014-09-19_18-49-15_utt_002.wav,42278,my name's erica
+/data/shared-task/dev/user-159_2014-09-19_18-49-15_utt_008.wav,40358,that's my passport
+/data/shared-task/dev/user-159_2014-09-19_18-49-15_utt_014.wav,48038,i am from france
+/data/shared-task/dev/user-159_2014-09-19_18-49-15_utt_018.wav,44198,that's my passport
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_013.wav,37798,i want sandals
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_014.wav,53158,i want red sandals
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_018.wav,16678,i want
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_019.wav,65318,i want a white t-shirt
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_023.wav,55718,this is too expensive
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_029.wav,36518,i want sandals
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_040.wav,38438,i want boots
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_045.wav,60838,i want a purple sweatshirt
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_008.wav,64678,i want purple trousers
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_012.wav,42918,this is too expensive
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_030.wav,42278,i don't want this
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_032.wav,34598,i'm fine
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_036.wav,46758,i am a thirty-six
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_037.wav,49318,i want a sweatshirt
+/data/shared-task/dev/user-159_2014-09-22_19-02-57_utt_014.wav,69158,the sweatshirt is too expensive
+/data/shared-task/dev/user-159_2014-09-22_19-02-57_utt_026.wav,40998,can i have the bill please
+/data/shared-task/dev/user-159_2014-09-24_16-22-54_utt_012.wav,35238,i would like the bill
+/data/shared-task/dev/user-159_2014-09-24_16-22-54_utt_039.wav,104358,i would like my sunday roast rare
+/data/shared-task/dev/user-159_2014-09-24_16-22-54_utt_047.wav,45478,i would like a tea
+/data/shared-task/dev/user-159_2014-09-24_16-22-54_utt_053.wav,42278,i would like the bill
+/data/shared-task/dev/user-159_2014-09-24_16-22-54_utt_067.wav,42918,i would like the bill
+/data/shared-task/dev/user-159_2014-10-15_17-49-05_utt_004.wav,65318,i would like to pay with dollars
+/data/shared-task/dev/user-159_2014-10-15_17-49-05_utt_008.wav,72998,i want a ticket to westminster
+/data/shared-task/dev/user-159_2014-10-15_17-49-05_utt_010.wav,65318,i would like to pay with dollars
+/data/shared-task/dev/user-159_2014-10-21_18-20-49_utt_006.wav,59558,i have smaller note
+/data/shared-task/dev/user-159_2014-10-21_18-20-49_utt_015.wav,57638,i would like to pay with pounds
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_016.wav,65318,where is the nature historic museum
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_017.wav,33958,where is big ben
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_018.wav,38438,which bus goes there
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_025.wav,36518,which bus goes there
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_031.wav,34598,i want to go
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_036.wav,37798,which bus goes there
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_066.wav,57638,marble arch is to hyde park
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_071.wav,32678,where is the tower
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_072.wav,26918,which bus goes there
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_079.wav,53158,where is the national gallery
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_084.wav,64678,big ben is next to the houses of parliament
+/data/shared-task/dev/user-159_2014-10-23_19-48-55_utt_002.wav,60838,i want one musical ticket
+/data/shared-task/dev/user-159_2014-10-23_19-48-55_utt_026.wav,81958,i would like a ticket for sunday evening
+/data/shared-task/dev/user-159_2014-10-23_19-48-55_utt_029.wav,104358,i would like tickets for the natural history museum
+/data/shared-task/dev/user-159_2014-10-23_19-48-55_utt_058.wav,67238,i would like tickets for the national gallery
+/data/shared-task/dev/user-159_2014-10-23_19-48-55_utt_063.wav,92198,i would like a ticket for tomorrow evening
+/data/shared-task/dev/user-159_2014-10-23_19-48-55_utt_066.wav,57638,i would like tickets for madame tussauds
+/data/shared-task/dev/user-159_2014-10-23_19-48-55_utt_071.wav,79398,i would like a ticket for tuesday evening
+/data/shared-task/dev/user-162_2014-09-11_19-18-57_utt_030.wav,45478,my name is erica
+/data/shared-task/dev/user-162_2014-09-11_19-18-57_utt_043.wav,59558,i want red boots
+/data/shared-task/dev/user-162_2014-09-11_19-18-57_utt_051.wav,32038,how about cost
+/data/shared-task/dev/user-162_2014-09-11_19-18-57_utt_057.wav,35238,i want a fanta
+/data/shared-task/dev/user-162_2014-09-11_19-18-57_utt_060.wav,39718,i want the day soup
+/data/shared-task/dev/user-162_2014-09-11_19-18-57_utt_064.wav,39078,can i have the bill please
+/data/shared-task/dev/user-162_2014-09-11_19-18-57_utt_065.wav,43558,can i pay with visa
+/data/shared-task/dev/user-166_2014-09-15_18-01-46_utt_004.wav,58278,a room for one week please
+/data/shared-task/dev/user-152_2014-10-28_07-44-29_utt_007.wav,55718,i want to pay with credit card
+/data/shared-task/dev/user-158_2014-10-26_17-29-06_utt_007.wav,33958,twin zimmer
+/data/shared-task/dev/user-158_2014-10-26_17-29-06_utt_008.wav,55078,a twin room
+/data/shared-task/dev/user-158_2014-10-26_17-29-06_utt_015.wav,39718,is there a fitness studio
+/data/shared-task/dev/user-158_2014-10-26_17-29-06_utt_021.wav,35878,my name is paolo
+/data/shared-task/dev/user-158_2014-10-26_17-29-06_utt_023.wav,54438,my name is paolo
+/data/shared-task/dev/user-158_2014-10-26_17-29-06_utt_026.wav,78758,the capital city from italy is rome
+/data/shared-task/dev/user-158_2014-10-26_17-29-06_utt_028.wav,36518,i've got three sisters
+/data/shared-task/dev/user-167_2014-10-28_07-42-24_utt_006.wav,47398,a twin room please
+/data/shared-task/dev/user-167_2014-10-28_07-42-24_utt_016.wav,35238,i would like a single room
+/data/shared-task/dev/user-167_2014-10-28_07-42-24_utt_022.wav,39078,is there a swimming pool
+/data/shared-task/dev/user-167_2014-10-28_07-42-24_utt_038.wav,32038,is there a swimming pool
+/data/shared-task/dev/user-167_2014-10-28_07-42-24_utt_042.wav,26278,a twin room please
+/data/shared-task/dev/user-167_2014-10-28_07-42-24_utt_050.wav,42918,i would like a room for five nights
+/data/shared-task/dev/user-167_2014-10-29_13-09-33_utt_020.wav,27558,i want a steak
+/data/shared-task/dev/user-167_2014-10-29_13-09-33_utt_026.wav,34598,i would like a baked potato
+/data/shared-task/dev/user-167_2014-10-29_13-09-33_utt_029.wav,46758,could i see the dessert menu
+/data/shared-task/dev/user-167_2014-10-29_13-09-33_utt_049.wav,44198,i would want to pay with credit card
+/data/shared-task/dev/user-167_2014-10-30_19-28-12_utt_019.wav,60838,yes i need a ticket to piccadilly circus
+/data/shared-task/dev/user-167_2014-10-30_19-41-32_utt_021.wav,68518,i need a ticket to westminster
+/data/shared-task/dev/user-167_2014-10-30_19-41-32_utt_023.wav,49958,i would like one musical ticket
+/data/shared-task/dev/user-167_2014-10-30_19-41-32_utt_027.wav,33958,do
+/data/shared-task/dev/user-167_2014-10-30_19-41-32_utt_031.wav,38438,i would like to pay with visa
+/data/shared-task/dev/user-167_2014-10-30_19-41-32_utt_067.wav,60198,i would like to have a ticket to notting hill
+/data/shared-task/dev/user-167_2014-10-30_19-41-32_utt_069.wav,50598,i would like to pay with post card
+/data/shared-task/dev/user-179_2014-09-26_07-35-23_utt_008.wav,47398,can i have a single room
+/data/shared-task/dev/user-179_2014-09-26_07-35-23_utt_015.wav,45478,where is the hairdresser
+/data/shared-task/dev/user-180_2014-09-20_10-03-10_utt_003.wav,42918,a twin room
+/data/shared-task/dev/user-180_2014-09-20_10-03-10_utt_005.wav,54438,i would like to have a twin room
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_009.wav,65958,i don't have a reservation
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_016.wav,46118,a single room please
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_023.wav,63398,is there a hairdresser
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_031.wav,59558,i do not have a reservation
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_048.wav,57638,can i have five tickets to london
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_050.wav,67878,i would like to leave tomorrow at two p m
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_051.wav,64678,i want to leave tomorrow at two pm
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_062.wav,94118,i want to leave tomorrow at eleven a m
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_074.wav,46118,i'm from portugal
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_077.wav,54438,my name is james
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_079.wav,55078,capture from french is paris
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_084.wav,51878,i go on holiday
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_003.wav,62118,i want a room for three nights
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_005.wav,51238,a single room please
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_007.wav,97958,i want with credit card
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_009.wav,62118,give it a hotel bar
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_010.wav,36518,is there a hotel bar
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_019.wav,86438,i want with uh mastercard i want ah
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_020.wav,40358,can i pay with mastercard
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_048.wav,53158,i would like to buy some boots
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_049.wav,54438,i would like to buy some boots
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_055.wav,28838,i would like a t-shirt
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_056.wav,21798,a white tee shirt
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_057.wav,48038,i want a white tee shirt please
+/data/shared-task/dev/user-213_2014-06-03_15-31-28_utt_059.wav,31398,i need a large
+/data/shared-task/dev/user-213_2014-06-17_18-53-25_utt_025.wav,33318,i would like my steak medium
+/data/shared-task/dev/user-213_2014-06-17_18-53-25_utt_027.wav,42918,could i see the dessert menu
+/data/shared-task/dev/user-213_2014-06-17_18-53-25_utt_046.wav,34598,i would like the steak
+/data/shared-task/dev/user-213_2014-06-17_18-53-25_utt_053.wav,23078,apple pie please
+/data/shared-task/dev/user-213_2014-06-17_18-53-25_utt_054.wav,31398,i would like the bill
+/data/shared-task/dev/user-213_2014-06-18_12-50-21_utt_034.wav,30758,i would like to pay
+/data/shared-task/dev/user-213_2014-06-19_17-12-08_utt_004.wav,37798,i'd like a twinny room
+/data/shared-task/dev/user-213_2014-06-19_17-12-08_utt_008.wav,48678,give it here a hotel restaurant
+/data/shared-task/dev/user-213_2014-06-19_17-12-08_utt_014.wav,42918,i would like my steak rare
+/data/shared-task/dev/user-213_2014-06-28_16-44-13_utt_002.wav,51878,i would like a room for six nights
+/data/shared-task/dev/user-213_2014-06-28_16-44-13_utt_011.wav,35878,give it here a lift
+/data/shared-task/dev/user-213_2014-06-28_16-44-13_utt_028.wav,34598,i'm from spain
+/data/shared-task/dev/user-213_2014-06-28_16-44-13_utt_029.wav,40358,i'm from spain
+/data/shared-task/dev/user-265_2014-11-25_07-51-15_utt_011.wav,78118,i want a room for five weeks
+/data/shared-task/dev/user-265_2014-12-17_06-47-14_utt_002.wav,40358,i don't have reservation
+/data/shared-task/dev/user-283_2014-11-27_06-44-07_utt_010.wav,65958,can i pay it with credit card
+/data/shared-task/dev/user-270_2014-12-16_08-29-47_utt_007.wav,40358,i no i
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_023.wav,51238,i'm coming from england
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_052.wav,53798,i would like my hamburger through
+/data/shared-task/dev/user-281_2014-12-09_15-31-48_utt_056.wav,51238,can i have the card
+/data/shared-task/dev/user-289_2014-11-27_06-45-36_utt_025.wav,55718,twin room
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_040.wav,59558,where can i buy the shampoo
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_046.wav,59558,i would a room for seven nights
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_015.wav,48038,i'd like the suite
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_074.wav,62758,can i pay by swiss francs
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_080.wav,55718,can i pay by pounds
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_037.wav,53158,i'm sarah
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_054.wav,59558,that's a cheap ticket
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_011.wav,46758,i would like the goulash soup
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_037.wav,85158,i like i'd like a sunday roast
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_120.wav,48038,i'd like trousers
+/data/shared-task/dev/user-45_2014-11-19_11-17-56_utt_059.wav,52518,where can i buy the shampoo
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_269.wav,57638,can i pay with euro
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_277.wav,52518,i want to sit up front
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_279.wav,67878,i'd like to sit up the front
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_298.wav,59558,tickets for sunday evening
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_349.wav,15398,i'd like
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_411.wav,36518,i'd like to go
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_412.wav,42278,i'd like to go
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_022.wav,149158,i'd like to leave at four o'clock a m
+/data/shared-task/dev/user-45_2014-11-19_16-32-57_utt_045.wav,67238,the capital of austria is
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_011.wav,65318,i do not have reservation
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_049.wav,28198,pay with visa
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_110.wav,50598,can i buy a hairdryer
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_212.wav,55078,i've got two younger brothers
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_220.wav,42918,france isn't in
+/data/shared-task/dev/user-46_2014-11-11_14-37-09_utt_027.wav,66598,want tickets for mamma mia
+/data/shared-task/dev/user-48_2014-10-30_19-57-57_utt_009.wav,32038,can i pay with visa
+/data/shared-task/dev/user-48_2014-11-14_15-39-25_utt_029.wav,42278,where is the madame tussauds
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_011.wav,34598,is there a freezer
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_095.wav,32038,i'm from austria
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_146.wav,76198,would you like tickets for the museum
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_233.wav,32678,that's too cheap
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_030.wav,32038,i would like to go
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_046.wav,36518,where is the madame tussauds
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_059.wav,34598,sorry i would like to go
+/data/shared-task/dev/user-51_2014-11-16_16-19-57_utt_020.wav,20518,my room is
+/data/shared-task/dev/user-51_2014-11-16_16-19-57_utt_032.wav,24358,i would like the roast
+/data/shared-task/dev/user-56_2014-11-06_16-32-06_utt_037.wav,40998,i not have a reservation
+/data/shared-task/dev/user-56_2014-11-06_16-32-06_utt_065.wav,663078,is there a
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_020.wav,70438,six tickets um london
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_104.wav,46118,where can i a hairdryer
+/data/shared-task/dev/user-57_2014-11-03_11-23-59_utt_058.wav,97958,could you give me directions to piccadilly circus
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_018.wav,26918,i have only
+/data/shared-task/dev/user-57_2014-11-06_16-53-24_utt_049.wav,54438,where is the madame tussauds
+/data/shared-task/dev/user-57_2014-11-07_11-18-23_utt_020.wav,40998,i am from
+/data/shared-task/dev/user-57_2014-11-07_11-18-23_utt_084.wav,59558,i do not want this t-shirt
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_017.wav,27558,i would like to leave on
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_035.wav,52518,i have small notes
+/data/shared-task/dev/user-57_2014-11-10_16-20-38_utt_028.wav,71078,i would like a ticket to trafalgar scar
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_032.wav,58278,the capital of austria is
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_044.wav,61478,i would like to go on tomorrow
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_048.wav,85798,i would like ticket for the natural history museum
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_118.wav,33958,i would like jeans
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_119.wav,36518,i would like jeans
+/data/shared-task/dev/user-57_2014-11-17_15-33-36_utt_032.wav,49958,i want to leave on thursday evening
+/data/shared-task/dev/user-57_2014-11-17_15-33-36_utt_037.wav,63398,i would like to sit in the eighteen row
+/data/shared-task/dev/user-57_2014-11-17_15-33-36_utt_062.wav,53798,where is the museum
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_047.wav,37798,i would like
+/data/shared-task/dev/user-57_2014-11-19_18-05-17_utt_007.wav,53798,is there a
+/data/shared-task/dev/user-73_2014-12-01_17-38-49_utt_059.wav,53158,i would like to pay with credit card
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_048.wav,46118,well done my sunday roast
+/data/shared-task/dev/user-73_2014-12-02_17-30-05_utt_049.wav,58918,i would like my sunday roast done well
+/data/shared-task/dev/user-73_2014-12-08_18-25-51_utt_092.wav,44838,i would like to pay with credit card
+/data/shared-task/dev/user-73_2014-12-09_05-29-36_utt_019.wav,57638,i pay with swiss francs
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_059.wav,64038,i would like fifth in the back
+/data/shared-task/dev/user-73_2014-12-13_20-54-09_utt_024.wav,55078,i have two little
+/data/shared-task/dev/user-73_2014-12-14_13-08-44_utt_025.wav,64038,i would like a ticket for the phantom
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_005.wav,55078,how much is this coast
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_113.wav,68518,i do not want this jeans
+/data/shared-task/dev/user-73_2014-12-14_16-07-10_utt_006.wav,47398,i would like to pay with credit card
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_031.wav,60198,i have a older sister
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_086.wav,67878,i would like to go on thursday evening
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_143.wav,50598,the the jeans are too expensive
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_152.wav,35238,i would like to go
+/data/shared-task/dev/user-73_2014-12-17_17-38-41_utt_012.wav,69158,i want tickets to trifle
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_044.wav,69798,i would like to pay with credit card
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_095.wav,39078,i need large
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_047.wav,40358,i need large
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_060.wav,33318,i need large
+/data/shared-task/dev/user-73_2014-12-18_11-21-47_utt_061.wav,43558,how much does the shirt coast
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_061.wav,32678,i need small
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_076.wav,56358,i do not want this pants
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_016.wav,41638,i need forty-three
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_035.wav,63398,i do not want this pants
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_073.wav,70438,i would like to pay with credit card
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_112.wav,37798,i need small
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_132.wav,39718,i need thirty-eight
+/data/shared-task/dev/user-246_2014-06-10_13-05-30_utt_006.wav,39078,a twine room please
+/data/shared-task/dev/user-246_2014-06-10_13-05-30_utt_011.wav,29478,where it is
+/data/shared-task/dev/user-83_2014-11-03_18-41-45_utt_017.wav,112678,four tickets for sunday
+/data/shared-task/dev/user-83_2014-11-04_17-31-15_utt_013.wav,97958,my toilet is
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_024.wav,25638,grand
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_030.wav,38438,i would please a fanta
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_002.wav,42918,yes i have a reservation
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_044.wav,37158,i want white
+/data/shared-task/dev/user-89_2014-11-20_11-33-16_utt_006.wav,33318,i would a room for one week
+/data/shared-task/dev/user-89_2014-11-20_13-01-12_utt_006.wav,46118,i want three tickets for thursday night
+/data/shared-task/dev/user-95_2014-10-25_09-40-47_utt_006.wav,62118,i have no reservation fuck you
+/data/shared-task/dev/user-95_2014-11-01_16-27-26_utt_028.wav,51878,there is a hairdresser
+/data/shared-task/dev/user-117_2014-12-21_17-30-40_utt_007.wav,71078,i would like pay with the credit card is that okay
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_044.wav,69798,i would like to pay with credit card
+/data/shared-task/dev/user-131_2014-09-17_12-08-57_utt_005.wav,39718,i want a double room
+/data/shared-task/dev/user-131_2014-09-19_17-22-35_utt_020.wav,34598,i want a double room
+/data/shared-task/dev/user-131_2014-09-23_19-36-12_utt_003.wav,36518,a single you a single room
+/data/shared-task/dev/user-158_2014-09-11_17-50-46_utt_010.wav,77478,give it a supermarket
+/data/shared-task/dev/user-158_2014-09-11_17-50-46_utt_017.wav,46118,for six nights
+/data/shared-task/dev/user-158_2014-09-16_16-39-44_utt_022.wav,57638,do you got a fitness studio
+/data/shared-task/dev/user-158_2014-09-20_18-39-08_utt_003.wav,35878,three nights
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_040.wav,77478,where can i pay a hairdryer
+/data/shared-task/dev/user-159_2014-09-11_17-30-50_utt_075.wav,48038,i am small
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_031.wav,36518,i want a cola please
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_032.wav,55078,i want the sunday
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_044.wav,62758,i want to pay with with credit card please
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_056.wav,49318,can i pay with credit card
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_100.wav,69158,i want to pay with credit card please
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_101.wav,69798,i want to pay with credit card please
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_009.wav,51878,can i pay with credit card
+/data/shared-task/dev/user-159_2014-09-15_17-16-32_utt_106.wav,87718,i want three tickets for lion king
+/data/shared-task/dev/user-159_2014-09-16_16-11-58_utt_016.wav,40358,i would like to leave tomorrow
+/data/shared-task/dev/user-159_2014-09-19_18-49-15_utt_007.wav,15398,that's my
+/data/shared-task/dev/user-159_2014-09-19_18-49-15_utt_016.wav,60198,i have one older brothers
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_002.wav,24998,my name's
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_010.wav,42918,i need large
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_027.wav,48678,this is too loose
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_028.wav,69798,this is too loose
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_039.wav,44838,i need large
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_040.wav,66598,this is too loose
+/data/shared-task/dev/user-159_2014-09-21_12-11-56_utt_041.wav,46118,this is too loose
+/data/shared-task/dev/user-159_2014-09-24_16-22-54_utt_009.wav,67878,i would like the
+/data/shared-task/dev/user-159_2014-09-24_16-22-54_utt_065.wav,78118,i would like the carrots pie
+/data/shared-task/dev/user-159_2014-10-15_17-49-05_utt_012.wav,64038,i have only large note
+/data/shared-task/dev/user-159_2014-10-21_18-20-49_utt_004.wav,71078,i would like to pay with credit card
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_003.wav,53158,i would like to pay with credit card
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_043.wav,41638,where is piccadilly circus
+/data/shared-task/dev/user-159_2014-10-22_18-48-01_utt_056.wav,45478,i would like to go
+/data/shared-task/dev/user-162_2014-09-11_19-18-57_utt_032.wav,44838,i am from portuguese
+/data/shared-task/dev/user-162_2014-09-11_19-18-57_utt_053.wav,32678,much does it cost
+/data/shared-task/dev/user-166_2014-09-15_18-01-46_utt_050.wav,60198,i would like a junior suite
+/data/shared-task/dev/user-167_2014-10-28_07-42-24_utt_011.wav,40998,is there a crockery store
+/data/shared-task/dev/user-167_2014-10-28_07-42-24_utt_045.wav,43558,can i pay with credit card
+/data/shared-task/dev/user-167_2014-10-29_13-09-33_utt_035.wav,32678,can i have a cola
+/data/shared-task/dev/user-167_2014-10-30_19-28-12_utt_018.wav,42918,i need a ticket to piccadilly
+/data/shared-task/dev/user-167_2014-10-30_19-28-12_utt_037.wav,41638,can i pay with credit card
+/data/shared-task/dev/user-167_2014-10-30_19-28-12_utt_041.wav,49318,do i need a ticket to westminster
+/data/shared-task/dev/user-167_2014-10-30_19-41-32_utt_014.wav,51878,i would like to pay with credit card
+/data/shared-task/dev/user-167_2014-10-30_19-41-32_utt_020.wav,53158,do i need a ticket to westminster
+/data/shared-task/dev/user-167_2014-10-30_19-41-32_utt_029.wav,67238,do i need a ticket to trafalgar square
+/data/shared-task/dev/user-180_2014-09-20_10-03-10_utt_007.wav,65958,can i pay with cash card
+/data/shared-task/dev/user-170_2014-10-28_16-34-01_utt_039.wav,59558,i would like to leave at monday
+/data/shared-task/dev/user-283_2014-12-16_08-28-54_utt_020.wav,44838,i want to leave at two o'clock
+/data/shared-task/dev/user-280_2014-12-16_08-38-33_utt_005.wav,83238,i would have a room for seven nights
+/data/shared-task/dev/user-289_2014-11-27_06-45-36_utt_003.wav,57638,room for five nights
+/data/shared-task/dev/user-32_2014-10-29_14-32-01_utt_007.wav,49958,can i pay by mastercard
+/data/shared-task/dev/user-45_2014-10-29_13-11-30_utt_014.wav,100518,i would to pay with mastercard
+/data/shared-task/dev/user-45_2014-10-29_13-11-30_utt_022.wav,49958,i will pay with dollars
+/data/shared-task/dev/user-45_2014-11-05_12-33-21_utt_027.wav,56358,no i haven't a reservation
+/data/shared-task/dev/user-45_2014-11-05_12-58-17_utt_131.wav,33958,i am a larger
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_035.wav,55078,my name is sarah
+/data/shared-task/dev/user-45_2014-11-06_19-16-32_utt_089.wav,46758,my name is sarah
+/data/shared-task/dev/user-45_2014-11-08_19-38-17_utt_080.wav,54438,i'd like some jeans
+/data/shared-task/dev/user-45_2014-11-09_11-28-41_utt_069.wav,48678,i'd like the beans
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_143.wav,64038,i'd like a scotch brow
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_255.wav,63398,i'd like a ticket to nothing hill
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_332.wav,60838,i'm waiting for the ordered food
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_345.wav,56998,i'd like a
+/data/shared-task/dev/user-45_2014-11-19_11-50-52_utt_441.wav,60838,i'd like a violet shirt
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_034.wav,48038,i'm going on holiday
+/data/shared-task/dev/user-46_2014-11-09_13-24-17_utt_159.wav,56998,i want the desert card
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_152.wav,35238,i would like a steak
+/data/shared-task/dev/user-51_2014-11-10_16-11-09_utt_157.wav,37158,could i have the ice cream
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_101.wav,40358,i would like a mineral water
+/data/shared-task/dev/user-51_2014-11-16_15-54-14_utt_108.wav,69798,i would like the bill i would like the clerk
+/data/shared-task/dev/user-56_2014-11-06_16-32-06_utt_007.wav,67238,i would like to pay by post card
+/data/shared-task/dev/user-57_2014-10-24_17-52-51_utt_086.wav,34598,i am a large
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_028.wav,58278,two tickets for monday afternoon please
+/data/shared-task/dev/user-57_2014-10-25_10-33-52_utt_079.wav,39718,i'm a large
+/data/shared-task/dev/user-57_2014-10-30_18-43-25_utt_026.wav,58918,i want to sit in the eight row
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_031.wav,82598,i would like a ticket to trafalgar scar
+/data/shared-task/dev/user-57_2014-11-08_08-52-04_utt_053.wav,130598,i would like my sunday roast medium i would like my sunday roast
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_011.wav,43558,is there a elevator
+/data/shared-task/dev/user-57_2014-11-12_11-54-21_utt_058.wav,91558,i would like to go on thirty evening
+/data/shared-task/dev/user-57_2014-11-13_18-25-35_utt_041.wav,71718,i would like two tickets for the phantom of the
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_003.wav,33958,i would like steak
+/data/shared-task/dev/user-57_2014-11-16_12-20-12_utt_045.wav,79398,i would like for a room for four nights
+/data/shared-task/dev/user-57_2014-11-17_15-33-36_utt_015.wav,46758,i am from
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_016.wav,39078,my name is andy
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_053.wav,48678,i would like vanilla ice
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_074.wav,33958,me thirty eight
+/data/shared-task/dev/user-57_2014-11-18_18-29-18_utt_077.wav,21798,large
+/data/shared-task/dev/user-57_2014-11-19_18-05-17_utt_019.wav,69798,i would like to leave on thursday a evening
+/data/shared-task/dev/user-73_2014-12-09_14-38-04_utt_056.wav,60838,can i have tickets for this musical please
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_069.wav,31398,i need forty-two
+/data/shared-task/dev/user-73_2014-12-14_13-26-16_utt_122.wav,41638,i need thirty-six
+/data/shared-task/dev/user-73_2014-12-16_19-38-40_utt_141.wav,28198,i need small
+/data/shared-task/dev/user-73_2014-12-17_17-46-33_utt_016.wav,33318,i want to go
+/data/shared-task/dev/user-73_2014-12-18_17-11-49_utt_119.wav,58278,i would like fries
+/data/shared-task/dev/user-73_2014-12-18_18-01-42_utt_029.wav,42278,i need forty-three
+/data/shared-task/dev/user-83_2014-10-27_14-15-22_utt_019.wav,84518,i want i would pay with a credit card
+/data/shared-task/dev/user-83_2014-11-06_19-23-22_utt_011.wav,30758,i'm god
+/data/shared-task/dev/user-83_2014-11-07_18-13-18_utt_029.wav,62758,in the room there was no shampoo
+/data/shared-task/dev/user-89_2014-11-07_12-29-49_utt_016.wav,46758,my name is brian brian bond
+/data/shared-task/dev/user-95_2014-11-01_16-27-26_utt_017.wav,41638,no i do not have a reservation fuck you
+/data/shared-task/dev/user-99_2014-11-12_13-46-59_utt_015.wav,46118,i want to have brown jeans
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_108.wav,35238,my name is sarah
+/data/shared-task/dev/user-118_2014-11-28_15-40-46_utt_110.wav,45478,i'm sarah
+/data/shared-task/dev/user-131_2014-09-19_17-22-35_utt_008.wav,56998,i want to pay with a credit card
+/data/shared-task/dev/user-131_2014-09-23_19-36-12_utt_035.wav,53798,is there a restaurant
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_043.wav,48678,i want to pay with credit card
+/data/shared-task/dev/user-159_2014-09-13_09-58-10_utt_079.wav,50598,have you got a hairdryer
+/data/shared-task/dev/user-159_2014-09-16_16-11-58_utt_004.wav,82598,i would like to leave at eight o'clock p m
+/data/shared-task/dev/user-159_2014-09-20_08-45-50_utt_034.wav,37798,i need large
+/data/shared-task/dev/user-158_2014-10-26_17-38-33_utt_004.wav,21798,good
+/data/shared-task/dev/user-179_2014-09-26_07-35-23_utt_011.wav,63398,i want to pay with with my credit card
+/data/shared-task/dev/user-179_2014-09-26_07-35-23_utt_018.wav,302758,help me out can i have a room for seven nights
+/data/shared-task/dev/user-213_2014-06-18_12-50-21_utt_030.wav,38438,could i see the desert menu
+/data/shared-task/dev/user-213_2014-06-28_16-44-13_utt_032.wav,35878,capital of spain is madrid
+/data/shared-task/dev/5835.wav,38438,a room for four nights
+/data/shared-task/dev/5841.wav,39078,who is the hairdresser
+/data/shared-task/dev/5842.wav,39078,five tickets to london
+/data/shared-task/dev/5845.wav,62758,i would like to leave tomorrow at eleven uh a m
+/data/shared-task/dev/5847.wav,34598,i am from spain
+/data/shared-task/dev/5848.wav,27558,room for three nights
+/data/shared-task/dev/5851.wav,48678,can i pay by credit card
+/data/shared-task/dev/5852.wav,55718,is there a grocery store
+/data/shared-task/dev/5855.wav,46118,a twin room please
+/data/shared-task/dev/5860.wav,56358,i'm from turkey
+/data/shared-task/dev/5873.wav,55718,is there the hotel bar
+/data/shared-task/dev/5887.wav,54438,i want a room for four nights
+/data/shared-task/dev/5895.wav,69158,i want to like a room for three nights
+/data/shared-task/dev/5899.wav,29478,thirty nine
+/data/shared-task/dev/5900.wav,40358,thirty nine
+/data/shared-task/dev/5905.wav,32038,large
+/data/shared-task/dev/5915.wav,59558,i need number forty
+/data/shared-task/dev/5916.wav,47398,i want a sweet shirt
+/data/shared-task/dev/5920.wav,39078,i want a fanta
+/data/shared-task/dev/5921.wav,36518,i want the steak
+/data/shared-task/dev/5922.wav,37158,i want my steak blue
+/data/shared-task/dev/5933.wav,55718,i want my steak rare
+/data/shared-task/dev/5934.wav,57638,i want some carrots
+/data/shared-task/dev/5938.wav,51878,i want this steak
+/data/shared-task/dev/5949.wav,39718,where is the hotel bar
+/data/shared-task/dev/5951.wav,36518,can i have a single room
+/data/shared-task/dev/5962.wav,70438,i will red boots
+/data/shared-task/dev/5976.wav,67238,i would like a ticket to piccadilly circus
+/data/shared-task/dev/5984.wav,44838,i want a room for three nights
+/data/shared-task/dev/6005.wav,40998,where are the fitness studio
+/data/shared-task/dev/6009.wav,28198,can i have a suite
+/data/shared-task/dev/6011.wav,42918,would i pay be credit card
+/data/shared-task/dev/6012.wav,44838,have it a fitness studio
+/data/shared-task/dev/6014.wav,40358,where are the fitness centre
+/data/shared-task/dev/6019.wav,44198,i want to leave tomorrow at one p m
+/data/shared-task/dev/6020.wav,26918,my name is michelle
+/data/shared-task/dev/6023.wav,49958,can i have a ticket to london
+/data/shared-task/dev/6027.wav,38438,i'm from america
+/data/shared-task/dev/6045.wav,37158,i am on holiday
+/data/shared-task/dev/6054.wav,56358,i would like a suite
+/data/shared-task/dev/6069.wav,70438,where is the fitness centre
+/data/shared-task/dev/6071.wav,46758,a twin room
+/data/shared-task/dev/6085.wav,59558,is there the hotel bar
+/data/shared-task/dev/6087.wav,65958,i want a single room please
+/data/shared-task/dev/6091.wav,69158,where is the hotel bar
+/data/shared-task/dev/6092.wav,91558,i want a room for three nights please
+/data/shared-task/dev/6094.wav,58278,i want a single room
+/data/shared-task/dev/6103.wav,48038,i am from england
+/data/shared-task/dev/6104.wav,102438,i would like a ticket to london
+/data/shared-task/dev/6107.wav,37158,i am from australia
+/data/shared-task/dev/6115.wav,99238,i want a room for three nights
+/data/shared-task/dev/6122.wav,22438,height
+/data/shared-task/dev/6124.wav,105638,i want a single room please
+/data/shared-task/dev/6130.wav,65318,i want a twin room
+/data/shared-task/dev/6133.wav,57638,where is the hotel bar
+/data/shared-task/dev/6138.wav,62118,the a the hotel bar
+/data/shared-task/dev/6146.wav,51878,can i buy be credit card
+/data/shared-task/dev/6147.wav,51878,can i buy be dollars
+/data/shared-task/dev/6153.wav,58278,can i buy be credit card
+/data/shared-task/dev/6167.wav,49958,can i buy be dollars
+/data/shared-task/dev/6169.wav,70438,is there the food store
+/data/shared-task/dev/6174.wav,72998,is there the hotel restaurant
+/data/shared-task/dev/6175.wav,53798,i would a room for seven nights
+/data/shared-task/dev/6176.wav,57638,i would a junior suite
+/data/shared-task/dev/6185.wav,59558,i would a double room
+/data/shared-task/dev/6193.wav,42278,i'm from austria
+/data/shared-task/dev/6201.wav,51238,would like two tickets to london
+/data/shared-task/dev/6212.wav,56358,i would like one ticket to london
+/data/shared-task/dev/6214.wav,55718,i would like to leave on free day
+/data/shared-task/dev/6216.wav,43558,i am from canada
+/data/shared-task/dev/6220.wav,50598,my name is patrick
+/data/shared-task/dev/6223.wav,62118,i would like one ticket to london
+/data/shared-task/dev/6228.wav,63398,i want to leave wednesday evening
+/data/shared-task/dev/6229.wav,106278,i would like to leave at wednesday evening
+/data/shared-task/dev/6231.wav,44838,i am from america
+/data/shared-task/dev/6232.wav,46758,my name is thomas
+/data/shared-task/dev/6234.wav,62758,i am from france
+/data/shared-task/dev/6245.wav,82598,capital of france is paris
+/data/shared-task/dev/6246.wav,68518,i have four younger sisters
+/data/shared-task/dev/6251.wav,61478,i am from france
+/data/shared-task/dev/6253.wav,99878,the capital city of france is paris
+/data/shared-task/dev/6282.wav,94758,my name is andrew name is
+/data/shared-task/dev/6289.wav,50598,this is my passport
+/data/shared-task/dev/6290.wav,54438,my name is andrew
+/data/shared-task/dev/6298.wav,110758,i am from france
+/data/shared-task/dev/6301.wav,77478,i'm on holidays
+/data/shared-task/dev/6309.wav,132518,the capital city of france is paris
+/data/shared-task/dev/6312.wav,86438,this is my passport
+/data/shared-task/dev/6313.wav,58278,my name is jack
+/data/shared-task/dev/6314.wav,94118,my name is jack
+/data/shared-task/dev/6316.wav,78758,i am from austria
+/data/shared-task/dev/6322.wav,83878,this is my passport
+/data/shared-task/dev/6329.wav,72358,i want one ticket for mamma mia
+/data/shared-task/dev/6331.wav,111398,i would like tickets for the science museum
+/data/shared-task/dev/6333.wav,92198,i would like one ticket to piccadilly circus
+/data/shared-task/dev/6348.wav,37158,can i pay by dollars
+/data/shared-task/dev/6349.wav,66598,do you uh do you have a lift
+/data/shared-task/dev/6354.wav,67238,i would like to par pay pay post card
+/data/shared-task/dev/6357.wav,39718,a double room
+/data/shared-task/dev/6365.wav,67878,no i don't not have a reservation
+/data/shared-task/dev/6369.wav,87078,i would like a pay by post card
+/data/shared-task/dev/6371.wav,96678,can i have four tickets um uh
+/data/shared-task/dev/6372.wav,71718,can i have four tickets to london
+/data/shared-task/dev/6378.wav,51238,i am from austria
+/data/shared-task/dev/6379.wav,53798,the capital of austria is vienna
+/data/shared-task/dev/6389.wav,54438,i i don't no reservation
+/data/shared-task/dev/6396.wav,41638,is there a gregory store
+/data/shared-task/dev/6402.wav,69798,i would like to pay be post card
+/data/shared-task/dev/6405.wav,32038,my
+/data/shared-task/dev/6406.wav,41638,my toilet is dirty
+/data/shared-task/dev/6417.wav,37158,i want a suite
+/data/shared-task/dev/6422.wav,55078,i would like two tickets to london
+/data/shared-task/dev/6427.wav,64038,i'd like to post by post card
+/data/shared-task/dev/6429.wav,55078,is there a hairdresser
+/data/shared-task/dev/6435.wav,65318,i want with visa
+/data/shared-task/dev/6444.wav,43558,i want a twin
+/data/shared-task/dev/6455.wav,60838,i want three tickets to london
+/data/shared-task/dev/6458.wav,62758,i want to leave at ten o'clock tomorrow
+/data/shared-task/dev/6464.wav,57638,i would like to leave on saturday
+/data/shared-task/dev/6466.wav,39718,my name is sarah
+/data/shared-task/dev/6469.wav,76838,i want a room for seven nights
+/data/shared-task/dev/6472.wav,44198,can i pay with visa
+/data/shared-task/dev/6473.wav,72358,can i pay with swiss francs
+/data/shared-task/dev/6476.wav,64038,i want a room for three three nights
+/data/shared-task/dev/6478.wav,31398,i want sandals
+/data/shared-task/dev/6488.wav,41638,my name is jack
+/data/shared-task/dev/6490.wav,57638,i need a ticket to falgar square
+/data/shared-task/dev/6492.wav,43558,can i pay with euros
+/data/shared-task/dev/6493.wav,62758,i want a ticket to notting hill
+/data/shared-task/dev/6504.wav,32038,i am fine
+/data/shared-task/dev/6505.wav,46758,i am looking for sandals
+/data/shared-task/dev/6506.wav,48038,i'm looking blue sandals
+/data/shared-task/dev/6520.wav,49318,i would like some boots
+/data/shared-task/dev/6523.wav,41638,i am a forty-four
+/data/shared-task/dev/6527.wav,33958,i am a large
+/data/shared-task/dev/6528.wav,44198,this is too big
+/data/shared-task/dev/6548.wav,40998,my name is andy
+/data/shared-task/dev/6558.wav,39078,can i pay with visa
+/data/shared-task/dev/6561.wav,47398,where is the hotel restaurant
+/data/shared-task/dev/6563.wav,65958,i would like to leave on thursday and thing
+/data/shared-task/dev/6565.wav,32038,i'm from ireland
+/data/shared-task/dev/6569.wav,41638,i am a thirty-six
+/data/shared-task/dev/6573.wav,45478,i'm fine thanks
+/data/shared-task/dev/6574.wav,39718,i'd like some boots
+/data/shared-task/dev/6577.wav,40998,i'm a forty-three
+/data/shared-task/dev/6582.wav,41638,how much is it
+/data/shared-task/dev/6583.wav,44198,the shirt is too expensive
+/data/shared-task/dev/6587.wav,37158,i am a forty-one
+/data/shared-task/dev/6589.wav,46758,red trousers please
+/data/shared-task/dev/6594.wav,42918,thanks
+/data/shared-task/dev/6599.wav,38438,i'm a forty-three
+/data/shared-task/dev/6600.wav,43558,i would like a sweatshirt
+/data/shared-task/dev/6606.wav,65958,i want with pay credit card
+/data/shared-task/dev/6628.wav,44838,where can i buy a hairdryer
+/data/shared-task/dev/6634.wav,46758,i'm from switzerland
+/data/shared-task/dev/6635.wav,33958,my name is patrick
+/data/shared-task/dev/6640.wav,80678,ah i have four young brothers
+/data/shared-task/dev/6642.wav,45478,i go to the holidays
+/data/shared-task/dev/6652.wav,60198,i'd like a room for two nights
+/data/shared-task/dev/6660.wav,62758,is there a hotel restaurant
+/data/shared-task/dev/6666.wav,99238,i would like to leave tomorrow at one p m
+/data/shared-task/dev/6669.wav,58278,i'm okay
+/data/shared-task/dev/6672.wav,83238,i would like to buy some boots
+/data/shared-task/dev/6702.wav,72998,um i'd like a single room
+/data/shared-task/dev/6707.wav,91558,i i i want to pay with visa
+/data/shared-task/dev/6708.wav,69158,um does it have a
+/data/shared-task/dev/6709.wav,122918,um does it have a a swimming pool
+/data/shared-task/dev/6716.wav,111398,i want to leave at six o'clock tomorrow
+/data/shared-task/dev/6721.wav,97958,i want to leave on saturday night
+/data/shared-task/dev/6723.wav,46118,my name is thomas
+/data/shared-task/dev/6725.wav,40998,i'm from austria
+/data/shared-task/dev/6730.wav,49958,my name is mona
+/data/shared-task/dev/6732.wav,92838,i need five tickets to london
+/data/shared-task/dev/6742.wav,69798,i am from germany
+/data/shared-task/dev/6746.wav,83238,i have four younger sisters
+/data/shared-task/dev/6757.wav,74278,is there a swimming pool
+/data/shared-task/dev/6761.wav,99878,i would buy with master card
+/data/shared-task/dev/6762.wav,79398,i would buy with dollars
+/data/shared-task/dev/6777.wav,86438,is it a grocer late
+/data/shared-task/dev/6783.wav,87718,i would buy with dollars
+/data/shared-task/dev/6784.wav,66598,is it a food store
+/data/shared-task/dev/6793.wav,63398,where is the grocer store
+/data/shared-task/dev/6795.wav,129318,i need five tickets for to london
+/data/shared-task/dev/6797.wav,88998,i would like to leave tomorrow at ten a m
+/data/shared-task/dev/6799.wav,31398,a single room
+/data/shared-task/dev/6800.wav,63398,i would like to pay with the credit card
+/data/shared-task/dev/6804.wav,31398,single room
+/data/shared-task/dev/6811.wav,94118,i would like a room for three nights
+/data/shared-task/dev/6815.wav,57638,is there any
+/data/shared-task/dev/6824.wav,65318,is there a fitness room
+/data/shared-task/dev/6826.wav,76838,is there a fitness room
+/data/shared-task/dev/6851.wav,140838,i will have my sunday roast well done
+/data/shared-task/dev/6856.wav,112038,i would like the dessert card
+/data/shared-task/dev/6864.wav,76198,can i have one musical ticket
+/data/shared-task/dev/6908.wav,47398,i would like boots
+/data/shared-task/dev/6911.wav,69158,can i have red boots
+/data/shared-task/dev/6912.wav,67878,can i have forty two
+/data/shared-task/dev/6931.wav,63398,i want a red sweatshirt
+/data/shared-task/dev/6941.wav,55078,i want boots
+/data/shared-task/dev/6943.wav,53158,can i have boots
+/data/shared-task/dev/6944.wav,97958,ah i want red boots
+/data/shared-task/dev/6955.wav,64038,i want to pay with the post card
+/data/shared-task/dev/6958.wav,28198,room for seven nights i do
+/data/shared-task/dev/6964.wav,55078,would i pay by credit card
+/data/shared-task/dev/6971.wav,24998,i am from spain
+/data/shared-task/dev/6975.wav,28838,in two have holidays
+/data/shared-task/dev/6976.wav,16678,holiday
+/data/shared-task/dev/6980.wav,48678,i want the steak
+/data/shared-task/dev/6993.wav,64038,the capital of italy is rome
+/data/shared-task/dev/6994.wav,54438,i have one sister
+/data/shared-task/dev/6995.wav,56998,i'm going into holidays
+/data/shared-task/dev/6998.wav,45478,this is my pardon
+/data/shared-task/dev/7001.wav,89638,my name is sylvia
+/data/shared-task/dev/7006.wav,140838,the capital for for italy is rome
+/data/shared-task/dev/7028.wav,44198,where is the hotel restaurant
+/data/shared-task/dev/7032.wav,31398,single room please
+/data/shared-task/dev/7033.wav,30118,a single room please
+/data/shared-task/dev/7038.wav,52518,where is the hairdresser
+/data/shared-task/dev/7040.wav,70438,i need a ticket to london
+/data/shared-task/dev/7050.wav,28838,i'm fine
+/data/shared-task/dev/7056.wav,37798,blue boots
+/data/shared-task/dev/7061.wav,42278,i want some pants
+/data/shared-task/dev/7062.wav,60198,i need some trousers
+/data/shared-task/dev/7076.wav,47398,yes i would like mushrooms
+/data/shared-task/dev/7081.wav,48038,yes i'd like the carrots
+/data/shared-task/dev/7089.wav,37158,i want a suite
+/data/shared-task/dev/7092.wav,39078,is there a hotel bar
+/data/shared-task/dev/7093.wav,48038,where is the hotel bar
+/data/shared-task/dev/7096.wav,49958,i want a room for one week
+/data/shared-task/dev/7105.wav,38438,i'm from austria
+/data/shared-task/dev/7108.wav,64038,the capital from german is berlin
+/data/shared-task/dev/7114.wav,61478,i want ticket to piccadilly circus
+/data/shared-task/dev/7115.wav,69798,i want a ticket to the piccadilly circus
+/data/shared-task/dev/7118.wav,74278,i want one ticket for saturday evening
+/data/shared-task/dev/7126.wav,37798,i would like my steak blue
+/data/shared-task/dev/7127.wav,69798,i would like one scotch broth
+/data/shared-task/dev/7133.wav,24998,i would like the check
+/data/shared-task/dev/7136.wav,39718,where is the london eye
+/data/shared-task/dev/7143.wav,51238,is there a hotel restaurant
+/data/shared-task/dev/7145.wav,59558,one room for two nights
+/data/shared-task/dev/7148.wav,72998,i want a double
+/data/shared-task/dev/7153.wav,58278,is there a swimming pool
+/data/shared-task/dev/7155.wav,59558,i haven't got a reservation
+/data/shared-task/dev/7156.wav,76198,no i do not have a reservation
+/data/shared-task/dev/7157.wav,67878,i would a room for
+/data/shared-task/dev/7162.wav,67238,i would like to leave on friday afternoon
+/data/shared-task/dev/7166.wav,37158,i am good
+/data/shared-task/dev/7171.wav,48038,i am a thirty-six
+/data/shared-task/dev/7173.wav,56998,i would like a red sweatshirt
+/data/shared-task/dev/7180.wav,63398,no i do not have a reservation
+/data/shared-task/dev/7190.wav,58278,can i pay mastercard
+/data/shared-task/dev/7201.wav,33318,my name is john
+/data/shared-task/dev/7204.wav,52518,i have got three young sisters
+/data/shared-task/dev/7209.wav,34598,this is my passport
+/data/shared-task/dev/7213.wav,48678,i am from portugal
+/data/shared-task/dev/7227.wav,7718,i would
+/data/shared-task/dev/7234.wav,116518,i want i want one ticket
+/data/shared-task/dev/7235.wav,49318,i want one musical ticket
+/data/shared-task/dev/7244.wav,24998,a single room
+/data/shared-task/dev/7246.wav,47398,i want to pay with mastercard
+/data/shared-task/dev/7248.wav,37158,where is the fitness room
+/data/shared-task/dev/7254.wav,45478,i would like a double room
+/data/shared-task/dev/7258.wav,32678,the bathroom is dirty
+/data/shared-task/dev/7260.wav,48678,where can i buy a hairdryer
+/data/shared-task/dev/7265.wav,40998,no i do not a reservation
+/data/shared-task/dev/7268.wav,33318,i would like a suite
+/data/shared-task/dev/7278.wav,62758,where can i pay a hairdryer
+/data/shared-task/dev/7289.wav,40998,where is the swimming pool
+/data/shared-task/dev/7290.wav,51238,my room is dirty
+/data/shared-task/dev/7299.wav,24998,a suite
+/data/shared-task/dev/7303.wav,28838,is there a lift
+/data/shared-task/dev/7311.wav,54438,no i do not have a reservation
+/data/shared-task/dev/7314.wav,81958,i would you like to buy with the credit card
+/data/shared-task/dev/7315.wav,76838,is there a fitness studio
+/data/shared-task/dev/7318.wav,37798,i would like a single room
+/data/shared-task/dev/7320.wav,76838,i would like to buy by euros
+/data/shared-task/dev/7323.wav,40998,where is the fitness studio
+/data/shared-task/dev/7327.wav,58278,can you give me a hairdryer
+/data/shared-task/dev/7348.wav,68518,i'd like to pay with credit card
+/data/shared-task/dev/7349.wav,62118,i would like to pay with swiss francs
+/data/shared-task/dev/7356.wav,40358,i would like some boots
+/data/shared-task/dev/7357.wav,32038,white boots
+/data/shared-task/dev/7359.wav,35238,thirty-eight
+/data/shared-task/dev/7360.wav,44198,i would like a sweet shirt
+/data/shared-task/dev/7376.wav,36518,can i pay with visa
+/data/shared-task/dev/7378.wav,54438,i would like three tickets to london
+/data/shared-task/dev/7380.wav,52518,i want to leave at o'clock
+/data/shared-task/dev/7383.wav,34598,my name is
+/data/shared-task/dev/7389.wav,42278,i have a big brother
+/data/shared-task/dev/7399.wav,65958,i want three tickets for tuesday night
+/data/shared-task/dev/7402.wav,53158,i want three tickets for starlight express
+/data/shared-task/dev/7405.wav,65958,i want tickets for the science museum
+/data/shared-task/dev/7409.wav,56998,i would like my sunday roast well done
+/data/shared-task/dev/7414.wav,53798,can i have the dessert card
+/data/shared-task/dev/7416.wav,69158,i want the lemon lemon cake
+/data/shared-task/dev/7417.wav,32678,i want the bill
+/data/shared-task/dev/7421.wav,62118,no i do not have a reservation
+/data/shared-task/dev/7423.wav,69798,i would like a twin twin room
+/data/shared-task/dev/7425.wav,51878,is there a swimming pool
+/data/shared-task/dev/7429.wav,167078,you can't have help at the silver level oh shit i want to pay with credit card
+/data/shared-task/dev/7445.wav,48678,where is the greengrocer
+/data/shared-task/dev/7459.wav,53158,i want to pay with mastercard
+/data/shared-task/dev/7462.wav,58918,i want a room for six nights
+/data/shared-task/dev/7471.wav,64678,no i do not have a reservation
+/data/shared-task/dev/7476.wav,49318,i would like five tickets to london
+/data/shared-task/dev/7482.wav,61478,i would like four tickets to london
+/data/shared-task/dev/7484.wav,44838,i want to leave on tuesday evening
+/data/shared-task/dev/7497.wav,88358,i would like to leave at fifteen o'clock tomorrow
+/data/shared-task/dev/7501.wav,60198,i am from england
+/data/shared-task/dev/7504.wav,72998,i want to leave at seventeen o'clock tomorrow
+/data/shared-task/dev/7515.wav,29478,that's okay
+/data/shared-task/dev/7520.wav,55718,i would like two tickets to london
+/data/shared-task/dev/7526.wav,30758,my name is nick
+/data/shared-task/dev/7529.wav,37798,france is in europe
+/data/shared-task/dev/7533.wav,42918,i have two younger sisters
+/data/shared-task/dev/7536.wav,46758,yes it is my passport
+/data/shared-task/dev/7538.wav,44198,my name is maddalena
+/data/shared-task/dev/7548.wav,49958,i am from scotland
+/data/shared-task/dev/7553.wav,65318,the capital from portugal is lisbon
+/data/shared-task/dev/7561.wav,34598,my name is brian
+/data/shared-task/dev/7575.wav,42918,can i pay with visa
+/data/shared-task/dev/7583.wav,43558,the dessert menu please
+/data/shared-task/dev/7585.wav,34598,i would like the check
+/data/shared-task/dev/7590.wav,42278,i would like my steak medium
+/data/shared-task/dev/7592.wav,44838,i would like a soap of the day
+/data/shared-task/dev/7595.wav,44838,the dessert menu please
+/data/shared-task/dev/7600.wav,42278,i would like to pay by post card
+/data/shared-task/dev/7602.wav,37158,where is the london eye
+/data/shared-task/dev/7604.wav,35878,which bus goes there
+/data/shared-task/dev/7609.wav,40998,do you have white sandals
+/data/shared-task/dev/7611.wav,29478,i am a forty
+/data/shared-task/dev/7612.wav,56998,i am looking for looking for jeans
+/data/shared-task/dev/7614.wav,30118,i am a small
+/data/shared-task/dev/7616.wav,36518,it is too expensive
+/data/shared-task/dev/7618.wav,50598,i want four tickets for monday night
+/data/shared-task/dev/7622.wav,34598,can i have two tickets
+/data/shared-task/dev/7633.wav,35878,yes it is my passport
+/data/shared-task/dev/7635.wav,28198,i want a suite
+/data/shared-task/dev/7644.wav,38438,i don't have a reservation
+/data/shared-task/dev/7653.wav,35878,i would like a tea
+/data/shared-task/dev/7655.wav,38438,i would like my steak rare
+/data/shared-task/dev/7664.wav,39718,a baked potato please
+/data/shared-task/dev/7666.wav,74918,a baked potato please
+/data/shared-task/dev/7669.wav,38438,i would like the rhubarb pie
+/data/shared-task/dev/7673.wav,40998,i want an orange juice
+/data/shared-task/dev/7677.wav,40358,i want my steak well done
+/data/shared-task/dev/7679.wav,33958,this is not what i ordered
+/data/shared-task/dev/7681.wav,38438,the dessert menu please
+/data/shared-task/dev/7683.wav,36518,can i have the bill
+/data/shared-task/dev/7685.wav,44838,i would like to pay by post card
+/data/shared-task/dev/7694.wav,40998,the dessert menu please
+/data/shared-task/dev/7703.wav,58918,i want to pay with swiss francs
+/data/shared-task/dev/7711.wav,49958,i have no reservation
+/data/shared-task/dev/7719.wav,33318,i would like some boots
+/data/shared-task/dev/7727.wav,39078,no i do not want this
+/data/shared-task/dev/7728.wav,25638,i am good
+/data/shared-task/dev/7734.wav,30758,i am a small
+/data/shared-task/dev/7736.wav,45478,it is too expensive
+/data/shared-task/dev/7737.wav,24358,i'm good
+/data/shared-task/dev/7747.wav,40998,i am looking for boots
+/data/shared-task/dev/7752.wav,28838,i am a small
+/data/shared-task/dev/7756.wav,28838,i don't know this
+/data/shared-task/dev/7767.wav,36518,i'm from scotland
+/data/shared-task/dev/7778.wav,55078,no i do not have a reservation
+/data/shared-task/dev/7783.wav,53158,i want pay with post card
+/data/shared-task/dev/7788.wav,59558,i would like a room for three nights
+/data/shared-task/dev/7794.wav,46758,my room is dirty
+/data/shared-task/dev/7795.wav,62118,in the room there isn't a hairdryer
+/data/shared-task/dev/7798.wav,36518,where can i buy a hairdryer
+/data/shared-task/dev/7803.wav,40998,is there a hairdresser
+/data/shared-task/dev/7804.wav,40998,where is the hairdresser
+/data/shared-task/dev/7808.wav,74278,i would like a room for four nights
+/data/shared-task/dev/7812.wav,43558,is there a greengrocers
+/data/shared-task/dev/7819.wav,70438,i have not a reservation
+/data/shared-task/dev/7823.wav,58278,i would like a room for three nights
+/data/shared-task/dev/7825.wav,44838,i would like pay by card
+/data/shared-task/dev/7826.wav,60838,i would like pay by mastercard
+/data/shared-task/dev/7827.wav,35878,is there a lift
+/data/shared-task/dev/7831.wav,60198,i have not reservation
+/data/shared-task/dev/7832.wav,65318,i have not a reservation
+/data/shared-task/dev/7834.wav,65318,i have not reservation
+/data/shared-task/dev/7841.wav,66598,i would like tickets for madame tussauds
+/data/shared-task/dev/7842.wav,42918,i would like four tickets
+/data/shared-task/dev/7844.wav,80038,i would like one ticket for tuesday evening
+/data/shared-task/dev/7845.wav,88998,i would like one ticket for the phantom der oper
+/data/shared-task/dev/7848.wav,67238,i would like tickets for the national gallery
+/data/shared-task/dev/7852.wav,62758,i would like go on monday evening
+/data/shared-task/dev/7857.wav,56998,i would like to sit in the second row
+/data/shared-task/dev/7859.wav,87718,i would like ticket for the national gallery
+/data/shared-task/dev/7861.wav,56998,i would like three tickets to london
+/data/shared-task/dev/7866.wav,91558,i would like leave tomorrow on seven o'clock
+/data/shared-task/dev/7867.wav,37158,my name is andy
+/data/shared-task/dev/7869.wav,58918,i would like six tickets to london
+/data/shared-task/dev/7870.wav,49318,i would like leave next week
+/data/shared-task/dev/7873.wav,43558,how much does it cost
+/data/shared-task/dev/7878.wav,44838,i'm from switzerland
+/data/shared-task/dev/7889.wav,37158,my name is patrick
+/data/shared-task/dev/7908.wav,33318,my name is stephanie
+/data/shared-task/dev/7914.wav,42278,i would like a goulash soup
+/data/shared-task/dev/7917.wav,44198,i would like the custard tart
+/data/shared-task/dev/7921.wav,61478,i would like pay with mastercard
+/data/shared-task/dev/7924.wav,42918,i would like the sunday roast
+/data/shared-task/dev/7926.wav,53158,i would like a mixed salad
+/data/shared-task/dev/7939.wav,40358,i would like the check
+/data/shared-task/dev/7944.wav,71718,i would like the sunday roast
+/data/shared-task/dev/7961.wav,87718,i would like the custard tart
+/data/shared-task/dev/7971.wav,67238,i would like my sunday roast rare
+/data/shared-task/dev/7980.wav,49318,i would like the sunday roast
+/data/shared-task/dev/7992.wav,66598,i would like a sunday roast
+/data/shared-task/dev/7999.wav,35878,i would like a coffee
+/data/shared-task/dev/8004.wav,38438,this is not what i ordered
+/data/shared-task/dev/8012.wav,44838,i would like the check
+/data/shared-task/dev/8013.wav,64678,i would like pay with master card
+/data/shared-task/dev/8020.wav,39078,where is the tate modern
+/data/shared-task/dev/8021.wav,49318,where is oxford street
+/data/shared-task/dev/8022.wav,30758,which bus goes there
+/data/shared-task/dev/8030.wav,49958,the tower is near tower bridge
+/data/shared-task/dev/8035.wav,80038,marble arch is vis à vis to hyde park
+/data/shared-task/dev/8036.wav,82598,marble arch is goes back to hyde park
+/data/shared-task/dev/8040.wav,61478,where is the tower
+/data/shared-task/dev/8042.wav,40358,where is the zoo
+/data/shared-task/dev/8043.wav,44838,where is the tower
+/data/shared-task/dev/8044.wav,64678,where is the tower
+/data/shared-task/dev/8052.wav,34598,i don't know
+/data/shared-task/dev/8053.wav,33318,i would like go
+/data/shared-task/dev/8059.wav,40358,forty two please
+/data/shared-task/dev/8060.wav,39718,i am a forty-two
+/data/shared-task/dev/8065.wav,38438,i need four tickets
+/data/shared-task/dev/8069.wav,52518,i need tickets for these musical
+/data/shared-task/dev/8094.wav,41638,a single room please
+/data/shared-task/dev/8097.wav,69158,is there a hotel restaurant
+/data/shared-task/dev/8099.wav,44838,the bathroom is dirty
+/data/shared-task/dev/8103.wav,30118,i'm good
+/data/shared-task/dev/8113.wav,51878,i would like a tee shirt
+/data/shared-task/dev/8115.wav,35878,i need a small
+/data/shared-task/dev/8117.wav,59558,this is too expensive
+/data/shared-task/dev/8120.wav,85158,i would like red sandals
+/data/shared-task/dev/8121.wav,55718,i need thirty seven
+/data/shared-task/dev/8123.wav,58918,i am a thirty seven
+/data/shared-task/dev/8124.wav,44198,i would like tee shirt
+/data/shared-task/dev/8129.wav,67878,i do not want this t-shirt
+/data/shared-task/dev/8138.wav,55718,can i have mashed potato
+/data/shared-task/dev/8149.wav,52518,i need a hotel room for seven nights
+/data/shared-task/dev/8173.wav,83238,i want to leave at eight o'clock tomorrow
+/data/shared-task/dev/8175.wav,66598,i'm from ireland wazza
+/data/shared-task/dev/8180.wav,62758,no i do not have a reservation
+/data/shared-task/dev/8187.wav,58278,where is the hairdryer
+/data/shared-task/dev/8195.wav,63398,i want to leave at thursday afternoon
+/data/shared-task/dev/8199.wav,48038,could i have a double room
+/data/shared-task/dev/8200.wav,52518,could i have a double room
+/data/shared-task/dev/8204.wav,64038,could i have a room for three nights
+/data/shared-task/dev/8223.wav,41638,can i pay with swiss francs
+/data/shared-task/dev/8230.wav,55718,i would like to pay with the post card
+/data/shared-task/dev/8235.wav,40998,how much does it cost
+/data/shared-task/dev/8239.wav,39718,my name is michelle
+/data/shared-task/dev/8249.wav,44198,could i pay with the credit card
+/data/shared-task/dev/8252.wav,99878,could i have a ticket for wednesday evening
+/data/shared-task/dev/8254.wav,52518,i would like a ticket for billy elliot
+/data/shared-task/dev/8257.wav,58278,could i have tickets for the national gallery
+/data/shared-task/dev/8260.wav,46758,i would like an orange juice
+/data/shared-task/dev/8267.wav,40358,i would like the check
+/data/shared-task/dev/8268.wav,46758,i would like to pay with the credit card
+/data/shared-task/dev/8270.wav,55718,where is the piccadilly circus
+/data/shared-task/dev/8277.wav,68518,could i have blue boots
+/data/shared-task/dev/8284.wav,51878,i want one ticket to london
+/data/shared-task/dev/8291.wav,79398,i'm from
+/data/shared-task/dev/8292.wav,42278,i'm from french
+/data/shared-task/dev/8294.wav,44198,i have one sister
+/data/shared-task/dev/8297.wav,48678,i need a ticket to green park
+/data/shared-task/dev/8299.wav,65318,i would like to pay by post card
+/data/shared-task/dev/8302.wav,79398,i would like to buy four musical tickets
+/data/shared-task/dev/8305.wav,55718,i would like to sit in the fourth row
+/data/shared-task/dev/8309.wav,38438,i would like the sunday roast
+/data/shared-task/dev/8310.wav,87718,i would like my sunday roast well done
+/data/shared-task/dev/8317.wav,46758,wo is the london eye
+/data/shared-task/dev/8323.wav,45478,would like some boots
+/data/shared-task/dev/8328.wav,53158,the red shirt
+/data/shared-task/dev/8351.wav,37798,i want a room for one week
+/data/shared-task/dev/8382.wav,32678,do you have a lift
+/data/shared-task/dev/8391.wav,38438,where is the hairdresser
+/data/shared-task/dev/8395.wav,36518,can i pay with visa
+/data/shared-task/dev/8396.wav,44838,can i pay with visa
+/data/shared-task/dev/8398.wav,38438,i would like a single room please
+/data/shared-task/dev/8401.wav,24358,is there a lift
+/data/shared-task/dev/8402.wav,32038,is there a lift
+/data/shared-task/dev/8405.wav,20518,where is the lift
+/data/shared-task/dev/8410.wav,40358,can i see the dessert menu
+/data/shared-task/dev/8417.wav,32678,i would like the day soup
+/data/shared-task/dev/8418.wav,36518,i would like the soup of the day
+/data/shared-task/dev/8431.wav,70438,can i pay with dollars
+/data/shared-task/dev/8445.wav,25638,i'm swiss
+/data/shared-task/dev/8449.wav,75558,i have four sisters
+/data/shared-task/dev/8452.wav,70438,i'm going here for a holiday
+/data/shared-task/dev/8457.wav,31398,my name is erica
+/data/shared-task/dev/8458.wav,35878,i'm from portugal
+/data/shared-task/dev/8462.wav,62118,the capital of austria is
+/data/shared-task/dev/8463.wav,51238,i have four younger brothers
+/data/shared-task/dev/8474.wav,87718,i want two tickets for wednesday night
+/data/shared-task/dev/8482.wav,65318,i would like my steak medium
+/data/shared-task/dev/8486.wav,58918,i want a goulash soup
+/data/shared-task/dev/8488.wav,81318,could i see the dessert menu
+/data/shared-task/dev/8504.wav,33958,do you have a lift
+/data/shared-task/dev/8509.wav,39078,i am from scotland
+/data/shared-task/dev/8511.wav,45478,a junior suite
+/data/shared-task/dev/8513.wav,49318,is there a hairdresser
+/data/shared-task/dev/8517.wav,41638,i would like a double room
+/data/shared-task/dev/8518.wav,37158,is there a hotel bar
+/data/shared-task/dev/8519.wav,39718,where is the hotel bar
+/data/shared-task/dev/8525.wav,44198,i would like single room
+/data/shared-task/dev/8533.wav,55718,is there a supermarket
+/data/shared-task/dev/8539.wav,37798,is there a swimming pool
+/data/shared-task/dev/8551.wav,46118,is there a lift
+/data/shared-task/dev/8556.wav,67878,i want to leave on tuesday morning
+/data/shared-task/dev/8561.wav,67878,i would like to leave at one p m tomorrow
+/data/shared-task/dev/8562.wav,72358,i would like to leave tomorrow one p m
+/data/shared-task/dev/8563.wav,46118,my name is michelle
+/data/shared-task/dev/8580.wav,42918,is there a lift
+/data/shared-task/dev/8583.wav,69158,i would like tickets for the british museum
+/data/shared-task/dev/8584.wav,56998,i would like one ticket ticket
+/data/shared-task/dev/8590.wav,46118,is there a grocery store
+/data/shared-task/dev/8591.wav,57638,my name is andy
+/data/shared-task/dev/8592.wav,48678,i came from spain
+/data/shared-task/dev/8593.wav,55078,the capture of my country is madrid
+/data/shared-task/dev/8598.wav,45478,this is my passport
+/data/shared-task/dev/8616.wav,55078,are there a gymnastics studio
+/data/shared-task/dev/8620.wav,32038,is there a lift
+/data/shared-task/dev/8626.wav,41638,i going on holidays
+/data/shared-task/dev/8627.wav,33958,this is my pass
+/data/shared-task/dev/8652.wav,59558,i would like my hamburger medium
+/data/shared-task/dev/8655.wav,54438,i would like some chips
+/data/shared-task/dev/8658.wav,76838,can i have uh the bill please
+/data/shared-task/dev/8679.wav,65958,i want to sit in the seven row
+/data/shared-task/dev/8682.wav,51238,i need two tickets
+/data/shared-task/dev/8683.wav,62118,i would like a room for five nights
+/data/shared-task/dev/8687.wav,58918,i want to pay with credit card
+/data/shared-task/dev/8688.wav,90918,i want to pay with
+/data/shared-task/dev/8695.wav,36518,my name is mona
+/data/shared-task/dev/8707.wav,40998,double room
+/data/shared-task/dev/8710.wav,63398,i want to pay with credit card
+/data/shared-task/dev/8728.wav,87718,i want three musical tickets
+/data/shared-task/dev/8750.wav,56358,i want to pay with credit card
+/data/shared-task/dev/8765.wav,40358,i want the steak
+/data/shared-task/dev/8775.wav,46118,i want to pay with post cards
+/data/shared-task/dev/8781.wav,30758,forty two
+/data/shared-task/dev/8785.wav,43558,i want a pink tee shirt
+/data/shared-task/dev/8793.wav,48038,i do not want that tee shirt
+/data/shared-task/dev/8796.wav,54438,i want pay with credit card
+/data/shared-task/dev/8798.wav,48678,i would like a tee shirt
+/data/shared-task/dev/8811.wav,63398,i would like to pay by master card
+/data/shared-task/dev/8818.wav,39078,it's too too small
+/data/shared-task/dev/8819.wav,44838,i don't want this tee shirt
+/data/shared-task/dev/8840.wav,57638,i want to pay with post cards
+/data/shared-task/dev/8843.wav,40998,where is the swimming pool
+/data/shared-task/dev/8847.wav,46118,which bus drives this way
+/data/shared-task/dev/8849.wav,67238,the tower is near the tower bridge
+/data/shared-task/dev/8850.wav,42918,i am fine
+/data/shared-task/dev/8852.wav,46758,i want white boots
+/data/shared-task/dev/8854.wav,48678,i am a forty one
+/data/shared-task/dev/8855.wav,33958,i want a tee shirt
+/data/shared-task/dev/8864.wav,38438,i am fine
+/data/shared-task/dev/8879.wav,81318,i want pay with card
+/data/shared-task/dev/8885.wav,44838,um a twin
+/data/shared-task/dev/8897.wav,70438,i want to leave on saturday morning
+/data/shared-task/dev/8899.wav,45478,i am from turkey
+/data/shared-task/dev/8903.wav,35238,a room for a people
+/data/shared-task/dev/8908.wav,42278,where is the hotel restaurant
+/data/shared-task/dev/8914.wav,49958,i from scotland
+/data/shared-task/dev/8917.wav,145318,want to leave at tuesday evening
+/data/shared-task/dev/8924.wav,39718,thirty eight
+/data/shared-task/dev/8932.wav,62758,how many there is it
+/data/shared-task/dev/8934.wav,40998,shirt is too expensive
+/data/shared-task/dev/8937.wav,63398,i want a twin room
+/data/shared-task/dev/8951.wav,59558,i want a room for six nights
+/data/shared-task/dev/8952.wav,39718,i want a single room
+/data/shared-task/dev/8956.wav,49318,is there an hotel bar
+/data/shared-task/dev/8968.wav,97318,i want one ticket to piccadilly circus
+/data/shared-task/dev/8969.wav,72358,i want to pay with master card
+/data/shared-task/dev/8978.wav,37798,the capital of france is paris
+/data/shared-task/dev/8982.wav,69798,i am on holidays
+/data/shared-task/dev/8987.wav,146598,i want a ticket for some sunday evening
+/data/shared-task/dev/8988.wav,35878,i do not have a reservation
+/data/shared-task/dev/8990.wav,80038,i do i do not have a reservation
+/data/shared-task/dev/9003.wav,26278,can i pay with dollars
+/data/shared-task/dev/9004.wav,27558,my name is paola
+/data/shared-task/dev/9024.wav,55718,i would like the steak well done
+/data/shared-task/dev/9025.wav,39078,could i have some aubergines
+/data/shared-task/dev/9026.wav,35238,i would like the dessert menu
+/data/shared-task/dev/9031.wav,53158,i want to pay with credit card
+/data/shared-task/dev/9034.wav,52518,i want to go at monday evening
+/data/shared-task/dev/9043.wav,46118,where is the piccadilly circus
+/data/shared-task/dev/9045.wav,56358,saint pauls cathedral is near the bank of england
+/data/shared-task/dev/9050.wav,32038,i would like a sweatshirt
+/data/shared-task/dev/9055.wav,44198,it is too expensive
+/data/shared-task/dev/9083.wav,74918,can i have a room for seven nights
+/data/shared-task/dev/9102.wav,69158,i would like to leave tomorrow at six pm
+/data/shared-task/dev/9112.wav,37798,i am from italy
+/data/shared-task/dev/9117.wav,64038,this is my passport
+/data/shared-task/dev/9122.wav,61478,is there a swimming pool
+/data/shared-task/dev/9128.wav,60838,can i pay with pounds
+/data/shared-task/dev/9135.wav,92838,i would like a ticket for the natural history museum
+/data/shared-task/dev/9137.wav,112678,i would like a ticket for the natural history museum
+/data/shared-task/dev/9147.wav,72998,could i see the dessert menu
+/data/shared-task/dev/9149.wav,50598,fuck you bitch
+/data/shared-task/dev/9150.wav,58278,i would like a room for four nights
+/data/shared-task/dev/9153.wav,48038,i would like a suite
+/data/shared-task/dev/9163.wav,51238,i want a room for five nights
+/data/shared-task/dev/9167.wav,36518,can i pay with dollars
+/data/shared-task/dev/9197.wav,80038,can i pay with master card
+/data/shared-task/dev/9199.wav,49318,i want pay with the master card
+/data/shared-task/dev/9203.wav,67238,where is the hairdresser
+/data/shared-task/dev/9205.wav,47398,i want a junior suite
+/data/shared-task/dev/9208.wav,46758,can i pay in dollars
+/data/shared-task/dev/9212.wav,88998,i will pay with mastercard please
+/data/shared-task/dev/9219.wav,76198,and where is the hotel restaurant
+/data/shared-task/dev/9222.wav,51238,a double room please
+/data/shared-task/dev/9224.wav,76838,can i pay with swiss francs please
+/data/shared-task/dev/9233.wav,45478,there is no shampoo in the room
+/data/shared-task/dev/9241.wav,45478,is there a
+/data/shared-task/dev/9243.wav,46758,is there a hairdresser
+/data/shared-task/dev/9246.wav,38438,the room is dirty
+/data/shared-task/dev/9252.wav,60198,can i pay with master card please
+/data/shared-task/dev/9261.wav,43558,is there a super store
+/data/shared-task/dev/9263.wav,48038,where is the super store
+/data/shared-task/dev/9285.wav,58278,three tickets for tomorrow in the evening
+/data/shared-task/dev/9295.wav,38438,i would like the sunday roast
+/data/shared-task/dev/9304.wav,56358,where is the national gallery
+/data/shared-task/dev/9306.wav,44838,which bus drives there
+/data/shared-task/dev/9307.wav,38438,which bus goes there
+/data/shared-task/dev/9314.wav,29478,i would like jeans
+/data/shared-task/dev/9315.wav,43558,i want yellow jeans
+/data/shared-task/dev/9320.wav,48038,i want a room for three nights
+/data/shared-task/dev/9338.wav,47398,i like five tickets to london
+/data/shared-task/dev/9350.wav,51238,i like a twin room
+/data/shared-task/dev/9355.wav,47398,the room isn't clean
+/data/shared-task/dev/9357.wav,72998,do you have a hairdryer
+/data/shared-task/dev/9358.wav,53158,where is the hairdryer
+/data/shared-task/dev/9360.wav,72358,i like a twiss twin room
+/data/shared-task/dev/9377.wav,49318,no i don't have a reservation
+/data/shared-task/dev/9378.wav,51878,i do not have a reservation
+/data/shared-task/dev/9387.wav,51878,i have no reservation
+/data/shared-task/dev/9408.wav,58918,i like to pay with mastercard
+/data/shared-task/dev/9409.wav,65318,do the hotel have a lift
+/data/shared-task/dev/9416.wav,49958,can i pay with swiss francs
+/data/shared-task/dev/9418.wav,53798,where is the gym
+/data/shared-task/dev/9425.wav,39718,can i pay with visa
+/data/shared-task/dev/9435.wav,40998,i would like a double room
+/data/shared-task/dev/9441.wav,39718,where is the hairdryer
+/data/shared-task/dev/9457.wav,46118,i want a tea please
+/data/shared-task/dev/9461.wav,44838,i would like some beans
+/data/shared-task/dev/9462.wav,45478,can i have the dessert card
+/data/shared-task/dev/9469.wav,52518,i don't have a reservation
+/data/shared-task/dev/9473.wav,48678,i would like to leave at monday
+/data/shared-task/dev/9475.wav,39078,i come from austria
+/data/shared-task/dev/9476.wav,64038,where is the natural history museum
+/data/shared-task/dev/9478.wav,39078,which bus goes there
+/data/shared-task/dev/9480.wav,33958,my name is john
+/data/shared-task/dev/9481.wav,33958,i'm from portugal
+/data/shared-task/dev/9485.wav,48678,yes yes it's my passport
+/data/shared-task/dev/9491.wav,46118,i would like four tickets to london
+/data/shared-task/dev/9496.wav,47398,i would like two tickets to london
+/data/shared-task/dev/9500.wav,64038,i would like a room for four nights
+/data/shared-task/dev/9502.wav,42918,can i pay by mastercard
+/data/shared-task/dev/9503.wav,30758,is there a gym
+/data/shared-task/dev/9504.wav,32678,where is the gym
+/data/shared-task/dev/9515.wav,47398,i would like a room for one week
+/data/shared-task/dev/9519.wav,41638,can i pay by visa
+/data/shared-task/dev/9521.wav,38438,is there a grocery store
+/data/shared-task/dev/9524.wav,35238,where is a hairdryer
+/data/shared-task/dev/9528.wav,58278,i would like two tickets for starlight express
+/data/shared-task/dev/9529.wav,40358,i would like to sit in the middle
+/data/shared-task/dev/9530.wav,56358,i would like tickets for the natural history museum
+/data/shared-task/dev/9532.wav,40358,i would like four tickets
+/data/shared-task/dev/9533.wav,56998,no i don't have a reservation
+/data/shared-task/dev/9534.wav,39718,i want a room for four nights
+/data/shared-task/dev/9539.wav,30758,can i pay with visa
+/data/shared-task/dev/9544.wav,293798,i would like i no no no no no no no no a room for five nights
+/data/shared-task/dev/9550.wav,31398,i would like three tickets
+/data/shared-task/dev/9557.wav,68518,i would like to leave on friday evening
+/data/shared-task/dev/9562.wav,66598,i would like to leave on tuesday morning
+/data/shared-task/dev/9566.wav,42278,i would like two tickets to london
+/data/shared-task/dev/9568.wav,35878,my name is john
+/data/shared-task/dev/9584.wav,55718,i would like to pay by post card
+/data/shared-task/dev/9592.wav,39078,where is the big ben
+/data/shared-task/dev/9604.wav,50598,which bus goes there
+/data/shared-task/dev/9620.wav,44198,where is the tower
+/data/shared-task/dev/9628.wav,44838,can i have two tickets
+/data/shared-task/dev/9637.wav,51878,i want four tickets for saturday night
+/data/shared-task/dev/9641.wav,45478,can i have tickets for the london eye
+/data/shared-task/dev/9646.wav,51878,i want three tickets for billy elliot
+/data/shared-task/dev/9648.wav,69798,i would like tickets for the british museum
+/data/shared-task/dev/9662.wav,66598,i want four tickets for billy elliot
+/data/shared-task/dev/9674.wav,44198,i need three tickets
+/data/shared-task/dev/9679.wav,50598,i would like to sit in the fourth row
+/data/shared-task/dev/9682.wav,59558,i would like four musical tickets
+/data/shared-task/dev/9684.wav,72358,i want four tickets for the king of the lions
+/data/shared-task/dev/9697.wav,28838,i want a red tee shirt
+/data/shared-task/dev/9701.wav,33958,i want this
+/data/shared-task/dev/9702.wav,28198,no i don't want it
+/data/shared-task/dev/9703.wav,43558,where is the hairdresser
+/data/shared-task/dev/9705.wav,46758,i would like to leave on saturday morning
+/data/shared-task/dev/9710.wav,63398,i would like to leave at saturday evening
+/data/shared-task/dev/9717.wav,33958,my name is silvia
+/data/shared-task/dev/9719.wav,29478,my name is nick
+/data/shared-task/dev/9723.wav,37158,can i play with swiss francs
+/data/shared-task/dev/9725.wav,27558,i'm fine
+/data/shared-task/dev/9728.wav,26918,thirty six
+/data/shared-task/dev/9737.wav,40358,i would like to have a coffee
+/data/shared-task/dev/9743.wav,35238,the dessert menu please
+/data/shared-task/dev/9744.wav,47398,could i have the vanilla ice cream
+/data/shared-task/dev/9746.wav,42918,i would like to pay with visa
+/data/shared-task/dev/9751.wav,22438,i'm good
+/data/shared-task/dev/9756.wav,40358,brown jeans please
+/data/shared-task/dev/9758.wav,52518,how much does the jeans cost
+/data/shared-task/dev/9760.wav,69798,no thank you the jeans is too expensive
+/data/shared-task/dev/9768.wav,58918,can i pay with swiss francs
+/data/shared-task/dev/9772.wav,51238,i would like to pay with mastercard
+/data/shared-task/dev/9778.wav,52518,i have only large notes
+/data/shared-task/dev/9780.wav,57638,i would like to pay by credit card
+/data/shared-task/dev/9782.wav,58918,i would like to have a ticket to notting hill
+/data/shared-task/dev/9803.wav,40358,i would like a double room
+/data/shared-task/dev/9808.wav,36518,where's the swimming pool
+/data/shared-task/dev/9819.wav,40358,where is the london eye
+/data/shared-task/dev/9820.wav,38438,which bus goes there
+/data/shared-task/dev/9832.wav,33958,where's the pool
+/data/shared-task/dev/9836.wav,50598,a room for one week
+/data/shared-task/dev/9840.wav,29478,where's the lift
+/data/shared-task/dev/9843.wav,27558,a suite
+/data/shared-task/dev/9845.wav,48678,is there a hotel bar
+/data/shared-task/dev/9848.wav,62118,in the room it hasn't a hairdryer
+/data/shared-task/dev/9850.wav,52518,the room has not a hairdryer
+/data/shared-task/dev/9862.wav,39078,i don't have a reservation
+/data/shared-task/dev/9880.wav,44838,germany is not in africa
+/data/shared-task/dev/9882.wav,26278,that's okay
+/data/shared-task/dev/9889.wav,42278,this is my passport
+/data/shared-task/dev/9891.wav,42918,i don't have a reservation
+/data/shared-task/dev/9908.wav,46758,where can i buy a hairdryer
+/data/shared-task/dev/9909.wav,36518,a room for four nights
+/data/shared-task/dev/9914.wav,39718,the toilet is dirty
+/data/shared-task/dev/9916.wav,46758,where can i buy a hairdryer
+/data/shared-task/dev/9918.wav,23078,double room
+/data/shared-task/dev/9919.wav,28198,a double room
+/data/shared-task/dev/9923.wav,39078,do you have a fitness room
+/data/shared-task/dev/9927.wav,54438,i would like to buy with the credit card
+/data/shared-task/dev/9932.wav,52518,where is the hotel bar
+/data/shared-task/dev/9935.wav,51238,my room don't have shampoo
+/data/shared-task/dev/9937.wav,29478,i am good
+/data/shared-task/dev/9948.wav,16678,far
+/data/shared-task/dev/9952.wav,55718,i don't want this shirt
+/data/shared-task/dev/9954.wav,33958,i want this
+/data/shared-task/dev/9957.wav,53798,i would like a water with carbonated
+/data/shared-task/dev/9964.wav,51878,i would like the custard tart
+/data/shared-task/dev/9966.wav,35238,i would like the bill
+/data/shared-task/dev/9977.wav,56358,no i don't have a reservation
+/data/shared-task/dev/9987.wav,57638,no i don't have a reservation
+/data/shared-task/dev/9993.wav,41638,do you have a
+/data/shared-task/dev/10008.wav,52518,where is the hotel bar
+/data/shared-task/dev/10028.wav,68518,do you have a twin room
+/data/shared-task/dev/10029.wav,40358,a twin room please
+/data/shared-task/dev/10037.wav,71078,where is the oxford street
+/data/shared-task/dev/10061.wav,58918,do you have a ticket for friday evening
+/data/shared-task/dev/10063.wav,64038,do you have a ticket for friday evening
+/data/shared-task/dev/10070.wav,52518,do you have a room for five nights
+/data/shared-task/dev/10076.wav,73638,do you have four tickets for the musical
+/data/shared-task/dev/10077.wav,48678,have four tickets for the musical
+/data/shared-task/dev/10081.wav,68518,i want to sit in the rift in the fifth row
+/data/shared-task/dev/10089.wav,51238,do you have three tickets for wicked
+/data/shared-task/dev/10115.wav,36518,is there an elevator
+/data/shared-task/dev/10125.wav,49318,a room for six nights
+/data/shared-task/dev/10136.wav,60838,a room for six nights
+/data/shared-task/dev/10143.wav,48038,where is the elevator
+/data/shared-task/dev/10145.wav,65318,it it doesn't have a euh
+/data/shared-task/dev/10151.wav,49958,i am from turkey
+/data/shared-task/dev/10154.wav,50598,my name is john
+/data/shared-task/dev/10160.wav,51878,a ticket to green park
+/data/shared-task/dev/10164.wav,60838,i'd like to pay with euros
+/data/shared-task/dev/10173.wav,55718,i'd like to pay with euros
+/data/shared-task/dev/10174.wav,58918,i would like to pay with euros
+/data/shared-task/dev/10184.wav,71718,three tickets for starlight express
+/data/shared-task/dev/10186.wav,64038,i'd like to sit in the first row
+/data/shared-task/dev/10187.wav,64678,i'd like to sit in the fourth row
+/data/shared-task/dev/10191.wav,59558,one musical ticket
+/data/shared-task/dev/10203.wav,54438,two tickets for wicked
+/data/shared-task/dev/10204.wav,53158,i want two tickets for wicked
+/data/shared-task/dev/10208.wav,51238,i want four tickets
+/data/shared-task/dev/10209.wav,76838,i want a ticket to the green park
+/data/shared-task/dev/10210.wav,62758,i would like to pay with visa
+/data/shared-task/dev/10211.wav,81318,i want a ticket to the piccadilly circus
+/data/shared-task/dev/10214.wav,56358,i only have large bills
+/data/shared-task/dev/10217.wav,85158,i would like to leave on thursday morning
+/data/shared-task/dev/10225.wav,132518,i would like to leave on saturday
+/data/shared-task/dev/10228.wav,48038,how much does it cost
+/data/shared-task/dev/10231.wav,46118,that is okay
+/data/shared-task/dev/10242.wav,48678,my name is barbara
+/data/shared-task/dev/10247.wav,56358,i come from italy
+/data/shared-task/dev/10253.wav,69158,the capital of italy is rome
+/data/shared-task/dev/10257.wav,42918,this is my passport
+/data/shared-task/dev/10269.wav,55718,i want four tickets to london
+/data/shared-task/dev/10272.wav,49318,i come from france
+/data/shared-task/dev/10277.wav,51238,my name is mona
+/data/shared-task/dev/10280.wav,76838,i would like to leave on tuesday in the afternoon
+/data/shared-task/dev/10282.wav,48038,i come from germany
+/data/shared-task/dev/10283.wav,64038,i want a room for six nights
+/data/shared-task/dev/10287.wav,35238,is there a gym
+/data/shared-task/dev/10288.wav,64678,i don't have a reservation
+/data/shared-task/dev/10295.wav,34598,is there a gym
+/data/shared-task/dev/10303.wav,81958,it does not have a hairdryer in the room
+/data/shared-task/dev/10304.wav,60838,i would like a room for two nights
+/data/shared-task/dev/10306.wav,65958,i would like to pay with visa
+/data/shared-task/dev/10314.wav,55078,i want a room for four nights
+/data/shared-task/dev/10317.wav,49958,i want to pay by mastercard
+/data/shared-task/dev/10325.wav,32678,this is okay
+/data/shared-task/dev/10338.wav,59558,can i have mashed potato
+/data/shared-task/dev/10340.wav,48678,the desert menu please
+/data/shared-task/dev/10341.wav,62118,i would like the custard tart
+/data/shared-task/dev/10348.wav,34598,i would like a tea
+/data/shared-task/dev/10349.wav,51878,i would like the steak please
+/data/shared-task/dev/10352.wav,47398,can i have the desert menu
+/data/shared-task/dev/10354.wav,59558,i want the chocolate ice
+/data/shared-task/dev/10361.wav,32038,thirty-eight
+/data/shared-task/dev/10376.wav,43558,i would like a coke
+/data/shared-task/dev/10385.wav,64678,i want to pay by visa card
+/data/shared-task/dev/10393.wav,35878,where is the so
+/data/shared-task/dev/10398.wav,30758,i don't know
+/data/shared-task/dev/10410.wav,45478,can i have one ticket
+/data/shared-task/dev/10419.wav,34598,it is too large
+/data/shared-task/dev/10448.wav,46118,yes it is my passport
+/data/shared-task/dev/10453.wav,62118,i want to go at friday night
+/data/shared-task/dev/10467.wav,40358,where is the tate modern
+/data/shared-task/dev/10477.wav,54438,where is the supermarket
+/data/shared-task/dev/10479.wav,51878,i do not have any reservation
+/data/shared-task/dev/10483.wav,55078,a room for three nights
+/data/shared-task/dev/10487.wav,27558,single room
+/data/shared-task/dev/10495.wav,51238,where is a hairdryer
+/data/shared-task/dev/10497.wav,56358,a room for six nights
+/data/shared-task/dev/10507.wav,49318,where is the hairdresser
+/data/shared-task/dev/10521.wav,87078,i would like to leave at thursday afternoon
+/data/shared-task/dev/10529.wav,41638,i am from turkey
+/data/shared-task/dev/10533.wav,74918,i want to leave at sunday afternoon
+/data/shared-task/dev/10534.wav,69158,i want to leave at sunday afternoon
+/data/shared-task/dev/10536.wav,39078,my name is nick
+/data/shared-task/dev/10544.wav,55718,i'm looking for a t-shirt
+/data/shared-task/dev/10549.wav,40358,where is the big bean
+/data/shared-task/dev/10551.wav,94118,saint pauls cathedral is in near of the bank england
+/data/shared-task/dev/10554.wav,75558,i'm looking for the natural history museum
+/data/shared-task/dev/10556.wav,45478,which bus goes there
+/data/shared-task/dev/10559.wav,88358,it's near the bank of england
+/data/shared-task/dev/10564.wav,69798,i would like the steak cooked medium
+/data/shared-task/dev/10567.wav,37798,i would like some peas
+/data/shared-task/dev/10597.wav,19238,my name is nick
+/data/shared-task/dev/10603.wav,35238,i am from turkey
+/data/shared-task/dev/10604.wav,43558,turkey isn't in africa
+/data/shared-task/dev/10610.wav,56358,the capital of turkey is ankara
+/data/shared-task/dev/10611.wav,44198,i've got four elder brothers
+/data/shared-task/dev/10612.wav,42918,i am going for holidays
+/data/shared-task/dev/10618.wav,48038,i am going for holidays
+/data/shared-task/dev/10624.wav,37798,i would like the sunday roast
+/data/shared-task/dev/10625.wav,44838,i like the sunday
+/data/shared-task/dev/10629.wav,60198,i'd like some mushrooms please
+/data/shared-task/dev/10631.wav,48678,this is not my ordered food
+/data/shared-task/dev/10638.wav,44198,i'd like my steak well done
+/data/shared-task/dev/10642.wav,54438,yes i'd like a cake
+/data/shared-task/dev/10656.wav,46758,that isn't my ordered food
+/data/shared-task/dev/10657.wav,56998,yes i'd like a water with
+/data/shared-task/dev/10663.wav,36518,i want some potato stoke
+/data/shared-task/dev/10666.wav,50598,i'd like to speak with the manager
+/data/shared-task/dev/10669.wav,46118,i want the desert menu
+/data/shared-task/dev/10674.wav,64678,i want to pay by master card
+/data/shared-task/dev/10677.wav,45478,room for three nights please
+/data/shared-task/dev/10678.wav,26918,single room
+/data/shared-task/dev/10679.wav,23078,single room
+/data/shared-task/dev/10684.wav,46118,is there any supermarket
+/data/shared-task/dev/10688.wav,77478,i want to leave at thursday
+/data/shared-task/dev/10694.wav,38438,i want to leave at thursday night
+/data/shared-task/dev/10696.wav,41638,i'm from spain
+/data/shared-task/dev/10705.wav,31398,i am from austria
+/data/shared-task/dev/10706.wav,35878,austria isn't in africa
+/data/shared-task/dev/10708.wav,37798,that's okay
+/data/shared-task/dev/10711.wav,42278,i am going for holidays
+/data/shared-task/dev/10715.wav,62118,i'd like a ticket for the piccadilly circus
+/data/shared-task/dev/10717.wav,55078,i'd like to pay by credit card
+/data/shared-task/dev/10728.wav,40998,two musical tickets please
+/data/shared-task/dev/10731.wav,60838,two tickets for king the lion
+/data/shared-task/dev/10733.wav,51878,i want two tickets for the lion king
+/data/shared-task/dev/10746.wav,64038,i'd like my sunday roast well cooked
+/data/shared-task/dev/10748.wav,14758,i would
+/data/shared-task/dev/10749.wav,35238,i want the desert card please
+/data/shared-task/dev/10753.wav,36518,i'd like a lemon cake
+/data/shared-task/dev/10754.wav,32038,i want the bill
+/data/shared-task/dev/10757.wav,37158,where is the zoo
+/data/shared-task/dev/10761.wav,39718,which bus goes there nigger
+/data/shared-task/dev/10770.wav,49318,i want to pay with dollars
+/data/shared-task/dev/10774.wav,41638,where is the grocery store
+/data/shared-task/dev/10777.wav,56358,i wish to pay with by mastercard
+/data/shared-task/dev/10784.wav,32038,i am from italy
+/data/shared-task/dev/10795.wav,47398,i am going for holidays
+/data/shared-task/dev/10796.wav,38438,this is my passport
+/data/shared-task/dev/10801.wav,30758,i am from england
+/data/shared-task/dev/10805.wav,43558,i wish to pay by mastercard
+/data/shared-task/dev/10808.wav,43558,four tickets for mamma mia
+/data/shared-task/dev/10813.wav,35878,four tickets please
+/data/shared-task/dev/10821.wav,67878,a ticket of the phantom of the opera
+/data/shared-task/dev/10828.wav,51878,i'd like one ticket for the musical
+/data/shared-task/dev/10847.wav,37798,where is the big bean
+/data/shared-task/dev/10853.wav,28198,where is the tower
+/data/shared-task/dev/10860.wav,72358,big bean is next of the houses of parliament
+/data/shared-task/dev/10864.wav,30118,i want a steak
+/data/shared-task/dev/10875.wav,40998,i'd like an orange juice
+/data/shared-task/dev/10882.wav,44198,i want the vanilla ice cream
+/data/shared-task/dev/10892.wav,38438,i'd like the trifle
+/data/shared-task/dev/10894.wav,54438,i wish to pay by credit card
+/data/shared-task/dev/10903.wav,42918,reduction is acceptable
+/data/shared-task/dev/10912.wav,47398,i want to pay by post card
+/data/shared-task/dev/10919.wav,42278,i'd like two tickets to london
+/data/shared-task/dev/10920.wav,38438,i want to leave on monday
+/data/shared-task/dev/10927.wav,34598,my name is janet
+/data/shared-task/dev/10930.wav,48678,i want to leave at friday night
+/data/shared-task/dev/10931.wav,46758,i want to leave friday night
+/data/shared-task/dev/10932.wav,55078,i want to leave at friday night
+/data/shared-task/dev/10935.wav,30758,i am fine
+/data/shared-task/dev/10936.wav,43558,i'm looking for sandals
+/data/shared-task/dev/10938.wav,30758,forty-one
+/data/shared-task/dev/10940.wav,35878,i'd like some jeans
+/data/shared-task/dev/10947.wav,40358,i don't want these jeans
+/data/shared-task/dev/10948.wav,54438,i don't want those jeans
+/data/shared-task/dev/10951.wav,37158,i would not buy this motherfucker
+/data/shared-task/dev/10962.wav,56998,no i have no reservation
+/data/shared-task/dev/10970.wav,43558,i'd like six tickets to london
+/data/shared-task/dev/10972.wav,35878,my name is paolo
+/data/shared-task/dev/10973.wav,24358,my
+/data/shared-task/dev/10974.wav,39078,my name is paolo
+/data/shared-task/dev/10989.wav,37798,i am from portugal
+/data/shared-task/dev/10991.wav,48678,i want to leave friday morning
+/data/shared-task/dev/10993.wav,33318,my name is jack
+/data/shared-task/dev/10994.wav,56998,my name is jack
+/data/shared-task/dev/10995.wav,43558,my name is jack
+/data/shared-task/dev/10996.wav,41638,i am from canada
+/data/shared-task/dev/11004.wav,39078,i'm from scotland
+/data/shared-task/dev/11006.wav,38438,my name is andy
+/data/shared-task/dev/11013.wav,35238,i'd like a tea
+/data/shared-task/dev/11016.wav,69158,i want my steak rare cooked
+/data/shared-task/dev/11032.wav,42918,i wish to pay by visa card
+/data/shared-task/dev/11048.wav,49958,i want to go at saturday night
+/data/shared-task/dev/11052.wav,52518,i'd like tickets for the london eye
+/data/shared-task/dev/11058.wav,42278,i'd like a fanta
+/data/shared-task/dev/11060.wav,56358,i'd like a fanta
+/data/shared-task/dev/11062.wav,58278,can i have a room for one week
+/data/shared-task/dev/11068.wav,60198,i'd like a room for five nights
+/data/shared-task/dev/11069.wav,51878,i'd like a junior suite
+/data/shared-task/dev/11076.wav,60198,i want to leave at three pm tomorrow
+/data/shared-task/dev/11082.wav,34598,my name is jack
+/data/shared-task/dev/11086.wav,60838,i am from portugal
+/data/shared-task/dev/11093.wav,38438,this is my passport
+/data/shared-task/dev/11102.wav,51238,i have smaller notes
+/data/shared-task/dev/11106.wav,34598,i'd like to buy with
+/data/shared-task/dev/11124.wav,38438,i'm from portugal
+/data/shared-task/dev/11131.wav,49318,yes it is my passport
+/data/shared-task/dev/11143.wav,40358,i'm from austria
+/data/shared-task/dev/11150.wav,52518,yes it is my passport
+/data/shared-task/dev/11173.wav,24358,it is okay
+/data/shared-task/dev/11174.wav,61478,the capital of italian is rome
+/data/shared-task/dev/11178.wav,66598,i'd like a ticket to notting hill
+/data/shared-task/dev/11192.wav,45478,i'd like my hamburger medium
+/data/shared-task/dev/11193.wav,40998,i'd like bones
+/data/shared-task/dev/11199.wav,48678,where is the oxford street
+/data/shared-task/dev/11206.wav,29478,i'd like jeans
+/data/shared-task/dev/11209.wav,24358,small
+/data/shared-task/dev/11213.wav,44198,i don't have a reservation
+/data/shared-task/dev/11214.wav,69798,i haven't got a reservation
+/data/shared-task/dev/11227.wav,64038,i would like to leave at friday night
+/data/shared-task/dev/11231.wav,63398,i'd like a room for two nights
+/data/shared-task/dev/11232.wav,32678,a suite
+/data/shared-task/dev/11235.wav,31398,my name is paolo
+/data/shared-task/dev/11237.wav,33318,i am from portugal
+/data/shared-task/dev/11247.wav,69158,i have got only great note
+/data/shared-task/dev/11253.wav,60198,i'd like four tickets for starlight express
+/data/shared-task/dev/11254.wav,83878,i like to sit in the fourth row
+/data/shared-task/dev/11255.wav,44838,i'd like tickets for madame tussauds
+/data/shared-task/dev/11268.wav,30118,i am fine
+/data/shared-task/dev/11269.wav,45478,i would like sandals
+/data/shared-task/dev/11284.wav,71718,i'd like to buy with
+/data/shared-task/dev/11285.wav,46118,i'd like to buy with francs
+/data/shared-task/dev/11291.wav,34598,my name is paolo
+/data/shared-task/dev/11294.wav,35238,i'm from switzerland
+/data/shared-task/dev/11297.wav,42918,switzerland is in
+/data/shared-task/dev/11320.wav,39078,i'd like a hamburger
+/data/shared-task/dev/11321.wav,45478,i would like a hamburger
+/data/shared-task/dev/11322.wav,78758,i want my hamburger cooked through
+/data/shared-task/dev/11328.wav,69158,can i have the card of dessert
+/data/shared-task/dev/11337.wav,30758,forty-one
+/data/shared-task/dev/11343.wav,65318,this is too far
+/data/shared-task/dev/11346.wav,60838,i don't want this shirt
+/data/shared-task/dev/11352.wav,45478,can i have a single room
+/data/shared-task/dev/11355.wav,42918,i like two tickets to london
+/data/shared-task/dev/11356.wav,116518,i want to leave tomorrow at four o'clock
+/data/shared-task/dev/11361.wav,33318,my name is brian
+/data/shared-task/dev/11364.wav,49318,i have got three sisters
+/data/shared-task/dev/11366.wav,38438,yes this is my passport
+/data/shared-task/dev/11367.wav,30118,my name is andrew
+/data/shared-task/dev/11390.wav,65318,i want a carbonated water without
+/data/shared-task/dev/11394.wav,53798,i would like the dessert card
+/data/shared-task/dev/11395.wav,52518,can i have the card of desert
+/data/shared-task/dev/11396.wav,47398,i would like the desert card
+/data/shared-task/dev/11403.wav,28198,i'm fine
+/data/shared-task/dev/11406.wav,26918,forty-two
+/data/shared-task/dev/11415.wav,48678,can i have a room for four nights
+/data/shared-task/dev/11419.wav,40998,where is the hotel bar
+/data/shared-task/dev/11420.wav,48038,where is the hotel bar
+/data/shared-task/dev/11440.wav,63398,a ticket for starlight express
+/data/shared-task/dev/11441.wav,56358,can i have a ticket for starlight express
+/data/shared-task/dev/11450.wav,99238,this is not what i ordered
+/data/shared-task/dev/11452.wav,52518,i want to read the order
+/data/shared-task/dev/11453.wav,62118,i want to read the order
+/data/shared-task/dev/11454.wav,51878,i would like the ordered shin
+/data/shared-task/dev/11457.wav,58278,i would like the dessert card
+/data/shared-task/dev/11458.wav,56998,where is the national gallery
+/data/shared-task/dev/11463.wav,35878,i'd like boots
+/data/shared-task/dev/11478.wav,46118,i do not want this
+/data/shared-task/dev/11479.wav,52518,no i don't have a reservation
+/data/shared-task/dev/11492.wav,55718,can i have four tickets to london
+/data/shared-task/dev/11495.wav,33318,my name is janet
+/data/shared-task/dev/11498.wav,33958,i'm from austria
+/data/shared-task/dev/11499.wav,48678,the capital of austria is
+/data/shared-task/dev/11503.wav,93478,i have i want one ticket to trafalgar square
+/data/shared-task/dev/11504.wav,67238,can i have a ticket to trafalgar square
+/data/shared-task/dev/11524.wav,55078,the capital of turkey is ankara
+/data/shared-task/dev/11533.wav,44838,i like to buy with mastercard
+/data/shared-task/dev/11534.wav,50598,i like to buy with mastercard
+/data/shared-task/dev/11555.wav,49958,where is the tate modern
+/data/shared-task/dev/11565.wav,37158,can i have a sweatshirt
+/data/shared-task/dev/11568.wav,44198,how much is this sweatshirt
+/data/shared-task/dev/11573.wav,66598,can i buy with post card
+/data/shared-task/dev/11578.wav,48678,my bathroom is dirty
+/data/shared-task/dev/11579.wav,46758,where is the hairdryer
+/data/shared-task/dev/11581.wav,62758,i want to leave at eight clock tomorrow
+/data/shared-task/dev/11588.wav,37798,germany is in europe
+/data/shared-task/dev/11595.wav,46758,can i have a ticket to green park
+/data/shared-task/dev/11598.wav,40358,i like to buy with post card
+/data/shared-task/dev/11611.wav,47398,where is the oxford street
+/data/shared-task/dev/11613.wav,62758,the tower is in the near of tower bridge
+/data/shared-task/dev/11622.wav,51878,can i have two musical tickets
+/data/shared-task/dev/11624.wav,61478,i would like two tickets for mamma mia
+/data/shared-task/dev/11625.wav,70438,i would like to sit in the fifth row
+/data/shared-task/dev/11639.wav,82598,can i have tickets for the phantom
+/data/shared-task/dev/11643.wav,50598,can i have tickets for madame tussauds
+/data/shared-task/dev/11646.wav,35238,i would like a hamburger
+/data/shared-task/dev/11656.wav,65318,i would like the card of dessert
+/data/shared-task/dev/11660.wav,66598,i would like cooked through my sunday roast
+/data/shared-task/dev/11665.wav,40358,can i have the dessert card
+/data/shared-task/dev/11668.wav,35878,i would like a fanta
+/data/shared-task/dev/11672.wav,44198,i would like the dessert card
