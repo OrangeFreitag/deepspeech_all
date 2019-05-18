@@ -143,7 +143,7 @@ ENV LD_LIBRARY_PATH $LD_LIBRARY_PATH:/usr/local/cuda/extras/CUPTI/lib64:/usr/loc
 WORKDIR /
 
 # Copy DeepSpeech repo contents to container's /DeepSpeech
-RUN echo 'pleeeeeeeeeeeeassse not dasdasdsaddasdw!' && https://github.com/mozilla/DeepSpeech.git
+RUN echo 'pleeeeeeeeeeeeassse not dasdasdsaddasdw!' && git clone https://github.com/mozilla/DeepSpeech.git
 
 WORKDIR /DeepSpeech
 
